@@ -2,11 +2,11 @@
 
 Variables are placeholders used to hold and maintain certain values. If you may not know some of the values that you might want to use within an XMPro Object, such as credentials or passwords, you can use Variables where the real value can be substituted in later.&#x20;
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 It is recommended that you read the article listed below to improve your understanding of Variables.
 
 * [Variable](../concepts/variable.md)
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## Adding a new Variable
 
@@ -77,15 +77,15 @@ To remove multiple variables, follow the steps below:
 
 In addition to creating Local Variables in Data Stream Designer, it is also possible to store the same variable value in System Environment Variables. By default System Environment Variables will be checked first for the value and if the value is not found then the local variable value will be used. &#x20;
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 Please note to save the variables in System Environment using the following syntax:
 
 **xm:**_**YOURVARIABLENAME**_
-{% endhint %}
+<!-- unsupported tag removed -->
 
-{% hint style="warning" %}
+<!-- unsupported tag removed -->
 The name of your Local Variable and Environment Variable should be the same.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](../.gitbook/assets/Environment.png)
 

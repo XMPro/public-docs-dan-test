@@ -33,14 +33,14 @@ Unlike other XMPro applications, the Stream Host installer isn't on the XMPro Do
 
 Choose the platform where you will install the Stream Host:
 
-{% content-ref url="windows-x64.md" %}
+<!-- unsupported tag removed -->
 [windows-x64.md](windows-x64.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="azure-web-job.md" %}
+<!-- unsupported tag removed -->
 [azure-web-job.md](azure-web-job.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="ubuntu-16.04+-x64.md" %}
+<!-- unsupported tag removed -->
 [ubuntu-16.04+-x64.md](ubuntu-16.04+-x64.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->

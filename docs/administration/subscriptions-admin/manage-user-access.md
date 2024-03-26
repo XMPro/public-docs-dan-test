@@ -1,8 +1,8 @@
 # Manage User Access
 
-{% hint style="warning" %}
+<!-- unsupported tag removed -->
 Please note that this section is intended for Administrative users. No other type of user is allowed to manage a Company's Subscriptions.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## **Adding Users to a Subscription**
 
@@ -51,9 +51,9 @@ If you need to edit rights for a user or a user’s role on a product, follow th
 
 ![](<../../.gitbook/assets/image (1379).png>)
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 Advise the user to sign out and back in again for the changes to take effect.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## **Removing Access for a User**
 

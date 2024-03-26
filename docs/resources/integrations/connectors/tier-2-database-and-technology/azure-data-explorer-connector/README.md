@@ -18,9 +18,9 @@ This capability is available when the Connector is configured for time series da
 
 The user must have credentials to an Azure subscription with permission to read Azure Data Explorer instances.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 Azure Data Explorer's Kusto limits the number of records returned to **500,000**, and the overall data size for those records to **64 MB**. Read more about limits on the result set size [here](https://learn.microsoft.com/en-us/azure/data-explorer/kusto/concepts/query-limits#limit-on-result-set-size-result-truncation).
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## Current Version
 

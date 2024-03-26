@@ -14,9 +14,9 @@ description: This section explains each of the properties in the configuration b
 
 This associates the Agent to a specific Collection (default to that of the current Data Stream).
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 Refer to [Collections and Stream Hosts](https://documentation.xmpro.com/collection) to understand more about Collections.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ### Settings Properties
 
@@ -116,9 +116,9 @@ The grid defines the output payload and the values to be published:
 * Item Quality:  The column or attribute of the input payload that contains the (Good/Bad) quality (applies when [Specify Quality](action-agent-configuration.md#specify-quality) is ticked).
 * Item Timestamp:  The column or attribute of the input payload that contains the timestamp that the value changed (applies when [Specify Time Stamp](action-agent-configuration.md#specify-time-stamp) is ticked).
 
-{% hint style="warning" %}
+<!-- unsupported tag removed -->
 Before configuring the Action Agent, please ensure that its input endpoint is connected to a parent Agent which will be sending data to it.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ### Endpoints
 

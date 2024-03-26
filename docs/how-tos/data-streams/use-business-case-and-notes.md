@@ -2,11 +2,11 @@
 
 A Business Case is usually written before a Data Stream is created, and is used to communicate why the users are using that particular Data Stream. They are used to quantify the financial impact, explain why the Data Stream was created and the value that was gained from using it. Business cases allow you to provide descriptions and non-technical explanations that can be communicated to other users in the organization. Notes are another area where you can communicate and record technical information about the Data Stream.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 It is recommended that you read the article listed below to improve your understanding of Business Cases.
 
 * [How to Manage Data Streams](manage-data-streams.md)
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## Adding Notes
 

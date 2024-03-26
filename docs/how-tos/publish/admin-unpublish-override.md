@@ -6,13 +6,13 @@ In App Designer, you can publish or unpublish an App via the Connectors page. In
 
 Admins are able to see all Apps or Data Streams, whereas users can only see the Apps or Data Streams to which they have access. This can be useful for Admins if they need to unpublish an App or Data Stream if they do not have access to it.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 It is recommended that you read the article listed below to improve your understanding of Applications.
 
 * [Application](../../concepts/application/)
 * [Data Stream](../../concepts/data-stream/)
 * [How to Publish](./)
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## Publish or Unpublish an App
 
@@ -26,9 +26,9 @@ To publish or unpublish an App via the Connectors page, follow the steps below:
 4. Select the App.
 5. Select Publish or Unpublish.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 The number of Apps being used will be displayed for each Connector version.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](../../.gitbook/assets/Pivot1.png)
 
@@ -44,9 +44,9 @@ To publish or unpublish an App via the Agents page, follow the steps below:
 4. Select the Data Stream.
 5. Select Publish or Unpublish.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 The number of Data Streams being used will be displayed for each Agent version.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](../../.gitbook/assets/Pivot2.png)
 

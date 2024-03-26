@@ -2,11 +2,11 @@
 
 Stream Hosts are grouped into different Collections, which are created and maintained in Data Stream Designer. A Collection can be defined as a category that contains a set of Stream Hosts that run the same Data Streams. Collections are used to prevent you from having to redeploy a Data Stream to multiple Stream Hosts, devices, and assets. When a Data Stream is published for a Collection, the devices themselves can just subscribe to that Collection.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 It is recommended that you read the article listed below to improve your understanding of Collections.
 
 * [Collection and Stream Host](../../concepts/collection.md)
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## Create a Collection
 

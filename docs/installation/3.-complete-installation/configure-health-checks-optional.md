@@ -12,9 +12,9 @@ description: v4.2.3
 
 The health checks are disabled by default. Once the health checks are turned on, you can opt to view them in the [Health UI](configure-health-checks-optional.md#health-ui) or add the [endpoints](configure-health-checks-optional.md#health-endpoints) to your existing business application health monitoring IT solution.  &#x20;
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 It is also possible to include [third-party endpoints](configure-health-checks-optional.md#adding-third-party-endpoints) - enabling you to monitor all of your health checks in a central location.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## **Health Endpoints**
 
@@ -50,9 +50,9 @@ The following steps describe how to turn on the health check functionality.
 2. Open the App Designer  _appsettings.json_ file.
 3. Set `enableHealthCheck` in the `featureFlags` object to _true_.&#x20;
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 This feature flag turns on both the `/health` and `/health-ui` endpoints.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 <figure><img src="../../.gitbook/assets/Configure Health Check - setup step 1.png" alt=""><figcaption><p>Fig 3: Step 3</p></figcaption></figure>
 
@@ -122,9 +122,9 @@ Repeat the above steps for Data Stream Designer, using these values for step 4:
 
 Third-party endpoints are supported and can be included as part of the health check. These are added in the same place as the XMPro service health checks.&#x20;
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 Only endpoints that do not need additional authorization are currently supported for the health checks.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 1. Open the _appsettings.json_ file.
 2. Add third-party endpoints to the `healthChecks` object.

@@ -16,9 +16,9 @@
 
 ![](<../../.gitbook/assets/image (340).png>)
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 The username and password displayed on the final step of the Subscription Manager deployment.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 &#x20; 5\. Open the Companies page from the left-hand menu
 
@@ -30,9 +30,9 @@ The username and password displayed on the final step of the Subscription Manage
 
 ![](../../.gitbook/assets/Companies2.png)
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 The requested Company has been approved and subscribed to XMPro Subscription Manager. The user you applied with above can now log in.&#x20;
-{% endhint %}
+<!-- unsupported tag removed -->
 
 &#x20; 8\. Press Ok
 
@@ -50,23 +50,23 @@ Next we add subscriptions for Data Stream Designer and App Designer to the new C
 
 &#x20; 3\. Select the Data Stream Designer product
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 The exact name will depend on your installation, in this example, it is "DataStreams".&#x20;
-{% endhint %}
+<!-- unsupported tag removed -->
 
 &#x20; 4\. Click _Request a new License_
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 This sends a request to XMPro for a Data Stream Designer license for this Company.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](<../../.gitbook/assets/image (626).png>)
 
 &#x20; 5\. Change the Product to App Designer and request another license
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 Licenses are given on an individual basis by the [XMPro support team](http://xmpro.com/support/).
-{% endhint %}
+<!-- unsupported tag removed -->
 
 When you have received a license for each product through an email sent to the email address used to create this account, return to this page.&#x20;
 

@@ -89,11 +89,11 @@ _Below is an example ADX Query using query parameters:_ \
 
 Query Azure Data Explorer (ADX) through a KQL statement (applies when [Specify ADX Query](configuration.md#specify-adx-query) is ticked).&#x20;
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 This is useful when querying data by joining multiple tables or applying aggregation to a variable column selection.\
 \
 Refer to [Identifier Quoting](https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/schema-entities/entity-names#identifier-quoting) when your query includes identifiers that are the same as keywords or contain special characters.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 #### Primary Key Column
 
@@ -109,11 +109,11 @@ It is mandatory when **Use Timeseries Aggregation** is ticked.
 By default, DateTime values are assumed to be in UTC. \
 Tick to ignore timezone and the apps will not convert the values to the local timezone.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 If aggregation is required AND optional column selection, the aggregation should be implemented within the ADX query.
-{% endhint %}
+<!-- unsupported tag removed -->
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 **Special Characters in Identifier Names**
 
 These special characters are supported: (\_) Underscore, (-) Dash, (.) Period and ( ) Space.\
@@ -125,7 +125,7 @@ The following special characters in ADX Query are not supported and will result 
 * (.) Period (_No Values will be displayed._)
 
 Refer to Azure Data Explorer's [Identifier Naming Rules](https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/schema-entities/entity-names#identifier-naming-rules) for more information when creating your entity.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ### Timeseries Settings Properties
 

@@ -58,11 +58,11 @@ There are two modes that you can choose from: Insert and Delete. The Mode determ
 
 ![](../../.gitbook/assets/delete.gif)
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 When a record is inserted or deleted, it does not immediately update the Data Source. To do this, you will need to add a regular Button with 'Update Data Sources' selected.&#x20;
 
 [See the Common Properties article for more details on common action properties.](../common-properties.md#action)
-{% endhint %}
+<!-- unsupported tag removed -->
 
 #### Data Source
 

@@ -2,12 +2,12 @@
 
 You can use Parameters if you want to send particular values to another Page. For example, if you have a list of machines, and a user selects one, the Application may open a new Page that displays information for that particular machine. In that case, you may want to pass the ID of the machine the user clicked on to the Page that is being opened.&#x20;
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 It is recommended that you read the article listed below to improve your understanding of Navigating between Pages.
 
 * [Navigation and Parameters](../../concepts/application/navigation-and-parameters.md)
 * [How to Navigate Between Pages](navigate-between-pages.md)
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## Adding a Parameter to the Page
 

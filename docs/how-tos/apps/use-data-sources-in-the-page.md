@@ -2,12 +2,12 @@
 
 Once a Data Source has been added to a Page, it can be used on a number of Blocks. Data Sources can be bound to certain Blocks that allow you to store data or display data, such as a data grid. These can be used if you want to display data in a grid view to the user, or if you want the user to enter some details and have it stored directly into the connected Data Source, such as an SQL Server Database.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 It is recommended that you read the article listed below to improve your understanding of Data Integration.
 
 * [Data Integration](../../concepts/application/data-integration.md)
 * [How to Manage Data Sources](manage-data-sources.md)
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## Adding a Data Source to a page
 
@@ -32,9 +32,9 @@ The block highlight color will change to yellow to show it has a Data Source. Cl
 
 ![](../../.gitbook/assets/UsingData\_4.png)
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 If the Data Source is properly configured, the data will display and can be visible when the app is launched.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](../../.gitbook/assets/UsingData\_5.png)
 

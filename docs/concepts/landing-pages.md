@@ -6,12 +6,12 @@ A list of categories is displayed by default when you open App Designer or Data 
 
 Apps and Data Streams can also be favorited. This is useful for Apps or Data Streams that are frequently used, and favoriting them will allow them to appear on the main page of Subscription Manager for quick and easy access.&#x20;
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 It is recommended that you read this documentation along with the articles listed below to improve your understanding of how Apps and Data Streams work.
 
 * [Application](application/)
 * [Data Stream](data-stream/)
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## Default Landing Page
 
@@ -47,9 +47,9 @@ There are also direct links to allow you to create an App, Data Stream, or Recom
 
 ![](<../.gitbook/assets/Landing Pages - Fave 5.png>)
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 To learn more about how to Favourite Apps or Data Streams, visit the [How to Manage Landing Pages article](../how-tos/manage-landing-pages.md#favorite-an-app).&#x20;
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## Company Landing Page
 
@@ -57,15 +57,15 @@ You can choose to set an App as the Company Landing Page, which overrides the de
 
 You can select different Apps for Desktop and Mobile.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 You can only choose from published Apps to be a landing page.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](<../.gitbook/assets/Landing Pages - Custom 1 (1).png>)
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 To learn more about how to set a Company Landing Page, visit the [How to Manage Landing Pages article](../how-tos/manage-landing-pages.md#set-a-company-landing-page).&#x20;
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ### Desktop
 

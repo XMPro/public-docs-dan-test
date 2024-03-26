@@ -1,8 +1,8 @@
 # Delete a User
 
-{% hint style="warning" %}
+<!-- unsupported tag removed -->
 Please note that this section is intended for Administrative users. No other type of user is allowed to manage a Company's Subscriptions.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 To delete users from your company on XMPro, first login as to XMPro as the global administrator.
 
@@ -15,6 +15,6 @@ To delete users from your company on XMPro, first login as to XMPro as the globa
 
 ![](<../../.gitbook/assets/Delete a User v3.png>)
 
-{% hint style="warning" %}
+<!-- unsupported tag removed -->
 You cannot undo this delete. Ensure their XMPro objects are shared with a co-owner or unpublished.&#x20;
-{% endhint %}
+<!-- unsupported tag removed -->

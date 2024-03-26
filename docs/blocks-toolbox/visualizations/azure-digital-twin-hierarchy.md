@@ -130,20 +130,20 @@ The colors are used for each parameter in the line chart. If the number of param
 
 It shows the hierarchy tree view and it allows the user to pre-select the assets.&#x20;
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 The [Data Source](azure-digital-twin-hierarchy.md#data-source) section needs to be filled out and authenticated before selecting.&#x20;
-{% endhint %}
+<!-- unsupported tag removed -->
 
 #### Recommendations
 
 The Alerts for selected Recommendations will be displayed at run-time as markers on the chart: the Alert's created time is used as the timestamp and its title as the text.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 Known limitations:
 
 * The marker title space is limited and the Alert title may be truncated.
 * Some HTML special characters (e.g.`<`) used in the Alert title will be encoded.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 #### Show Alerts For Visible Assets Only
 
@@ -185,17 +185,17 @@ After the above details are verified and authenticated, a Database must be selec
 
 The mapping is required so the Azure Digital Twin Hierarchy block knows how to bind the Digital Twin models selection with the Azure Data Explorer data.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 The [Data Source](azure-digital-twin-hierarchy.md#data-source) section needs to be filled out and authenticated before mapping.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 #### Select New Root
 
 Select a new default root for the hierarchy.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 The [Data Source](azure-digital-twin-hierarchy.md#data-source) section needs to be filled out and authenticated before selecting the new root.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 #### Auto Refresh
 

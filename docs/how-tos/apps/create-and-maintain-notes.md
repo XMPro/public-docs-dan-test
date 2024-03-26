@@ -2,12 +2,12 @@
 
 Notes are a way to share information about an Application between creators of the App and for future reference. They are useful when you want to communicate and record technical or non-technical information about the Application. The Notes are for the Application, so no matter how many Pages the Application has, the Notes will always remain the same. Notes are also saved across versions.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 It is recommended that you read the article listed below to improve your understanding of Applications.
 
 * [Application](../../concepts/application/)
 * [How to Manage Apps](manage-apps.md)
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## Adding Notes
 

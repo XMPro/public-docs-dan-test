@@ -6,13 +6,13 @@ Log entry limits are configured per Connector but applied per App Connection. Th
 
 Logs are saved for Connectors that implement the logging functionality.&#x20;
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 It is recommended that you read the articles listed below to improve your understanding of Applications, Connections, and Connectors.
 
 * [Applications](./)
 * [Connectors](../connectors/manage-connectors.md)
 * [Connections](manage-connections.md)
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ### Configuring Connector Log Limits
 
@@ -28,9 +28,9 @@ The number of log entries retained. The maximum is 1000, the minimum is 1, and t
 
 The duration, in days, of how long the logs are retained. The maximum is 90, the minimum is 1, and the default is 7.
 
-{% hint style="warning" %}
+<!-- unsupported tag removed -->
 Only the Administrator can change the limits.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 <figure><img src="../../.gitbook/assets/image (1415).png" alt=""><figcaption></figcaption></figure>
 

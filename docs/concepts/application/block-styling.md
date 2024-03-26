@@ -38,18 +38,18 @@ Styles can also be configured for different devices. [See the Devices article fo
 
 <table><thead><tr><th width="271">Style</th><th>CSS Property</th></tr></thead><tbody><tr><td>Width</td><td><a href="https://www.w3schools.com/cssref/pr_dim_width.asp"><code>width</code> sets the width of an element</a>.</td></tr><tr><td>Height</td><td><a href="https://www.w3schools.com/cssref/pr_dim_height.asp"><code>height</code> sets the height of an element</a>.</td></tr><tr><td>Min Width</td><td><a href="https://www.w3schools.com/cssref/pr_dim_min-width.asp"><code>min-width</code> defines the minimum width of an element</a>.</td></tr><tr><td>Min Height</td><td><a href="https://www.w3schools.com/cssref/pr_dim_min-height.asp"><code>min-height</code> defines the minimum height of an element</a>.</td></tr><tr><td>Max Width</td><td><a href="https://www.w3schools.com/cssref/pr_dim_max-width.asp"><code>max-width</code> defines the maximum width of an element</a>.</td></tr><tr><td>Max Height</td><td><a href="https://www.w3schools.com/cssref/pr_dim_max-height.asp"><code>max-height</code> defines the maximum height of an element</a>.</td></tr><tr><td>Margin</td><td><ul><li><a href="https://www.w3schools.com/cssref/pr_margin-top.asp"><code>margin-top</code> sets the top margin of an element.</a></li><li><a href="https://www.w3schools.com/cssref/pr_margin-right.asp"><code>margin-right</code> sets the right margin of an element.</a></li><li><a href="https://www.w3schools.com/cssref/pr_margin-bottom.asp"><code>margin-bottom</code> sets the bottom margin of an element.</a></li><li><a href="https://www.w3schools.com/cssref/pr_margin-left.asp"><code>margin-left</code> sets the left margin of an element.</a></li></ul></td></tr><tr><td>Padding</td><td><ul><li><a href="https://www.w3schools.com/cssref/pr_padding-top.asp"><code>padding-top</code> sets the top padding (space) of an element.</a></li><li><a href="https://www.w3schools.com/cssref/pr_padding-right.asp"><code>padding-right</code> sets the right padding (space) of an element.</a></li><li><a href="https://www.w3schools.com/cssref/pr_padding-bottom.asp"><code>padding-bottom</code> sets the right padding (space) of an element.</a></li><li><a href="https://www.w3schools.com/cssref/pr_padding-left.asp"><code>padding-left</code> sets the right padding (space) of an element.</a></li></ul></td></tr></tbody></table>
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 When not using 'auto', the supported [css units](https://www.w3schools.com/cssref/css\_units.asp) for the dimension properties are:
 
 * fixed: px
 * relative: % and vh/vw
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ### Flex Layout
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 Recommended reading: [Flex](flex.md) and [How to Use Flex](../../how-tos/apps/use-flex.md).
-{% endhint %}
+<!-- unsupported tag removed -->
 
 <table><thead><tr><th width="271">Style</th><th>CSS Property</th></tr></thead><tbody><tr><td>Direction</td><td><a href="https://www.w3schools.com/cssref/css3_pr_flex-direction.asp"><code>flex-direction</code> specifies the direction of the flexible items</a>: Row, Row reverse, Column, or Column reverse.</td></tr><tr><td>Justify</td><td><a href="https://www.w3schools.com/cssref/css3_pr_justify-content.asp"><code>justify-content</code> aligns the flexible container's items when the items do not use all available space on the main-axis (horizontally)</a>: Start, End, Space between, Space around, or Centre.</td></tr><tr><td>Align Items</td><td><a href="https://www.w3schools.com/cssref/css3_pr_align-items.asp"><code>align-items</code> specifies the default alignment for items inside the flexible container</a>: Start, End, Bottom, Stretch, Centre.</td></tr><tr><td>Wrap</td><td><a href="https://www.w3schools.com/cssref/css3_pr_flex-wrap.asp"><code>flex-wrap</code> specifies whether the flexible items should wrap or not</a>: No wrap, Wrap, Wrap reverse.</td></tr><tr><td>Grow</td><td><a href="https://www.w3schools.com/cssref/css3_pr_flex-grow.asp"><code>flex-grow</code> is an integer that specifies how much the item will grow relative to the rest of the flexible items inside the same container.</a></td></tr><tr><td>Align Self</td><td><a href="https://www.w3schools.com/cssref/css3_pr_align-self.asp"><code>align-self</code> specifies the alignment for the selected item inside the flexible container</a>: Auto, Start, End, Bottom, Stretch, Centre.</td></tr></tbody></table>
 
@@ -69,12 +69,12 @@ These styling options are rarely needed, but they provide additional flexibility
 
 <table><thead><tr><th width="271">Style</th><th>CSS Property</th></tr></thead><tbody><tr><td>Display</td><td><a href="https://www.w3schools.com/cssref/pr_class_display.asp"><code>display</code> specifies the type of rendering box of an element:</a> block, inline, inline-block, flex (default), or none.</td></tr><tr><td>Position</td><td><a href="https://www.w3schools.com/css/css_positioning.asp"><code>position</code> specifies the type of positioning used for an element:</a> static (default), relative, absolute, or fixed.</td></tr><tr><td>Top*</td><td><a href="https://www.w3schools.com/cssref/pr_pos_top.asp"><code>top</code> sets the vertical position of a positioned element </a> (default auto).</td></tr><tr><td>Right*</td><td><a href="https://www.w3schools.com/cssref/pr_pos_right.asp"><code>right</code> sets the horizontal position of a positioned element</a> (default auto).</td></tr><tr><td>Left*</td><td><a href="https://www.w3schools.com/cssref/pr_pos_left.asp"><code>left</code> sets the horizontal position of a positioned element</a> (default auto).</td></tr><tr><td>Bottom*</td><td><a href="https://www.w3schools.com/cssref/pr_pos_bottom.asp"><code>bottom</code> sets the vertical position of a positioned element</a> (default auto).</td></tr></tbody></table>
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 The supported [css units](https://www.w3schools.com/cssref/css\_units.asp) for properties marked with a \* are:
 
 * fixed: px
 * relative: % and vh/vw
-{% endhint %}
+<!-- unsupported tag removed -->
 
 #### Extra advanced styling
 

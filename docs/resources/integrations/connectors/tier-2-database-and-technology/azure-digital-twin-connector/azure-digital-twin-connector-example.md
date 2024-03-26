@@ -8,9 +8,9 @@ description: >-
 
 You can download the files [here](azure-digital-twin-connector-example.md#files) to try it out for yourself - adjusting the steps to use your **own** Azure credentials.&#x20;
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 Refer to [configuration](azure-digital-twin-connector-configuration.md) to understand all configuration options of this Connector.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ### Step 1: Add the Connection
 
@@ -64,6 +64,6 @@ Observe that data is returned from the Pump entity of the Azure Digital Twin.
 
 <table><thead><tr><th width="150">File</th><th width="373.9375" data-type="files">Link</th><th>Security Key</th></tr></thead><tbody><tr><td>Application</td><td><a href="../../../../../.gitbook/assets/Azure DT Connector Example.xapp">Azure DT Connector Example.xapp</a></td><td>C0mp|ex123</td></tr></tbody></table>
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 See the [Import, Export, and Clone - XMPro](https://documentation.xmpro.com/how-tos/import-export-and-clone#importing) article for steps to import a Data Stream.
-{% endhint %}
+<!-- unsupported tag removed -->

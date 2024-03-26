@@ -70,11 +70,11 @@ The value is the value that is taken from the control such as the user input, or
 
 Data Sources can be created for a page in the application and can be used to display contextual or real-time data to the user. Data sources can include databases or data streams and can be bound to controls on the page.&#x20;
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 It is recommended that you read the article listed below to improve your understanding of Data Sources.
 
 * [How to Create and Manage Data Sources](../how-tos/apps/manage-data-sources.md)
-{% endhint %}
+<!-- unsupported tag removed -->
 
 #### Filter
 
@@ -130,9 +130,9 @@ If the user enters a value that does not match a specific pattern (for example, 
 
 Validation patterns use Regular Expressions (regex) to pattern search the value and determine validity.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 For more information on Regular Expressions, see the [JavaScript RegExp Reference article](https://www.w3schools.com/jsref/jsref\_obj\_regexp.asp) on w3schools.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 #### Message
 
@@ -171,9 +171,9 @@ The URL to which the user is redirected, which is applicable when [Navigate To](
 
 ![](../.gitbook/assets/url2.PNG)
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 You can use a [mailto](https://www.w3schools.com/tags/tryit.asp?filename=tryhtml\_link\_mailto) link with the URL navigation to open a default mail program (for example, Microsoft Outlook) with an email address already added into the receiver field.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 See the [Navigating Using Back URL article](../how-tos/apps/navigate-between-pages.md#navigating-using-back-url) for more information about appending a back URL so that the user can return to the page.
 
@@ -199,9 +199,9 @@ Operations include inserting records, updating, deleting, or refreshing a data s
 
 If the execution condition option is set to true, you will then be able to add a condition that will be checked before operations are executed. You also have the option to override the fields that are in the data source.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 If you're enabling an operation on a Block that does not populate or visualize from a Data Source, such as a Button, first bind a [Data Source](common-properties.md#data-source) to either the Block or its parent.&#x20;
-{% endhint %}
+<!-- unsupported tag removed -->
 
 #### Confirmation Dialog
 

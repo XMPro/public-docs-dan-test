@@ -18,9 +18,9 @@ By allowing the author to assign a calculated score to an Alert instead of a ran
 
 This Score also helps the alert recipient to understand its relative importance.&#x20;
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 Authors still have the option to use Alert Ranking instead of Alert Scoring if they prefer.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## How is the scoring calculated?
 
@@ -68,9 +68,9 @@ You can also view the Scores using the **Score Factor Matrix**. To open the Scor
 
 <figure><img src="../../.gitbook/assets/Fig 8. Score Factor Matrix.PNG" alt=""><figcaption><p>Fig 8. Score Factor Matrix</p></figcaption></figure>
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 This table only shows an estimate as the Optional Factor of the Recommendation could not be determined until the Alert is generated.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## Viewing the Score Factor history on a timeline
 

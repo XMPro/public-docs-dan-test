@@ -2,98 +2,98 @@
 
 An Application or App enables you to create Apps using a low-or-no-code canvas environment. This allows anyone including Engineers and subject matter experts to build an App in a matter of days or weeks without having to be a programmer.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 It is recommended that you read the article listed below to improve your understanding of Applications.
 
 * [Application](../../concepts/application/)
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## Articles
 
-{% content-ref url="manage-apps.md" %}
+<!-- unsupported tag removed -->
 [manage-apps.md](manage-apps.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="manage-templates.md" %}
+<!-- unsupported tag removed -->
 [manage-templates.md](manage-templates.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="manage-pages.md" %}
+<!-- unsupported tag removed -->
 [manage-pages.md](manage-pages.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="design-pages-for-mobile.md" %}
+<!-- unsupported tag removed -->
 [design-pages-for-mobile.md](design-pages-for-mobile.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="navigate-between-pages.md" %}
+<!-- unsupported tag removed -->
 [navigate-between-pages.md](navigate-between-pages.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="pass-parameters-between-pages.md" %}
+<!-- unsupported tag removed -->
 [pass-parameters-between-pages.md](pass-parameters-between-pages.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="manage-connections.md" %}
+<!-- unsupported tag removed -->
 [manage-connections.md](manage-connections.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="check-connector-logs.md" %}
+<!-- unsupported tag removed -->
 [check-connector-logs.md](check-connector-logs.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="manage-data-sources.md" %}
+<!-- unsupported tag removed -->
 [manage-data-sources.md](manage-data-sources.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="use-data-sources-in-the-page.md" %}
+<!-- unsupported tag removed -->
 [use-data-sources-in-the-page.md](use-data-sources-in-the-page.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="use-dynamic-properties.md" %}
+<!-- unsupported tag removed -->
 [use-dynamic-properties.md](use-dynamic-properties.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="use-expression-properties.md" %}
+<!-- unsupported tag removed -->
 [use-expression-properties.md](use-expression-properties.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="use-page-layers.md" %}
+<!-- unsupported tag removed -->
 [use-page-layers.md](use-page-layers.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="use-block-styling-and-devices.md" %}
+<!-- unsupported tag removed -->
 [use-block-styling-and-devices.md](use-block-styling-and-devices.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="use-flex.md" %}
+<!-- unsupported tag removed -->
 [use-flex.md](use-flex.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="use-validation.md" %}
+<!-- unsupported tag removed -->
 [use-validation.md](use-validation.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="use-variables-and-expressions.md" %}
+<!-- unsupported tag removed -->
 [use-variables-and-expressions.md](use-variables-and-expressions.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="create-and-maintain-notes.md" %}
+<!-- unsupported tag removed -->
 [create-and-maintain-notes.md](create-and-maintain-notes.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="manage-widgets.md" %}
+<!-- unsupported tag removed -->
 [manage-widgets.md](manage-widgets.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="manage-app-files.md" %}
+<!-- unsupported tag removed -->
 [manage-app-files.md](manage-app-files.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="manage-themes.md" %}
+<!-- unsupported tag removed -->
 [manage-themes.md](manage-themes.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="../manage-landing-pages.md" %}
+<!-- unsupported tag removed -->
 [manage-landing-pages.md](../manage-landing-pages.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->

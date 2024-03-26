@@ -10,9 +10,9 @@ Horizontal Stacked Layouts separate a given area into columns. Vertical Stacked 
 
 To add a horizontal pane, select a pane and click on the plus symbol in the top-right Block toolbar.&#x20;
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 [See the Canvas article for more details on these controls.](../../concepts/application/canvas.md#block-toolbar)&#x20;
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](../../.gitbook/assets/cKM05Sf4iN.gif)
 
@@ -20,9 +20,9 @@ To add a horizontal pane, select a pane and click on the plus symbol in the top-
 
 To delete a horizontal pane, select a pane and click on the delete 'bin' symbol in the top-right block toolbar.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 [See the Canvas article for more details on these controls.](../../concepts/application/canvas.md#block-toolbar)&#x20;
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](../../.gitbook/assets/kM6DdWL6Yp.gif)
 
@@ -30,9 +30,9 @@ To delete a horizontal pane, select a pane and click on the delete 'bin' symbol 
 
 To add a Box to a Vertical Layout, select a pane and click on the plus symbol in the top-right block toolbar.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 [See the Canvas article for more details on these controls.](../../concepts/application/canvas.md#block-toolbar)&#x20;
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](../../.gitbook/assets/V2gq8rBguu.gif)
 
@@ -40,9 +40,9 @@ To add a Box to a Vertical Layout, select a pane and click on the plus symbol in
 
 To delete a vertical pane, select a pane and click on the delete 'bin' symbol in the top-right block toolbar.&#x20;
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 [See the Canvas article for more details on these controls.](../../concepts/application/canvas.md#block-toolbar)&#x20;
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](../../.gitbook/assets/fsvl8qu8VL.gif)
 

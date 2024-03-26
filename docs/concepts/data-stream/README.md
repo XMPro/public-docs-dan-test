@@ -10,11 +10,11 @@ Video Presentation Discussing Data Stream Designer
 
 Data Stream's flow is represented by agents connected by arrows, enabling data processing at each agent based on its function, allowing you to view and perform actions on data from multiple sources in one place.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 We recommend reading this documentation in conjunction with the article below to enhance your understanding of data streams.
 
 * [Agent](../agent/)
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## Finding Data Streams
 
@@ -54,9 +54,9 @@ Agents are grouped by category in the toolbox. To expand a category, click on th
 
 ## Building a stream
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 See the [Manage Data Streams article](../../how-tos/data-streams/manage-data-streams.md) for detailed instructions and an example of how to build your first stream.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## Actions on the Data Stream
 

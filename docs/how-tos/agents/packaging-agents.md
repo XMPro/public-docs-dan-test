@@ -12,9 +12,9 @@ You can download the software from the Microsoft Windows 10 Store or by clicking
 
 After installing the XMPro Package Manager, launch the application from the Microsoft Store or search for “XMPro Package Manager” in the Start menu and then click on “XMPro Package Manager”.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 You can run multiple instances of Package Manager at the same time. This side-by-side comparison is helpful when developing a new Agent that is similar to another; or comparing different versions of the same Agent.&#x20;
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](<../../.gitbook/assets/image (1409).png>)
 
@@ -22,15 +22,15 @@ You can run multiple instances of Package Manager at the same time. This side-by
 
 On the first screen of the application, you can either create a new Agent package or import and update an existing one.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 &#x20;Use the arrows at the bottom of the page section to move forward or backward in the application.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](<../../.gitbook/assets/image (1002).png>)
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 When you import an existing package, you have the option to export the package as a JSON file. This is useful either to compare packages or for source control and version management.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## **Details**
 
@@ -54,9 +54,9 @@ The description is a brief explanation of what the Agent does, for example, “_
 
 The [version](../../concepts/version.md) of the Agent.  Any real number is acceptable, for example, "_1.02_".
 
-{% hint style="danger" %}
+<!-- unsupported tag removed -->
 If you make a change to an existing Agent, make sure you increment the version number as Data Stream Designer will not allow you to upload two of the same Agents with the same version.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ### **Virtual**
 
@@ -78,17 +78,17 @@ When loading Agents to use in a Stream Host, all the libraries are put in a sepa
 
 The icon used to represent your Agent. Click the _Browse_ button, navigate to where you’ve stored the file via the Explorer and select the new image file.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 It is recommended that you upload either a JPG or PNG file with a size of 64×64 pixels to accommodate for retina displays.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ### **Require Input Map**
 
 Tick _Require Input Map_ to specify that your Agent will be receiving events in a defined structure. The arrow leading to your Agent will be configurable to allow the user to map the inputs of your Agent to incoming attributes.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 If left unticked, parent outputs will be published to this Agent as they are.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ### **Add** O**n-Error Endpoint?**
 
@@ -106,9 +106,9 @@ These Endpoints represent entry points to the Agent, which will allow the Agent 
 
 To add an Input Endpoint, type it's name in the text field and click _Add_. The new Endpoint will appear in the list below the Add button. You may need to hover over the list and scroll down to see it. As per the image, an Input Endpoint named “Input” has been added.
 
-{% hint style="danger" %}
+<!-- unsupported tag removed -->
 The name of the Input Endpoints has to match what has been defined in the Agent’s code.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 To remove an existing Endpoint, scroll down in the list until you see it, select the Endpoint and click on the _Remove_ button.
 
@@ -118,9 +118,9 @@ Output Endpoints represent exit points from an Agent and allow you to connect yo
 
 To add an Output Endpoint, type it's name in the text field, change the Endpoint Type to "Output", and click _Add_. The new Endpoint will appear in the list below the Add button. You may need to hover over the list underneath the text field and scroll down before being able to see it. In the image, an Output Endpoint named “_Output_” has been added.
 
-{% hint style="danger" %}
+<!-- unsupported tag removed -->
 The name of the Output Endpoints should match what has been defined in the Agent’s code.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 To remove an existing Endpoint, scroll down in the list until you see it, select the Endpoint and click on the _Delete_ button.
 
@@ -132,9 +132,9 @@ The References form is where you upload the DLL file(s) that were generated when
 
 To upload a file, click on the _Browse_ button next to the _DLL File(s)_ field and navigate to where the files are located and select them. When you’ve selected all the files needed, click on the _Add_ button to add them to the _Selected File(s)_ list. Please note that only files in the _Selected File(s)_ list will be included in the package. To remove a DLL from the list, click on the _Delete_ button next to the DLL name in the _Selected File(s)_ list.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 The XMPro Package Manager can package DLL(s) created in .NET.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](<../../.gitbook/assets/image (101).png>)
 
@@ -188,12 +188,12 @@ Tick the checkbox if you would like to export the file as JSON too. It will late
 
 Lastly, you can navigate back through the steps to review the details that you’ve specified. If you are satisfied, complete the wizard by clicking the Save button below before navigating to the folder where you would like the package to be exported. Your package will be created with the file name _category\_name\_version_.xmp.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 If you imported an existing file, take care to:
 
 * either click 'Save as new Agent' to generate a new Agent, or click 'Save' to generate a new version of the original Agent.
 * ensure you select a different location folder or increment the version to avoid overwriting the original.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](<../../.gitbook/assets/PM Success.png>)
 
@@ -201,6 +201,6 @@ If you imported an existing file, take care to:
 
 * [How to upload your new Agent to Data Stream Designer](manage-agents.md)
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 You need to have the correct permissions set against your user to be able to edit and upload Agents. This is a role not typically given to all users.
-{% endhint %}
+<!-- unsupported tag removed -->

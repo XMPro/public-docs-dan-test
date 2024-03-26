@@ -2,16 +2,16 @@
 
 The Unity Block can display data that is received via the Data Source and it is interactive by configuring the [Action ](../common-properties.md#action)on the Button or any other component that has that option to update the Data Source.&#x20;
 
-{% hint style="warning" %}
+<!-- unsupported tag removed -->
 This Block only supports Unity **2020 and above** and Unity WebGL content is not currently supported on **mobile devices**.&#x20;
 
 For Unity 2019 use the [Unity (Legacy)](unity-1.md) Block.
-{% endhint %}
+<!-- unsupported tag removed -->
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 **Disable Keyboard Capture**\
 Is your keyboard non-responsive once a Unity model is loaded? Follow [this guide](https://docs.unity3d.com/ScriptReference/WebGLInput-captureAllKeyboardInput.html) to prevent the keyboard input from being locked to the Unity model.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](<../../.gitbook/assets/unity pump example.gif>)
 
@@ -67,9 +67,9 @@ Select the Unity framework file.&#x20;
 
 The Framework File property is required for the Unity Block.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 For more details on how to upload or manage files, [see the Manage App Files article](../../how-tos/apps/manage-app-files.md).
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ### Data Source
 

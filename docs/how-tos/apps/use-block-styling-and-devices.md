@@ -2,13 +2,13 @@
 
 Block Styling includes options that allow you to change the text color, background color, borders, typography, dimensions, or other styling options of the Block. You can use it to customize the look and feel of the Application based on themes or color palettes for your specific organization. The style and position of the Blocks can also be customized for different devices, which is important in ensuring that users have a good user experience regardless of the screen size they are viewing your Application on.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 It is recommended that you read the article listed below to improve your understanding of Devices and Block Styling.
 
 * [Device](../../concepts/application/devices.md)
 * [Block Styling](../../concepts/application/block-styling.md)
 * [How to Manage Pages](manage-pages.md)
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## Adding a Style Group
 

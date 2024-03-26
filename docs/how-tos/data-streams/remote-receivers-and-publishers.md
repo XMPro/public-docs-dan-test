@@ -4,13 +4,13 @@ Sometimes it is necessary to run the same Data Stream on two or more different s
 
 The solution to these problems is found by using Remote Receivers and Publishers. Two Collections are set up, and half of the Data Stream is run on one Collection while the other half runs on the other Collection. The Stream Host can automatically detect where data has to flow from one Collection to the other (a Collection Hop).
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 It is recommended that you read the article listed below to improve your understanding of Live Data.
 
 * [Remote Receivers and Publishers](../../concepts/collection.md#remote-receivers-and-publishers)&#x20;
 * [How to Manage Data Streams](manage-data-streams.md)
 * [How to Manage Collections](manage-collections.md)
-{% endhint %}
+<!-- unsupported tag removed -->
 
 Each Collection allows you to configure a Remote Publisher and a Remote Receiver. Every time a Collection Hop is detected the Stream Hosts will automatically set up the configured Remote Publisher, which will put the data on a central store. The receiving Collection will also automatically set up a Remote Receiver which will receive data from the store and pass it on to the Data Stream on the other side.
 

@@ -30,9 +30,9 @@ Observe that the Disabled Stream Object is now greyed out.
 
 ![](../../.gitbook/assets/Agent\_Exluded.png)
 
-{% hint style="warning" %}
+<!-- unsupported tag removed -->
 Agents with no entry points and multiple entry points cannot be disabled.&#x20;
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ### Enable a Stream Object
 

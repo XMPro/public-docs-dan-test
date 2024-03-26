@@ -36,9 +36,9 @@ Dynamic properties allow you to select a value for the property from the Page Pa
 
 <table><thead><tr><th width="238">Property</th><th>Description</th><th data-hidden></th></tr></thead><tbody><tr><td>IsMobile</td><td><p>Returns True boolean value if the App is open on a mobile device. </p><p>Example: For Mobiles and/or Tablets will be True.</p></td><td></td></tr><tr><td>IsDesktop</td><td><p>Returns True boolean value if the App is open on a desktop device. </p><p>Example: For Laptops and/or Desktops will be True.</p></td><td></td></tr><tr><td>Culture</td><td><p>Returns the Device culture/language. </p><p>Example: If the language is set to US English will return en-US.</p></td><td></td></tr></tbody></table>
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 [See the Data Integration article for more information on Data Sources](data-integration.md#data-source).
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](../../.gitbook/assets/MicrosoftTeams-image.png)
 

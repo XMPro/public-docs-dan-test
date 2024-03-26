@@ -2,12 +2,12 @@
 
 A Notification defines how users will be notified when a [Recommendation Alert](../../concepts/recommendation/recommendation-alert.md) is triggered by a critical event that meets the conditions set in a [Rule](../../concepts/recommendation/rule.md). This is useful when you want to send a text, email, or another form of communication to users when something goes wrong and is caught by the Rule's condition.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 It is recommended that you read the articles listed below to improve your understanding of Recommendations.
 
 * [Notification](../../concepts/recommendation/notification.md)
 * [Manage Rules](create-rules.md)
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## Creating Notifications
 

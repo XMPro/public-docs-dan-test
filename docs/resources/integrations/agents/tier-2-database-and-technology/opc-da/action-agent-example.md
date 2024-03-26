@@ -7,9 +7,9 @@ description: >-
 
 # Action Agent Example
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 Refer to [configuration](action-agent-configuration.md) to understand all configuration options of this Agent.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ### Step 1: Add the Agent
 
@@ -65,6 +65,6 @@ And you can use the OPC DA Listener to observe the Pump's updated Temp, Money an
 
 <table><thead><tr><th width="187.87658056443786">File</th><th width="377.87287411060635" data-type="files">Link</th><th>Security Key</th></tr></thead><tbody><tr><td>Data Stream</td><td><a href="../../../../../.gitbook/assets/OPC DA Action Agent Example.xuc">OPC DA Action Agent Example.xuc</a></td><td>C0mp|ex123</td></tr></tbody></table>
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 See the [Import, Export, and Clone - XMPro](https://documentation.xmpro.com/how-tos/import-export-and-clone#importing) article for steps to import a Data Stream.
-{% endhint %}
+<!-- unsupported tag removed -->

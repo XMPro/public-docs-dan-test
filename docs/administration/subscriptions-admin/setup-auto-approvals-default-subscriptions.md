@@ -1,8 +1,8 @@
 # Setup Auto Approval/Default Subscriptions
 
-{% hint style="warning" %}
+<!-- unsupported tag removed -->
 Please note that this section is intended for Administrative users. No other type of user is allowed to manage a Company's Subscriptions.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## Auto Approval
 

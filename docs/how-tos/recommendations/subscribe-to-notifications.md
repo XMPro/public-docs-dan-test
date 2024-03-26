@@ -2,13 +2,13 @@
 
 Subscribing to Notifications allows you to receive email or SMS messages for [Recommendation Alerts](../../concepts/recommendation/recommendation-alert.md) that are relevant to you or your organization. This is useful if you want to keep track of certain Recommendations.  &#x20;
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 It is recommended that you read the article listed below to improve your understanding of Notifications.
 
 * [Notification](../../concepts/recommendation/notification.md)
 * [Editing Permissions on the Run Access](../manage-access.md#editing-permissions-on-the-run-access)
 * [Manage Recommendations](manage-recommendations.md)
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## Subscribe to a Notification
 

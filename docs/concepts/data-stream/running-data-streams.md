@@ -14,9 +14,9 @@ To verify which collection an Agent will use, click on the “_Configure_” but
 
 The _Live View_ functionality in Data Stream Designer allows you to view data as it is processed by the Agents in your Stream. For each Agent in your Stream, you can let the data display in either a grid, gauge, or chart. To view this data, select the “Live View” button after publishing your Stream. Next, select the Agents you would like to view the data for. &#x20;
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 Pre v4.3.7, users should close the _Live View_ before navigating away to signal to the Stream Host to stop sending the data.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](../../.gitbook/assets/IC\_3.png)
 

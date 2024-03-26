@@ -55,11 +55,11 @@ Although Auto Scale has a bigger impact on App Designer performance, it is for a
 3. Upgrade Apps to use Data Streams Connector V2.0+.\
    Refer to [Data Integration ](../../concepts/application/data-integration.md#connection)for a guide on how to upgrade an App's connection.
 
-{% hint style="warning" %}
+<!-- unsupported tag removed -->
 Upgrading the Connector will clear the cache from the existing connector, and all data for the consuming App will be lost.
 
 You do not have to upgrade all Apps to the new Connector version - their cached data and caching process will continue to work as before.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ### Data Stream Designer
 
@@ -69,6 +69,6 @@ Repeat step 1 for Data Stream Designer.
 
 Repeat step 1 for Subscription Manager but in the _web.config_ file.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 It might be encrypted, which will require you to decrypt it first. For instructions, please refer to the [How to encrypt and decrypt a web.config file](https://docs.xmpro.com/knowledge-base-2/how-to-encrypt-and-decrypt-a-web-config-file/) Knowledge Base article.
-{% endhint %}
+<!-- unsupported tag removed -->

@@ -1,45 +1,45 @@
 # Layout
 
-{% content-ref url="accordion.md" %}
+<!-- unsupported tag removed -->
 [accordion.md](accordion.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="box-and-data-repeater-box.md" %}
+<!-- unsupported tag removed -->
 [box-and-data-repeater-box.md](box-and-data-repeater-box.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="card-and-content-card.md" %}
+<!-- unsupported tag removed -->
 [card-and-content-card.md](card-and-content-card.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="field-and-fieldset.md" %}
+<!-- unsupported tag removed -->
 [field-and-fieldset.md](field-and-fieldset.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="layout-grid.md" %}
+<!-- unsupported tag removed -->
 [layout-grid.md](layout-grid.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="scroll-box.md" %}
+<!-- unsupported tag removed -->
 [scroll-box.md](scroll-box.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="horizontal-and-vertical-stacked-layouts.md" %}
+<!-- unsupported tag removed -->
 [horizontal-and-vertical-stacked-layouts.md](horizontal-and-vertical-stacked-layouts.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="tabs.md" %}
+<!-- unsupported tag removed -->
 [tabs.md](tabs.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="templated-list.md" %}
+<!-- unsupported tag removed -->
 [templated-list.md](templated-list.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="toolbar.md" %}
+<!-- unsupported tag removed -->
 [toolbar.md](toolbar.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="menu.md" %}
+<!-- unsupported tag removed -->
 [menu.md](menu.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->

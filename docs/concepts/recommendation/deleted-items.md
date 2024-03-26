@@ -12,9 +12,9 @@ Deleted items can be accessed through the Deleted Items button on the Recommenda
 
 ![](<../../.gitbook/assets/image (78).png>)
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 Items that have not been deleted don't have a select box, and cannot be restored or permanently deleted.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## Alert Count Column
 
@@ -58,9 +58,9 @@ If you restore an item without selecting the parents of the item, the parents wi
 
 ## Permanently Delete Items
 
-{% hint style="danger" %}
+<!-- unsupported tag removed -->
 Warning! Recommendation Alerts will also be permanently deleted when permanently deleting items.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 To permanently delete items, select them and press Delete. The items, any child items, and any Recommendation Alerts generated from them will be deleted forever.
 

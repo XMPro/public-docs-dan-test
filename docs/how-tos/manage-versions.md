@@ -2,11 +2,11 @@
 
 Versions can be managed for different XMPro Objects, including Data Streams, Agents, Applications, and Recommendations. Copying a Version allows you to continue working and making changes to the XMPro Object while maintaining a Version of it before you made changes, which can also act as a backup mechanism. &#x20;
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 It is recommended that you read the article listed below to improve your understanding of Versions.
 
 * [Version](../concepts/version.md)
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## Opening a specific Version
 

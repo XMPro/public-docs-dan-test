@@ -8,9 +8,9 @@ Tabs are Blocks that allow you to separate and view related items together. Tabs
 
 To add a new Tab, select the whole tab Block or an individual Tab and click on the _plus_ symbol in the top-right hand Block toolbar.&#x20;
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 [See the Canvas article for more details on these controls.](../../concepts/application/canvas.md#block-toolbar)&#x20;
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](../../.gitbook/assets/oVjtnJIDhd.gif)
 
@@ -18,9 +18,9 @@ To add a new Tab, select the whole tab Block or an individual Tab and click on t
 
 To delete a Tab, select the whole Tab Block or an individual Tab and click on the _bin_ symbol in the top-right hand Block toolbar.&#x20;
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 [See the Canvas article for more details on these controls.](../../concepts/application/canvas.md#block-toolbar)&#x20;
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](../../.gitbook/assets/E3xpP6Te1g.gif)
 
@@ -34,9 +34,9 @@ You can navigate between the Tabs within the canvas itself. Click on each Tab to
 
 Tabs can be reordered by clicking and dragging them to change the order. When a Tab is highlighted, hold the move icon and drag the Tab to another location within the Block.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 [See the Canvas article for more details on these controls.](../../concepts/application/canvas.md#block-toolbar)&#x20;
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](../../.gitbook/assets/6bLoCkO6H8.gif)
 
@@ -74,11 +74,11 @@ The navigation between tabs is controlled by the [Selected Index](tabs.md#select
 
 <figure><img src="../../.gitbook/assets/Tab Hide Navigate.gif" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 This is useful when a header or footer section is reused across multiple pages. For example, one page is used in three different drill-down scenarios. The top one-third differs based on the drill-down type and the bottom two-thirds is the same for all scenarios.
 
 Rather than cloning the page and maintaining all three, place the top one-third in a Tab Block - and set the Selected Index to a parameter passed from the previous page to control which tab's content is shown.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ### Data Source
 

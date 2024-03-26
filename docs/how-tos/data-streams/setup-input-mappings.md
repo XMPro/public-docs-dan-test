@@ -4,12 +4,12 @@ Input Mappings allow you to specify that an Agent receives its input in a specif
 
 This functionality is beneficial if you want to map any incoming data from a preceding Agent to specific attributes that can be saved in rows or columns in a database using an Action Agent, such as an SQL Server Writer.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 It is recommended that you read the article listed below to improve your understanding of Input Mappings.
 
 * [Stream Object Configuration](../../concepts/data-stream/stream-object-configuration.md)
 * [How to Manage Data Streams](manage-data-streams.md)
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## Adding Input Mappings
 

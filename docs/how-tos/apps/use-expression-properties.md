@@ -2,12 +2,12 @@
 
 Expression Properties allow you to create short scripts to create a custom value. This custom value can be calculated from other Variables, Parameters, user input, data from Data Sources, and various Functions, Constants, and Operators. [See the Variable and Expressions article to learn more about Expressions](../../concepts/application/variables-and-expressions.md).
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 It is recommended that you read the article listed below to improve your understanding of Properties.
 
 * [Block Properties](../../concepts/application/block-properties.md)
 * [How to Manage Pages](manage-pages.md)
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ### How to Enable Expression Properties
 

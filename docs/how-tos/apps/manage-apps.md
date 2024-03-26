@@ -2,11 +2,11 @@
 
 An Application or App enables you to create Apps using a drag-and-drop canvas environment. This allows anyone including Engineers and subject matter experts to build an App in a matter of days or weeks without having to be a programmer.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 It is recommended that you read the article listed below to improve your understanding of Applications.
 
 * [Application](../../concepts/application/)
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## How To Manage Apps
 

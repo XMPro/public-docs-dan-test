@@ -40,9 +40,9 @@ The matrix below shows which interface needs to be implemented for which categor
 
 <table><thead><tr><th width="176">Agent Category</th><th width="104">IAgent</th><th width="145">IPollingAgent</th><th width="159">IReceivingAgent</th><th>IPublishesError</th></tr></thead><tbody><tr><td><em>Listener</em></td><td>Required</td><td>Recommended</td><td>Optional</td><td>Optional</td></tr><tr><td><em>Context Provider</em></td><td>Required</td><td>Recommended</td><td>Optional</td><td>Optional</td></tr><tr><td><em>Transformation</em></td><td>Required</td><td>Optional</td><td>Required</td><td>Optional</td></tr><tr><td><em>Action Agent/ Function</em></td><td>Required</td><td>Optional</td><td>Required</td><td>Optional</td></tr><tr><td><em>AI &#x26; Machine Learning</em></td><td>Required</td><td>Optional</td><td>Required</td><td>Optional</td></tr></tbody></table>
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 The _IPollingAgent_ interface is not strictly required for _Listeners_ or _Context Providers_, however, it is generally used in most cases. Not implementing _IPollingAgent_ for a _Listener_ or _Context Provider_ should be considered an advanced option.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## IAgent
 
@@ -60,9 +60,9 @@ Some Agents need to be provided with configurations by the user, for example, fo
 
 Each of these settings should be referenced in the code and must correspond to the settings template created when [packaging your Agent](packaging-agents.md).
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 A template is a JSON representation of all the controls and their layout that will be used to capture the settings from a user.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 An example of the settings template (generated using the [XMPro Package Manager](https://www.microsoft.com/en-au/p/xmpro-package-manager/9n3f4wnslgzk)) is shown in the image below. The settings in this example consist of the following controls:
 
@@ -81,9 +81,9 @@ string mySetting = parameters[“myUniqueKey”];
 
 Before a template is rendered on the screen, or if a postback occurs on any control in the template, the method below would be called to allow the Agent an opportunity to make any necessary runtime changes to the template, for example, verifying user credentials, displaying all tables of a selected database in a drop-down list, etc. In this example, no changes are being made to the template but, if needed, they can be added to the _**todo**_ section.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 &#x20;For a postback to occur after a user navigates out of a setting field, the _Postback_ property needs to be set to _true_ when packaging the Agent.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ```csharp
 public string GetConfigurationTemplate(string template, IDictionary<string, string> parameters)
@@ -183,13 +183,13 @@ To push the events to the next Agent, your Agent should invoke the _OnPublish_ e
 this.OnPublish?.Invoke(this, new OnPublishArgs(new JArray(), “EndpointName”));
 ```
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 Events are represented as JSON Objects and have to be pushed as a collection, i.e. JArray.
-{% endhint %}
+<!-- unsupported tag removed -->
 
-{% hint style="danger" %}
+<!-- unsupported tag removed -->
 Please note that OnPublishArgs(Array rtr) is obsolete from XMPro.IOT.Framework 3.0.2 onwards. You are now required to specify the endpoint name on which you would like to publish (i.e. OnPublishArgs(Array rtr, string Endpoint))
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ### Decrypting Values
 
@@ -269,9 +269,9 @@ void Receive(string endpointName, JArray events)
 
 The _endpointName_ parameter will identify which endpoint the events have been received at.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 &#x20;It is not guaranteed that the _Start_ method will be invoked before the _Receive_ method. Use the _Create_ method to execute any logic that needs to be executed before the _Receive_ method is called.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## IPublishError
 
@@ -291,17 +291,17 @@ To push the error to the next Agent, the _OnPublishError_ event should be invoke
 this.OnPublishError?.Invoke(this, new OnErrorArgs(AgentId, Timestamp, Source, Error, DetailedError, Data));
 ```
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 Error endpoints should be enabled in XMPro Stream Integration Manager when packaging the Agent. This can be done by selecting the “Add On Error Endpoint?” checkbox. See the image on the right for an example.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## Example
 
 The code below is an example of a basic MQTT Listener Agent. Take note of how the interfaces and methods have been implemented.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 &#x20;Please note that this example uses the _M2MqttDotnetCore 1.0.7_ NuGet package.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ```csharp
 using Newtonsoft.Json.Linq;

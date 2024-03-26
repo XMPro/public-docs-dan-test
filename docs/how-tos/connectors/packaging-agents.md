@@ -18,9 +18,9 @@ After installing the XMPro Package Manager, launch the application from the Micr
 
 On the first screen of the application, you can either create a new Connector package or import and update an existing one.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 &#x20;Use the arrows at the bottom of the page section to move forward or backward in the application.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](<../../.gitbook/assets/image (1002).png>)
 
@@ -42,9 +42,9 @@ The description is a brief explanation of what the Connector does, for example, 
 
 The [version](../../concepts/version.md) of the Connector. Any real number is acceptable, for example, "_1.02_".
 
-{% hint style="danger" %}
+<!-- unsupported tag removed -->
 If you make a change to an existing Connector, make sure you increment the version number as Application Designer will not allow you to upload two of the same Connectors with the same version.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ### **Entry Point**
 
@@ -56,9 +56,9 @@ For example, if a Connector with the class name “_Connector”_ is located in 
 
 The icon used to represent your Connector. Click the _Browse_ button, navigate to where you’ve stored the file via the Explorer and select the new image file.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 It is recommended that you upload either a JPG or PNG file with a size of 64×64 pixels to accommodate for retina displays.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## **References**
 
@@ -66,9 +66,9 @@ The References form is where you upload the DLL file(s) that were generated when
 
 To upload a file, click on the _Browse_ button next to the _DLL File(s)_ field and navigate to where the files are located and select them. When you’ve selected all the files needed, click on the _Add_ button to add them to the _Selected File(s)_ list. Please note that only files in the _Selected File(s)_ list will be included in the package. To remove a DLL from the list, click on the _Delete_ button next to the DLL name in the _Selected File(s)_ list.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 The XMPro Package Manager can package DLL(s) created in .NET.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](<../../.gitbook/assets/image (1331).png>)
 
@@ -120,17 +120,17 @@ Tick the checkbox if you would like to export the file as JSON too. It will be s
 
 ![](<../../.gitbook/assets/image (555).png>)
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 If you imported an existing file, ensure you enter a different file name or the original will be overwritten.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## **Review: Details**
 
 Lastly, you can navigate back through the steps to review the details that you’ve specified. If you are satisfied, complete the wizard by clicking the Save button below. Your package will be created as a file with a “.xmp” extension.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 If you imported an existing file, take care to either click 'Save As' to generate a new Agent, or click 'Save' to generate a new version of the original Agent.  Fu
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](<../../.gitbook/assets/image (1524).png>)
 
@@ -138,6 +138,6 @@ If you imported an existing file, take care to either click 'Save As' to generat
 
 * [How to upload your new Connector to Application Designer](manage-connectors.md)
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 You need to have the correct permissions set against your user to be able to edit and upload Connectors. This is a role not typically given to all users.
-{% endhint %}
+<!-- unsupported tag removed -->

@@ -2,11 +2,11 @@
 
 A Data Stream is a visual representation of a flow of data, which is depicted by the use of Agents that are connected by arrows that allow data to flow from one Agent to the next. Data streams are built in an interactive canvas environment that allows you to drag Agents from the toolbox to a drawing area. These Agents allow you to complete certain actions on the data. This includes aggregating, filtering, displaying, or re-saving the data into another database. &#x20;
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 It is recommended that you read the article listed below to improve your understanding of Data Streams.
 
 * [Data Stream](../../concepts/data-stream/)
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## How to Create a Data Stream
 
@@ -68,9 +68,9 @@ Stream Objects that are in the Data Stream can be copied and pasted using keyboa
 3. Once the Stream Object/s are highlighted in yellow, press and hold ctrl + C.&#x20;
 4. To paste the Stream Object that was just copied, press and hold ctrl + P.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 You can also copy a Stream Object from one Data Stream and paste it into a different Data Stream.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](../../.gitbook/assets/olRa9jDFBz.gif)
 

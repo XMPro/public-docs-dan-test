@@ -34,9 +34,9 @@ To export any XMPro Object, follow the steps below:
 
 ![](<../.gitbook/assets/export (2).png>)
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 To export a Widget, follow the steps in [Manage Widgets](apps/manage-widgets.md#exporting-a-widget).
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## Importing
 
@@ -57,13 +57,13 @@ To import any XMPro Object, follow the steps below:
 
 ![](../.gitbook/assets/Import\_2.png)
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 To import an App Page, follow the steps in [Import an App Page](apps/import-an-app-page.md).
-{% endhint %}
+<!-- unsupported tag removed -->
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 To import a Widget, follow the steps in [Manage Widgets](apps/manage-widgets.md#importing-a-widget).
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## Cloning
 

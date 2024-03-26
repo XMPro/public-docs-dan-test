@@ -51,17 +51,17 @@ XMPro Stream Host requires certain hardware and software specifications in order
 
 ![](<../../../.gitbook/assets/image (665).png>)
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 _Console Application_ is recommended for testing purposes.
 
 It will be listed in the Start menu under the name “_XMPro Stream Host_“ and **must be** **manually run as administrator** from the Start menu.
-{% endhint %}
+<!-- unsupported tag removed -->
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 _Windows Service_ is recommended for production environments.&#x20;
 
 It will automatically start after installation completes and the name of the service will be the same as the “_Device Name_” you specified when you downloaded the Connection Profile file or manually added the name to the installer.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## Connection Profile
 
@@ -79,9 +79,9 @@ Follow these steps if you selected _Connection Profile:_
 
 &#x20; _3_. Click Next and let the wizard install the Stream Host
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 If you selected _Manual_, see the section below for instructions on how to set it up.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](<../../../.gitbook/assets/image (713).png>)
 
@@ -104,6 +104,6 @@ If you decide to manually set up the connection settings for the Stream Host, yo
 
 The stream host installation is complete. Please click below to install the default Agents & Connectors:
 
-{% content-ref url="../install-connectors.md" %}
+<!-- unsupported tag removed -->
 [install-connectors.md](../install-connectors.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->

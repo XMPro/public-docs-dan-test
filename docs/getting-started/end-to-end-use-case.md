@@ -1,20 +1,21 @@
 # End-To-End Use Case
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 This Use Case assumes the XMPro platform is installed and configured, or you are using the [Free Trial](free-trial.md) that has everything set up for you.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 This step-by-step tutorial is meant to be an introduction to using the XMPro platform. Completing it will give you a solid foundation to understand the more advanced concepts and detailed how-to guides. This tutorial will explain how to create and design a Data Stream, configure Stream Objects to ingest, analyze, transform, and perform actions on data. You will also learn how to set up a Recommendation to generate alerts based on rule logic, create and design an App, create Data Sources and Connections, and configure a simple Data Grid and Chart.
 
-{% hint style="warning" %}
+<!-- unsupported tag removed -->
 Please note that the XMPro platform requires third-party cookies to be enabled on your browser.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## Use Case
 
 Let's assume there is a power plant that uses a heat exchanger to keep the turbine cool and at the optimum temperature. The heat exchanger circulates water between the cooling tower and the heat exchanger to dissipate heat. To keep a proper circulation of liquid, there are three pumps \[A, B, C] installed. Each Pump has a sensor that provides live data for Flow Rate (L/m) and Temperature (°C) using MQTT.
 
-Unless the Pump is under maintenance the Flow Rate should be above 15000 L/m and Water temperature should be below 130°C.
+Unless the Pump is under maintenance the Flow Rate should be above 15000 L/m and Water temperature should be below 130°C
+.
 
 Engineers should be alerted if the average flow rate falls below 250 L/s. If the average temperature starts to rise above 130°C then a critical level alert should be raised.
 
@@ -41,9 +42,9 @@ We will follow those four steps below.
 
 In this section, we will simulate reading data from pump sensors and a metadata store, and combine the data together into a single flow.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 See the [Data Stream Concept article](../concepts/data-stream/) for more information on Data Streams.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 To begin, we will need to create a new Data Stream. To create a Data Stream, follow the steps below:
 
@@ -69,9 +70,9 @@ Drag into the canvas one of each of the following Agents:
 * [CSV (Context Provider)](https://app.gitbook.com/o/-MZASoMaVZCmWsNG58Xo/s/GXmCW9YXz3UyPMXWyFoj/)
 * [Join (Transformation)](https://app.gitbook.com/o/-MZASoMaVZCmWsNG58Xo/s/2TiZMvlCsgDjO5L7S4tx/)
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 Refer to [How to Upload an Agent to Data Stream Designer](../how-tos/agents/manage-agents.md#uploading-an-agent-to-data-stream-designer) if you are not able to find the Agents in the toolbox or the correct versions.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 You can search for the Agent in the search bar, and click and drag the Agent into the canvas to add it. An instance of an Agent added to the canvas is referred to as a Stream Object.
 
@@ -106,9 +107,9 @@ Your connected Stream Objects should look like this:
 
 Now we will configure the added Stream Objects. Save your Data Stream now and after every change to propagate the changes throughout the Data Stream.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 &#x20;See the article on [how to configure Stream Objects](../concepts/data-stream/stream-object-configuration.md) for more information.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 #### Simulate Pump Data
 
@@ -116,9 +117,9 @@ Now we will configure the added Stream Objects. Save your Data Stream now and af
 
 We will need to simulate ingesting data about flow rate and temperature from sensors in the pumps. We can achieve this with the Event Simulator Agent. The "Simulate Pump Data" Event Simulator will constantly generate data defined by the Event Definitions at a rate defined by the Events per Second property.&#x20;
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 To edit the configuration of a Stream Object, either double-click it or click it once to select it and click the "Configure" button on the canvas header.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 Edit the "Simulate Pump Data" Stream Object and click the + button to the right of the Event Definition grid to add event definitions.
 
@@ -171,10 +172,10 @@ There is often metadata associated with assets that is not part of the live data
 Double-click on the "Simulate Context Data for Assets" Stream Object to open the configuration menu. You can also highlight the Stream Object and click on the "Configure" option at the top of the Data Stream. &#x20;
 
 &#x20;Download the provided file. The contents of the file are below the download link.
-
-{% file src="../.gitbook/assets/AssetsContext.csv" %}
+<!-- unsupported tag removed -->
+<!-- unsupported tag removed -->
 AssetsContext.csv
-{% endfile %}
+<!-- unsupported tag removed -->
 
 ```
 PumpId,UnderMaintenance,Manufacturer,ServiceDate
@@ -208,9 +209,9 @@ The "Contextualize Data" Join will join together the data from the CSV Context P
 * _Join Type_: Inner Join.
 * _On_: `L_PumpId` `=` `R_PumpId`
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 You may need to maximize the page to see the grid properly. You can do this by pressing the "Maximize" button in the top-right corner of the page. Press the "Restore" button in the top-right corner to return it to the regular size.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 Press "Apply" on the Contextualize Data configuration page, and press "Save" on the Data Stream page.
 
@@ -268,9 +269,9 @@ The Use Case requires that engineers should be alerted if the flow rate averaged
 
 To calculate the average temperature and flow rate over 5 seconds, drag in the Aggregate Agent and name it "Average across 5 seconds". Connect the "Change Unit to L/S" Calculated Field endpoint to the Aggregate Agent and save.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 You may need to maximize the page to see the grid properly. You can do this by pressing the "Maximize" button in the top-right corner of the page. Press the "Restore" button in the top-right corner to return it to the regular size.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 Configure the Aggregate Agent as follows:
 
@@ -335,9 +336,9 @@ Configure the Run Recommendation Stream Object as follows:
 * _Entity Identifier_: L\_PumpId - this is for the Recommendation to create separate Alerts for each Entity
 * _Columns To Return_: Leave empty (Return all columns)&#x20;
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 It is highly recommended that you use any [variables](../concepts/variable.md) that you already have that store the URL or key. You may use the variables that have already been set up if you are using the Free Trial.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 &#x20;Otherwise, the App Designer URL and Key can be found by following these steps:
 
@@ -345,9 +346,9 @@ It is highly recommended that you use any [variables](../concepts/variable.md) t
 2. Copy the App Designer URL from the browser's address bar and paste it into the Url field in the Run Recommendation configuration.&#x20;
 3. Click the "Settings" button in the top bar and click the "Copy" button to the right of the Integration Key and paste it in the Key field in the Run Recommendation configuration. You will only be able to see this if you have Admin access. If you do not have Admin access, you can ask an Admin to share the key with you.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 If you are configuring the URL and Integration Key without using variables, make sure you uncheck the "Use Connection Variables" checkbox option first.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](<../.gitbook/assets/image (448).png>)
 
@@ -387,13 +388,13 @@ Configure the "Post Pump Overview" Stream Object to store in cache and output on
 * _Entity Identifier_: L\_PumpId
 * _Primary Key_: L\_PumpId
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 It is highly recommended that you use any [variables](../concepts/variable.md) that you already have that store the URL or key. You may use the variables that have already been set up if you are using the Free Trial.
-{% endhint %}
+<!-- unsupported tag removed -->
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 If you are configuring the URL and Integration Key without using variables, make sure you uncheck the "Use Connection Variables" checkbox option first.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 Press "Apply" on the Post Pump Overview configuration page and press "Save" on the Data Stream page.
 
@@ -409,13 +410,13 @@ Configure the "Post Pump Specifics" Stream Object to cache and output 20 rows pe
 * _Entity Identifier_: L\_PumpId
 * _Primary Key_: L\_PumpId and L\_ReadingNo
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 It is highly recommended that you use any [variables](../concepts/variable.md) that you already have that store the URL or key. You may use the variables that have already been set up if you are using the Free Trial.
-{% endhint %}
+<!-- unsupported tag removed -->
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 If you are configuring the URL and Integration Key without using variables, make sure you uncheck the "Use Connection Variables" checkbox option first.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 Press "Apply" on the Post Pump Specifics configuration page and press "Save" on the Data Stream page.
 
@@ -427,9 +428,9 @@ Your Data Stream is now complete. To start the stream, click on the "Publish" bu
 
 To see if data is flowing properly within the Data Stream, you will need to Publish the Data Stream. Before publishing, you want to make sure there are no errors in the configurations of the Stream Objects. Click on the "Integrity Check" option at the top of the Data Stream. If any errors are present, the Stream Object with the errors will turn red. Hovering over the Stream Object will show you the list of errors. Once these errors are fixed, you will need to run the Integrity Check again.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 To read more about Integrity Checks, read the [Verifying Stream Integrity](../concepts/data-stream/verifying-stream-integrity.md) article.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 Once all Stream Objects have passed the Integrity Check, you can click on "Publish", then "Live View", on the top of the Data Stream. The Live Data will open on the side, and you can then click on "Select Views" to click on the Stream Objects you want to troubleshoot.
 
@@ -437,9 +438,9 @@ Once all Stream Objects have passed the Integrity Check, you can click on "Publi
 
 If data is displaying for the Stream Object, that means the Stream Object should be working correctly. If not, you can recheck your configuration values for the Stream Object. You can also check if you have a Stream Host running. There are also other ways that you can troubleshoot Data Streams.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 For more ways on how you can troubleshoot a Data Stream, read the [Troubleshoot a Data Stream](../how-tos/data-streams/troubleshoot-a-data-stream.md) article.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## 2. Create Event Rules & Recommendations
 
@@ -466,9 +467,9 @@ To create a new Recommendation, follow the steps below after navigating to the R
 
 ![](<../.gitbook/assets/image (1410).png>)
 
-{% hint style="warning" %}
+<!-- unsupported tag removed -->
 Make sure to click the "Manage Access" command and give at least yourself Run Access, otherwise, you won't be able to see any Recommendation Alerts that will be generated by this Recommendation.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](<../.gitbook/assets/image (1511).png>)
 
@@ -480,9 +481,9 @@ Select the _Enable Execution Order_ checkbox, since we want the more critical ru
 
 Give the Rule the following properties:
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 The tags for the Alert Heading and Alert Description fields will not work if they are copied and pasted into the field. You will need to select the tags yourself by adding an `@` symbol and selecting from the tags in the list.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 | Name              | Value                                                                                                                                                                     | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -498,9 +499,9 @@ The Rule Logic determines whether a Recommendation Alert will be created on rece
 
 ![](<../.gitbook/assets/image (226).png>)
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 [For more details on Rule Logic, see this article](../concepts/recommendation/rule.md#rule-logic).
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ### Create recommendations & Triage Instructions
 
@@ -621,9 +622,9 @@ We will want two sections on the landing page, so follow the steps to duplicate 
 
 ![](<../.gitbook/assets/image (522).png>)
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 See the article on [Page Layers](../concepts/application/page-layers.md) for more information.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 The result should look as below:
 
@@ -641,9 +642,9 @@ The left side of the page should be twice as wide as the right side, so follow t
 
 ![](<../.gitbook/assets/image (808).png>)
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 See the articles on [How to use the Style Manager](../how-tos/apps/use-block-styling-and-devices.md) and [How to use Flex](../how-tos/apps/use-flex.md) for more information.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 The result should look like this:
 
@@ -672,9 +673,9 @@ Replace the deleted Card by dragging in a Card from the Blocks, which will inclu
 
 ![](<../.gitbook/assets/image (761).png>)
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 See the article on [Blocks](../concepts/application/block.md) for more information.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 We want the card to take up half the width of the left section, and overflow to the next line when there are more than 2 cards.&#x20;
 
@@ -734,9 +735,9 @@ To change a property to Expression mode, follow the steps below:
 
 ![](<../.gitbook/assets/image (1458).png>)
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 See the [Dynamic and Expression Properties section of the Block Properties article](../concepts/application/block-properties.md#dynamic-and-expression-properties) for more information.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 Select the Value Block next to 'Flow Rate'. Click on the "Block Properties" tab and give the Text an expression value of `ToStr(Round({L_FlowRate})) + " L/m"`. Give the Coolant Temperature Value Text Block an expression value of `ToStr(Round({L_WaterTemperature})) + "°C"`.
 
@@ -754,9 +755,9 @@ To get back to editing the App, press the "Edit" button at the top-right of the 
 
 ![](<../.gitbook/assets/image (121).png>)
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 See the [How to Manage Access](../how-tos/manage-access.md) article for more information.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 #### Drilldown Page
 
@@ -785,9 +786,9 @@ Click on the "Page Layers" tab. Expand the carets until you get to "Box Hyperlin
 
 ![](<../.gitbook/assets/image (218).png>)
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 If you are unable to see the parameters in the drop-down list, double-check that the Data Source has been applied to the correct Card block, as shown [above](end-to-end-use-case.md#data-source-for-pump-data).
-{% endhint %}
+<!-- unsupported tag removed -->
 
 To see the navigation in action, launch the Landing Page and click on one of the cards. You will be navigated to the Pump Details page.
 
@@ -821,9 +822,9 @@ When selecting the "PumpId", press the button on the left of the field to toggle
 
 ![](<../.gitbook/assets/image (1550).png>)
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 See the [Chart](../blocks-toolbox/visualizations/chart.md) article for more information.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 We want the chart to look great and display a line series in a separate panel for flow rate and temperature.  To do this, edit the Block Properties of the Chart as follows:
 

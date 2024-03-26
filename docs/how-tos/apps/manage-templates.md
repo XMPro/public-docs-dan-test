@@ -2,12 +2,12 @@
 
 Templates are pre-designed [Applications](../../concepts/application/) that can be selected when creating a new Application. Templates can be used to save time without having to build a whole new App layout from scratch, and also allow you to create a consistent theme or design that you can use across all your Applications.&#x20;
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 It is recommended that you read the article listed below to improve your understanding of Templates.
 
 * [Template](../../concepts/application/template.md)
 * [How to Manage Apps](manage-apps.md)
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## Creating a Template
 
@@ -25,9 +25,9 @@ To create a Template, make sure you already have an App that you want to use to 
 
 ![](<../../.gitbook/assets/template\_2 (1).png>)
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 Adding screenshots helps other users when they want to have a look at the Template to understand what the Template contains.&#x20;
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## Using a Template
 

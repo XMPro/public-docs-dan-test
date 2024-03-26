@@ -59,9 +59,9 @@ In order to proceed with the deployment, you are required to:
    8. Click Next and Install.
    9. Go to the Start button and Administrative Tools to confirm IIS Manager was installed.&#x20;
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 Please contact your XMPro account manager or [**XMPro support**](https://xmpro.com/support/) to request the installers.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## Install
 
@@ -79,9 +79,9 @@ Please contact your XMPro account manager or [**XMPro support**](https://xmpro.c
 
 ![](<../../docs/.gitbook/assets/image (467).png>)
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 This "Setup" will install the installer you will use to install the database and website
-{% endhint %}
+<!-- unsupported tag removed -->
 
 4. When this initial installation is complete, open the start menu
 5. Search for "XMPro Subscription Manager" and click on Run as Administrator
@@ -96,9 +96,9 @@ This "Setup" will install the installer you will use to install the database and
 
 7. Select the components that you would like to install and click "Next"
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 If this is the first time you are installing Subscription Manager, it is highly recommended that you select both “Database” and “Web Application”
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](<../../docs/.gitbook/assets/image (1357).png>)
 
@@ -108,9 +108,9 @@ If this is the first time you are installing Subscription Manager, it is highly 
 
 8. Select the server instance to which you would like to connect
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 If you already know the server instance name, it can be entered manually.  Otherwise, use the refresh button on the right to load all available servers. Selecting the “Local Servers” check box will limit the search to the local network.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](<../../docs/.gitbook/assets/image (1626).png>)
 
@@ -120,9 +120,9 @@ If you already know the server instance name, it can be entered manually.  Other
 
 &#x20; 9.1. Windows Authentication: you may leave the options as is
 
-{% hint style="danger" %}
+<!-- unsupported tag removed -->
 **Warning:** Configure a service account that can be used for Windows authentication.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 &#x20; 9.2. SQL authentication:
 
@@ -130,17 +130,17 @@ If you already know the server instance name, it can be entered manually.  Other
 * Select the “Use SQL Authentication” option
 * Enter the username and password of the SQL Server instance you’re connecting to
 
-{% hint style="danger" %}
+<!-- unsupported tag removed -->
 **Warning:** The SQL user must have permission to create databases on the server.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](<../../docs/.gitbook/assets/image (1377).png>)
 
 **Database**
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 The Database section allows you to configure if you would like to use an existing database or create a new one. Leaving the options as default will result in a new database being created.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 To change the pre-populated name of the new database or to select to use an existing database:&#x20;
 
@@ -156,13 +156,13 @@ To change the pre-populated name of the new database or to select to use an exis
 
 13. Verify if your DNS name is correct, if not, edit the value to contain the correct DNS name
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 This is your fully qualified domain name (FQDN). Please find some examples below explaining the DNS name.
 
 * https://localhost/xmprosubscriptionmanager&#x20;
 * https://desktop-f64k32e/xmprosubscriptionmanager
 * https://demo.azurewebsites.com
-{% endhint %}
+<!-- unsupported tag removed -->
 
 | Complete Address                                 | DNS                     | Virtual Directory                       |
 | ------------------------------------------------ | ----------------------- | --------------------------------------- |
@@ -174,29 +174,29 @@ This is your fully qualified domain name (FQDN). Please find some examples below
 
 14. Select the parent site from the Web Site drop-down
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 By default, the Virtual Directory name will be "xmprosubscriptionmanager" which will be created within IIS for the Subscription Manager site. If you wish to change the name you can specify it in the "Virtual Directory Name" text box.&#x20;
-{% endhint %}
+<!-- unsupported tag removed -->
 
 15. Verify if the value in the content directory field is correct. If not, apply any changes needed
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 By default, the option to create a sub-directory within the content directory is checked and you can specify a name in the “Sub-Directory” text box.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 #### **Application Pool**
 
 16. If you wish to change this name or use an existing application pool, click the Change button&#x20;
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 By default, a new application pool will be created when installing the site. The new application pool will have the same name as the name specified in the “Application Pool Name” field.&#x20;
-{% endhint %}
+<!-- unsupported tag removed -->
 
 17. Either select the “Create a new Application Pool” or “Use an existing Application Pool” option&#x20;
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 If you choose “Create a new Application Pool”, give it an appropriate name. If you choose “Use an existing Application Pool”, select an existing application pool from the drop-down.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](<../../docs/.gitbook/assets/image (12).png>)
 
@@ -204,34 +204,34 @@ If you choose “Create a new Application Pool”, give it an appropriate name. 
 
 18. Select a security account that can be used
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 The default option is “Local System”, which is a built-in security account. You can either change it by selecting a different built-in security account from the drop-down or by specifying your own security account.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](<../../docs/.gitbook/assets/image (1258).png>)
 
-{% hint style="danger" %}
+<!-- unsupported tag removed -->
 **Warning**: If you selected Windows authentication to connect to the database, you must choose “Specify your own Security Account” and provide the correct credentials. The service account must have batch logon rights enabled. More Information on how to set up a custom application pool in IIS as well as steps on how to enable batch logon rights can be found [i](https://docs.xmpro.com/knowledge-base-2/setting-up-a-custom-application-pool-so-that-windows-authentication-can-be-used-when-installing-xmpro-enabling-batch-logon-rights-for-a-user/)n this [**link**](https://docs.xmpro.com/knowledge-base-2/setting-up-a-custom-application-pool-so-that-windows-authentication-can-be-used-when-installing-xmpro-enabling-batch-logon-rights-for-a-user/).
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ### SMTP
 
 19. Enter the SMTP details referenced in the [**1. Preparation**](../../docs/installation/install.md#smtp-account) guide. \
     By default, the "Enable Email Notification" is checked.&#x20;
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 SMTP can be disabled by unchecking the "Enable Email Notification" checkbox if you don't want to receive email notifications. If at a later stage email notifications are needed, the installer can be run again to add SMTP functionality.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](<../../docs/.gitbook/assets/image (1381).png>)
 
-{% hint style="danger" %}
+<!-- unsupported tag removed -->
 **Warning:** You are required to set up an SMTP account. Failing to do so will make registering new users very cumbersome.
 
 
 
 Check your connection to the email server using the "Test SMTP settings" button.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ### Certificates
 
@@ -242,9 +242,9 @@ During the installation process, you will be asked to upload two certificates: a
 20. Start by browsing to a suitable _.pfx_ certificate file. Specify the password for the certificate&#x20;
 21. Use the dropdown to select "Subject Name"
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 It is recommended that you choose “LocalMachine” as the Location for the signing certificate.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](<../../docs/.gitbook/assets/image (356).png>)
 
@@ -253,15 +253,15 @@ It is recommended that you choose “LocalMachine” as the Location for the sig
 22. Start by browsing to a suitable _.pfx_ certificate file. Specify the password for the certificate
 23. Use the dropdown to select "Subject Name"
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 It is recommended that you choose “LocalMachine” as the Location for the encryption certificate.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](<../../docs/.gitbook/assets/image (1431).png>)
 
-{% hint style="danger" %}
+<!-- unsupported tag removed -->
 **Warning:** Both certificates must contain a private key.&#x20;
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ### Final Steps
 
@@ -269,13 +269,13 @@ It is recommended that you choose “LocalMachine” as the Location for the enc
 
 ![](<../../docs/.gitbook/assets/image (1658).png>)
 
-{% hint style="danger" %}
+<!-- unsupported tag removed -->
 **Warning:** Note the username and password on the last screen of the installer. This user has been created during installation as Subscription Manager itself needs at least one user in the system. Without it, you cannot add other users.
 
 
 
 Change the password of the default user to a new, secure password after logging in for the first time.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ### Accessing the Website
 
@@ -283,9 +283,9 @@ Change the password of the default user to a new, secure password after logging 
 
 25. &#x20;Access the website by putting the URL into your browser
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 The format of the URL will be as follows: “_https://yourdnsname/virtualdirectoryname/_”
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](<../../docs/.gitbook/assets/image (1728).png>)
 
@@ -304,9 +304,9 @@ To install the Data Stream Designer and App Designer, you will need an Installat
 
 29. &#x20;Enter a File Key and press OK to download the file
 
-{% hint style="danger" %}
+<!-- unsupported tag removed -->
 **Warning:** Remember the file key as it is needed when installing Data Stream Designer and App Designer.&#x20;
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](<../../docs/.gitbook/assets/image (1020).png>)
 
@@ -343,9 +343,9 @@ To solve this issue, use this [**article**](https://docs.xmpro.com/knowledge-bas
 
 7. Select the components that you would like to install
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 If this is the first time you are installing the Data Stream Designer, it is highly recommended that you select both “Database” and “Web Application”. &#x20;
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](<../../docs/.gitbook/assets/image (120).png>)
 
@@ -355,9 +355,9 @@ If this is the first time you are installing the Data Stream Designer, it is hig
 
 8. Select the server instance you would like to connect to.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 If you already know the server instance name, it can be entered manually. Otherwise, use the refresh button on the right to load all available servers. Selecting the “Local Servers” check box will limit the search to the local network.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](<../../docs/.gitbook/assets/image (927).png>)
 
@@ -367,9 +367,9 @@ If you already know the server instance name, it can be entered manually. Otherw
 
 &#x20; 9.1. Windows Authentication: you may leave the options as is
 
-{% hint style="danger" %}
+<!-- unsupported tag removed -->
 **Warning:** Configure a service account that can be used for Windows authentication.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 &#x20; 9.2. SQL Authentication:  &#x20;
 
@@ -377,17 +377,17 @@ If you already know the server instance name, it can be entered manually. Otherw
 * Select the “Use SQL Authentication” option
 * Enter the username and password of the SQL Server instance you’re connecting to
 
-{% hint style="danger" %}
+<!-- unsupported tag removed -->
 **Warning:** The SQL user must have permission to create databases on the server.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](<../../docs/.gitbook/assets/image (1243).png>)
 
 **Database**
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 The Database section allows you to configure if you would like to use an existing database or create a new one. Leaving the options as default will result in a new database being created.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 To change the pre-populated name of the new database or to select to use an existing database:&#x20;
 
@@ -400,9 +400,9 @@ To change the pre-populated name of the new database or to select to use an exis
 
 If you are upgrading from 4.0 to 4.1 or greater, you will be shown the Encryption Upgrade Settings page. This will assist you in migrating existing Server Variables to the new method of encryption.
 
-{% hint style="warning" %}
+<!-- unsupported tag removed -->
 To upgrade existing Server Variables, the details of the **Subscription Manager** database are required, **not** the **Data Stream Designer** database (provided on the previous page).
-{% endhint %}
+<!-- unsupported tag removed -->
 
 #### Upgrade Server Variables?
 
@@ -429,13 +429,13 @@ To upgrade existing Server Variables, the details of the **Subscription Manager*
 
 16. &#x20;Verify if your DNS name is correct. If not, edit the value to contain the correct DNS name
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 This is your fully qualified domain name (FQDN). Please find some examples below explaining the DNS name.
 
 * https://localhost/xmprosubscriptionmanager&#x20;
 * https://desktop-f64k32e/xmprosubscriptionmanager&#x20;
 * https://demo.azurewebsites.com&#x20;
-{% endhint %}
+<!-- unsupported tag removed -->
 
 | Complete Address                                 | DNS                     | Virtual Directory                       |
 | ------------------------------------------------ | ----------------------- | --------------------------------------- |
@@ -447,29 +447,29 @@ This is your fully qualified domain name (FQDN). Please find some examples below
 
 17. Select the parent site from the Web Site drop-down
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 By default, the Virtual Directory name will be "DataStreams" which will be created within IIS for the Data Stream site. If you wish to change the name you can specify it in the "Virtual Directory Name" text box.&#x20;
-{% endhint %}
+<!-- unsupported tag removed -->
 
 18. Verify the value in the content directory field. If incorrect, apply any changes needed
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 By default, the option to create a sub-directory within the content directory is checked and you can specify a name in the “Sub-Directory” text box.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 #### Application Pool
 
 19. If you wish to change the name or use an existing application pool, click the Change button&#x20;
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 By default, a new application pool will be created when installing the site. The new application pool will have the same name as the name specified in the “Application Pool Name” field.&#x20;
-{% endhint %}
+<!-- unsupported tag removed -->
 
 20. Either select the “Create a new Application Pool” or “Use an existing Application Pool” option&#x20;
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 If you choose “Create a new Application Pool”, give it an appropriate name. If you choose “Use an existing Application Pool”, select an existing application pool from the drop-down.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](<../../docs/.gitbook/assets/image (506).png>)
 
@@ -477,24 +477,24 @@ If you choose “Create a new Application Pool”, give it an appropriate name. 
 
 21. Select "Local System" as the security account.&#x20;
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 The two options available to choose from are using a built-in security account or specifying your own security account.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 <figure><img src="../../docs/.gitbook/assets/DS_LocalSystem.png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="danger" %}
+<!-- unsupported tag removed -->
 **Warning**: If you selected Windows authentication to connect to the database, you must choose “Specify your own Security Account” and provide the correct credentials. The service account must have batch logon rights enabled. More Information on how to set up a custom application pool in IIS as well as steps on how to enable batch logon rights can be found [i](https://docs.xmpro.com/knowledge-base-2/setting-up-a-custom-application-pool-so-that-windows-authentication-can-be-used-when-installing-xmpro-enabling-batch-logon-rights-for-a-user/)n this [**link**](https://docs.xmpro.com/knowledge-base-2/setting-up-a-custom-application-pool-so-that-windows-authentication-can-be-used-when-installing-xmpro-enabling-batch-logon-rights-for-a-user/).
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ### Installation Profile
 
 22. Click the Browse button to upload an installation profile for Subscription Manager
 23. Select a file and click "Next"
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 This file ensures the Data Stream Designer contains the correct details for the Subscription Manager instance you would like to use. The file can be obtained through the [steps outlined previously in this tutorial](on-premise.md#obtaining-an-installation-profile).
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](<../../docs/.gitbook/assets/image (1723).png>)
 
@@ -502,9 +502,9 @@ This file ensures the Data Stream Designer contains the correct details for the 
 
 ![](<../../docs/.gitbook/assets/image (766).png>)
 
-{% hint style="danger" %}
+<!-- unsupported tag removed -->
 **Warning:** If you are unable to sign in at this step, please follow this [**link**](https://docs.microsoft.com/en-us/troubleshoot/browsers/enhanced-security-configuration-faq#how-to-turn-off-internet-explorer-esc-on-windows-servers) to disable Internet Explorer Enhanced Security Configuration.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ### Final Steps
 
@@ -524,9 +524,9 @@ This file ensures the Data Stream Designer contains the correct details for the 
 
 ![](<../../docs/.gitbook/assets/image (869).png>)
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 This "Setup" will install the installer you will use to install the database and website
-{% endhint %}
+<!-- unsupported tag removed -->
 
 4. When this initial installation is complete, open the start menu&#x20;
 5. Search for "App Designer" and click on Run as Administrator
@@ -541,9 +541,9 @@ This "Setup" will install the installer you will use to install the database and
 
 7. Select the components that you would like to install and click "Next"
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 If this is the first time you are installing Subscription Manager, it is highly recommended that you select both “Database” and “Web Application”.&#x20;
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](<../../docs/.gitbook/assets/image (323).png>)
 
@@ -553,9 +553,9 @@ If this is the first time you are installing Subscription Manager, it is highly 
 
 8. Select the server instance you would like to connect to
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 If you already know the server instance name, it can be entered manually.  Otherwise, use the refresh button on the right to load all available servers. Selecting the “Local Servers” check box will limit the search to the local network.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](<../../docs/.gitbook/assets/image (891).png>)
 
@@ -565,9 +565,9 @@ If you already know the server instance name, it can be entered manually.  Other
 
 &#x20; 9.1. Windows Authentication: you may leave the options as is
 
-{% hint style="danger" %}
+<!-- unsupported tag removed -->
 **Warning:** Configure a service account that can be used for Windows authentication
-{% endhint %}
+<!-- unsupported tag removed -->
 
 &#x20; 9.2. SQL Authentication:&#x20;
 
@@ -575,17 +575,17 @@ If you already know the server instance name, it can be entered manually.  Other
 * Select the “Use SQL Authentication” option
 * Enter the username and password of the SQL Server instance you’re connecting to
 
-{% hint style="danger" %}
+<!-- unsupported tag removed -->
 **Warning:** The SQL user must have permission to create databases on the server.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](<../../docs/.gitbook/assets/image (1307).png>)
 
 **Database**
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 The Database section allows you to configure if you would like to use an existing database or create a new one. Leaving the options as default will result in a new database being created.&#x20;
-{% endhint %}
+<!-- unsupported tag removed -->
 
 To change the pre-populated name of the new database or to select to use an existing database:&#x20;
 
@@ -598,21 +598,21 @@ To change the pre-populated name of the new database or to select to use an exis
 
 If you are upgrading from 4.0 to 4.1 or greater, you will be shown the Encryption Upgrade Settings page. This will assist you in migrating existing Server Variables and Connector settings to the new method of encryption.
 
-{% hint style="warning" %}
+<!-- unsupported tag removed -->
 To upgrade existing Server Variables, the details of the **Subscription Manager** database is required, **not** the **Data Stream Designer** database (provided on the previous page).
-{% endhint %}
+<!-- unsupported tag removed -->
 
 #### App Designer Encryption Key
 
 12. Enter the App Designer Encryption Key
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 To find the App Designer Encryption Key, inspect the appsettings.json file in the web server files. It will be found under the JSON path "xmpro.appDesigner.encryptionKey".
 
 If that path does not exist, it is stored in a cloud-service key vault. Search for the "xmpro.keyVault" JSON object for the details required to find the encryption key.
 
 Documentation for the [Azure](on-premise.md#server) and [Amazon](https://docs.aws.amazon.com/kms/latest/developerguide/overview.html) key vaults have been linked for convenience.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](<../../docs/.gitbook/assets/AD Encryption Upgrade 1.PNG>)
 
@@ -639,13 +639,13 @@ Documentation for the [Azure](on-premise.md#server) and [Amazon](https://docs.aw
 
 17. Verify if your DNS name is correct, if not, edit the value to contain the correct DNS name
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 This is your fully qualified domain name (FQDN). Please find some examples below explaining the DNS name.
 
 * https://localhost/xmprosubscriptionmanager&#x20;
 * https://desktop-f64k32e/xmprosubscriptionmanager &#x20;
 * https://demo.azurewebsites.com&#x20;
-{% endhint %}
+<!-- unsupported tag removed -->
 
 | https://localhost/xmprosubscriptionmanager       | <p></p><p>localhost</p> | <p></p><p>xmprosubscriptionmanager </p> |
 | ------------------------------------------------ | ----------------------- | --------------------------------------- |
@@ -656,29 +656,29 @@ This is your fully qualified domain name (FQDN). Please find some examples below
 
 18. Select the parent site from the Web Site drop-down
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 By default, the Virtual Directory name will be "AppDesigner" which will be created within IIS for the Data Stream site. If you wish to change the name you can specify it in the "Virtual Directory Name" text box.&#x20;
-{% endhint %}
+<!-- unsupported tag removed -->
 
 19. Verify if the value in the content directory field is correct. If not, apply any changes needed
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 By default, the option to create a sub-directory within the content directory is checked and you can specify a name in the “Sub-Directory” text box.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 #### **Application Pool**
 
 20. If you wish to change this name or use an existing application pool, click the Change button&#x20;
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 By default, a new application pool will be created when installing the site. The new application pool will have the same name as the name specified in the “Application Pool Name” field.&#x20;
-{% endhint %}
+<!-- unsupported tag removed -->
 
 21. Either select the “Create a new Application Pool” or “Use an existing Application Pool” option&#x20;
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 If you choose “Create a new Application Pool”, give it an appropriate name. If you choose “Use an existing Application Pool”, select an existing application pool from the drop-down.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](<../../docs/.gitbook/assets/image (830).png>)
 
@@ -686,15 +686,15 @@ If you choose “Create a new Application Pool”, give it an appropriate name. 
 
 22. Select "Local System" as the security account
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 You can either change it by selecting a different built-in security account from the drop-down or by specifying your own security account.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 <figure><img src="../../docs/.gitbook/assets/AD_LocalSystem.png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="danger" %}
+<!-- unsupported tag removed -->
 **Warning**: If you selected Windows authentication to connect to the database, you must choose “Specify your own Security Account” and provide the correct credentials. The service account must have batch logon rights enabled. More Information on how to set up a custom application pool in IIS as well as steps on how to enable batch logon rights can be found [i](https://docs.xmpro.com/knowledge-base-2/setting-up-a-custom-application-pool-so-that-windows-authentication-can-be-used-when-installing-xmpro-enabling-batch-logon-rights-for-a-user/)n this [**link**](https://docs.xmpro.com/knowledge-base-2/setting-up-a-custom-application-pool-so-that-windows-authentication-can-be-used-when-installing-xmpro-enabling-batch-logon-rights-for-a-user/).
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ### Integration Details
 
@@ -707,19 +707,19 @@ You can either change it by selecting a different built-in security account from
 24. Enter the SMTP settings referenced in the [**1. Preparation**](../../docs/installation/install.md#smtp-account) guide. \
     By default, the "Enable Email Notification" is checked.&#x20;
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 SMTP can be disabled by unchecking the "Enable Email Notification" checkbox if you don't want to receive email notifications. If at a later stage email notifications are needed, the installer can be run again to add SMTP functionality.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](<../../docs/.gitbook/assets/image (164).png>)
 
-{% hint style="danger" %}
+<!-- unsupported tag removed -->
 **Warning:** You are required to set up an SMTP account. Failing to do so will make registering new users very cumbersome.
 
 
 
 It is highly recommended to check your connection to the email server using the "Test SMTP settings" button.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ### Twilio (Optional)
 
@@ -732,11 +732,11 @@ It is highly recommended to check your connection to the email server using the 
 26. Click the Browse button to upload an installation profile for Subscription Manager
 27. Select a file and click "Next"
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 This file ensures the App Designer contains the correct details for the Subscription Manager instance you would like to use. The file used can be obtained through the [steps outlined previously in this tutorial](on-premise.md#obtaining-an-installation-profile).
 
 The Installation Profile generated for Data Stream Installer can be used in this step.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](<../../docs/.gitbook/assets/image (507).png>)
 
@@ -744,9 +744,9 @@ The Installation Profile generated for Data Stream Installer can be used in this
 
 ![](<../../docs/.gitbook/assets/image (412).png>)
 
-{% hint style="danger" %}
+<!-- unsupported tag removed -->
 **Warning:** If you are unable to sign in at this step, please follow this [**link**](https://docs.microsoft.com/en-us/troubleshoot/browsers/enhanced-security-configuration-faq#how-to-turn-off-internet-explorer-esc-on-windows-servers) to disable Internet Explorer Enhanced Security Configuration.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ### Final Steps
 
@@ -756,9 +756,9 @@ The Installation Profile generated for Data Stream Installer can be used in this
 
 The installation of the XMPro Platform is now complete, but there are some environment setup steps before you can use the platform. Please click the below link for further instructions:
 
-{% content-ref url="../../docs/installation/3.-complete-installation/" %}
+<!-- unsupported tag removed -->
 [3.-complete-installation](../../docs/installation/3.-complete-installation/)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
 ## Upgrade XMPro
 

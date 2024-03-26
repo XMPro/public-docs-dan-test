@@ -2,11 +2,11 @@
 
 A Stream Host is an application that can either be installed as a Windows Service or as a Console Application. Stream Hosts enable Data Streams to run and execute actions and are also responsible for getting the configurations of [Non-Virtual Agents](../concepts/agent/virtual-vs-non-virtual-agents.md#non-virtual-agents).
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 It is recommended that you read the article listed below to improve your understanding of Stream Host.
 
 * [Stream Host](../concepts/collection.md#stream-hosts)
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## How to Install a Stream Host
 
@@ -51,9 +51,9 @@ You can change the Log level to either Info or Trace. To change the Log Level, f
 3. Click the Stream Hosts button.
 4. Select the desired Stream Host.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 [See the Collection and Stream Hosts article for more information on the Log Level.](../concepts/collection.md#set-log-level)&#x20;
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](<../.gitbook/assets/image (1659).png>)
 

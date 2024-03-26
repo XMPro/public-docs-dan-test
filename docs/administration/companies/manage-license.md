@@ -1,16 +1,16 @@
 # Manage License
 
-{% hint style="warning" %}
+<!-- unsupported tag removed -->
 This section is intended for Global Administrative users. No other type of user can manage data about companies and their subscription Subscriptions.
-{% endhint %}
+<!-- unsupported tag removed -->
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 Each product must have at least one user assigned an admin role, to configure product admin settings and respond to a license expiry warning.
-{% endhint %}
+<!-- unsupported tag removed -->
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 As noted [here](../../concepts/xmpro-ai/xmpro-notebook.md#licensing), separate licenses are required for AI and XMPro Notebook to access the AI functionality.&#x20;
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## Request a new License
 
@@ -33,9 +33,9 @@ If a Company's license is expiring or expired it will need to be updated. To do 
 
 <figure><img src="../../.gitbook/assets/Manage License - Update License.png" alt=""><figcaption><p>Fig 2: Update a License</p></figcaption></figure>
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 You can see the expiry date and the number of days remaining for each product on the Subscriptions page.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## Expiring License
 
@@ -47,8 +47,8 @@ When a Company's Subscription has less than 30 days remaining before it expires,
 
 When a Company's Subscription has expired, a banner will appear at the top of the page of the Product and you will not be able to do anything with the Product. Please [contact support](http://xmpro.com/support/) to renew your license.
 
-{% hint style="warning" %}
+<!-- unsupported tag removed -->
 If your subscription has expired, you will need to sign out and back in again for the new license to take effect.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![Fig 4: Expired License](<../../.gitbook/assets/image (1282).png>)

@@ -28,9 +28,9 @@ The _disabled_ property is common to most Blocks;
 
 The Toolbar Block has 3 areas, _before_, _center,_ and _after_. Adding new items can be done in two ways. The first one is to add it by clicking the _plus_ sign when you have either the toolbar or tollbar item selected. This is will create a new item with default settings.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 [See the Canvas article for more details on these controls.](../../concepts/application/canvas.md#block-toolbar)&#x20;
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](<../../.gitbook/assets/adding toolbar items (1).gif>)
 

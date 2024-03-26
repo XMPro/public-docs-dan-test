@@ -6,9 +6,9 @@ A Layout Grid is a Block that separates a given area into a grid. Columns and ro
 
 To add a new row, select the cell and click on the up symbol in the top-right hand block toolbar. This will then select the parent of the cell, which is the row. Then, click on the plus button in the toolbar.&#x20;
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 [See the Canvas article for more details on these controls.](../../concepts/application/canvas.md#block-toolbar)&#x20;
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](../../.gitbook/assets/wMYuRsYNFy.gif)
 
@@ -16,9 +16,9 @@ To add a new row, select the cell and click on the up symbol in the top-right ha
 
 To add a new column, select any cell and click on the plus button in the top-right hand block toolbar.&#x20;
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 [See the Canvas article for more details on these controls.](../../concepts/application/canvas.md#block-toolbar)&#x20;
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](../../.gitbook/assets/lGuB9XBnkE.gif)
 
@@ -26,9 +26,9 @@ To add a new column, select any cell and click on the plus button in the top-rig
 
 To delete a row, highlight a cell, click on the up symbol in the top-right hand block toolbar to take you to the parent row. Go back to the top-right hand toolbar and click on the delete bin symbol.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 [See the Canvas article for more details on these controls.](../../concepts/application/canvas.md#block-toolbar)&#x20;
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](../../.gitbook/assets/16KCy2SFp1.gif)
 
@@ -36,9 +36,9 @@ To delete a row, highlight a cell, click on the up symbol in the top-right hand 
 
 To delete a column, highlight a cell, go to the top-right hand toolbar and click on the delete bin symbol.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 [See the Canvas article for more details on these controls.](../../concepts/application/canvas.md#block-toolbar)&#x20;
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](../../.gitbook/assets/7vldnEIMVV.gif)
 

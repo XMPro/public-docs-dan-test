@@ -1,17 +1,17 @@
 # Recommendations
 
-{% content-ref url="recommendation-alert-discussion.md" %}
+<!-- unsupported tag removed -->
 [recommendation-alert-discussion.md](recommendation-alert-discussion.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="recommendation-analytics.md" %}
+<!-- unsupported tag removed -->
 [recommendation-analytics.md](recommendation-analytics.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="recommendation-chart.md" %}
+<!-- unsupported tag removed -->
 [recommendation-chart.md](recommendation-chart.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="recommendations.md" %}
+<!-- unsupported tag removed -->
 [recommendations.md](recommendations.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->

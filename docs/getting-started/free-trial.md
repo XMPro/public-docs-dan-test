@@ -20,9 +20,9 @@ During the free trial, you will get access to the full suite of XMPro Products a
 
 If you require additional Agents and Connectors that are not available in your trial account, please [contact support](http://xmpro.com/support/).
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 You will need to upgrade your XMPro Free Account to a paid subscription to continue using the services after your trial period expires. Read the [free trial terms and conditions](https://xmpro.com/free-trial-terms/) for more details.&#x20;
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## Explore The Demo Use Case
 

@@ -8,9 +8,9 @@ An Accordion is a group of Accordion Items that shows other Blocks and content w
 
 To add a new Accordion Item, you can either click on an Accordion Item or the Accordion itself and click the plus button in the toolbar.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 [See the Canvas article for more details on these controls. ](../../concepts/application/canvas.md#block-toolbar)
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](../../.gitbook/assets/e7gAx9pD7Y.gif)
 
@@ -18,9 +18,9 @@ To add a new Accordion Item, you can either click on an Accordion Item or the Ac
 
 You can clone both Accordion Items and the whole Accordion itself. To clone an Accordion Item, select an Accordion Item and click on the clone symbol in the top right-hand Block toolbar. This will create a copy of an existing Accordion Item inside the Accordion.&#x20;
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 [See the Canvas article for more details on these controls. ](../../concepts/application/canvas.md#block-toolbar)
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](../../.gitbook/assets/bfpUHWGGCl.gif)
 
@@ -30,9 +30,9 @@ When the whole Accordion is cloned, two separate Accordions will be created. It 
 
 Accordion Items can be reordered within the Accordion. To reorder an Accordion Item, click and drag the move button in the toolbar to place the Accordion Item somewhere else. Accordion Items cannot be dragged outside of the Accordion itself. However, Accordion Items can be dragged into other Accordions.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 [See the Canvas article for more details on these controls. ](../../concepts/application/canvas.md#block-toolbar)
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](../../.gitbook/assets/lJidjISbYs.gif)
 
@@ -42,9 +42,9 @@ To add Blocks inside the Accordion Items, Drag and drop other Blocks into the Ac
 
 ![](../../.gitbook/assets/jg1Zfuontg.gif)
 
-{% hint style="warning" %}
+<!-- unsupported tag removed -->
 The height and width of the Accordion will be determined by the Blocks contained in it. To guarantee consistent behavior, items inside the Accordion must have a set pixel height and width in the [style manager](../../concepts/application/block-styling.md#dimension), not a percent or auto.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](../../.gitbook/assets/58skCm6AiQ.gif)
 

@@ -2,9 +2,9 @@
 
 These settings are used to configure each XMPro Product. To open the settings page, click on the _gears_ icon in the grey bar at the top of the screen.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 Please note that the settings that you will see on this page depend on the role and access rights that have been assigned to you.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![Fig 1: Access the Site Settings](<../docs/.gitbook/assets/image (1118).png>)
 
@@ -82,9 +82,9 @@ The default value that is used for the polling interval when a Polling Agent is 
 
 If there is no value provided for this setting, the polling interval defaults to 3600 seconds (1 hour).
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 The default is applied when the Agent is added to the canvas. A change to this site setting will only take effect for Agents added afterward.&#x20;
-{% endhint %}
+<!-- unsupported tag removed -->
 
 #### Live View Usage
 
@@ -107,18 +107,18 @@ It will also stop any open Live View blades from receiving data. To start receiv
 
 Refer to the [Live View Usage Report](manage-site-settings.md#live-view-usage-report) for a list of Stream Objects and Data Streams that are preselected for Live View.&#x20;
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 A Stream Object with Live View enabled is an indicator that a user has viewed the data - it is not confirmation whether the user closed the connection.
-{% endhint %}
+<!-- unsupported tag removed -->
 
-{% hint style="success" %}
+<!-- unsupported tag removed -->
 The Live View issue is addressed in the v4.3.7 release:
 
 1. Open connections are closed regardless of how the Live View is closed (e.g. navigating away or closing the tab).&#x20;
 2. All connections are closed when the Data Stream Designer app service is restarted.&#x20;
 
 If you've upgraded to v4.3.7, use the Reset Live View button once to ensure all connections are closed.&#x20;
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ### Reports
 
@@ -214,6 +214,6 @@ For example, a user cannot tag/search users outside of their business role tree 
 
 This defaults to true on new installations. Toggle it off to make all user information visible to all users in the company.&#x20;
 
-{% hint style="warning" %}
+<!-- unsupported tag removed -->
 The exception for this setting is a user with an Administrator role for the Subscription Manager product. They can assign access to XMPro objects to any user or business role in the company.&#x20;
-{% endhint %}
+<!-- unsupported tag removed -->

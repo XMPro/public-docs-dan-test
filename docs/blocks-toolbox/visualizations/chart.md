@@ -215,6 +215,6 @@ The Chart has properties that are common to most Blocks: _Navigate to_ and _Show
 
 [See the Common Properties article for more details on common action properties.](../common-properties.md#action)
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 Action properties are not triggered unless [_Show Drilldown_](chart.md#show-drilldown) under Appearance is enabled.
-{% endhint %}
+<!-- unsupported tag removed -->

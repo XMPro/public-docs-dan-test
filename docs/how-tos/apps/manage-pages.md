@@ -2,13 +2,13 @@
 
 A Page is a web page built with XMPro's App Designer. Pages allow you to separate the Application into sections, navigate between the Pages, and pass data between Pages using Parameters.&#x20;
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 It is recommended that you read the article listed below to improve your understanding of Pages.
 
 * [Page](../../concepts/application/page.md)
 * [Canvas](../../concepts/application/canvas.md)
 * [How to Manage Apps](manage-apps.md)
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## Creating a Page
 

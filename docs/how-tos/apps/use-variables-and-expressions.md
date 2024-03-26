@@ -2,12 +2,12 @@
 
 Variables are placeholders used to hold and maintain certain values. In some cases, it is possible to not know some of the values that you might want to display or use within the Application. In this case, you can use Variables where the real value can be substituted in later. Expressions can also be configured and are useful for doing certain calculations and returning results which can also be used in the Application.&#x20;
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 It is recommended that you read the article listed below to improve your understanding of Variables and Expressions.
 
 * [Variables and Expressions](../../concepts/application/variables-and-expressions.md)
 * [How to Manage Pages](manage-pages.md)
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## Adding a Variable
 
@@ -53,12 +53,12 @@ When adding a Variable, there is an option to build an expression. The example b
 2. Select the expression box.
 3. Select from a range of parameters, Variables, and other functions to build an expression. When a value is selected it will appear in the expression box.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 Numbers are identified as integers by default. Convert to other data types using:&#x20;
 
 * a method e.g.`ToLong(0)`for the value 0 as a long
 * `2.0`for the value 2 as a double
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](../../.gitbook/assets/varsAndExp\_5-1.png)
 

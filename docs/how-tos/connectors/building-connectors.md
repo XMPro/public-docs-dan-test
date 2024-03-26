@@ -23,9 +23,9 @@ Some Connectors need to be provided with configurations by the user. For example
 
 Each of these settings should be referenced in the code and must correspond to the settings template created when [packaging your Connector](packaging-agents.md).
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 A template is a JSON representation of all the controls and their layout that will be used to capture the settings from a user.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 An example of the settings template (generated using the [XMPro Package Manager](https://www.microsoft.com/en-au/p/xmpro-package-manager/9n3f4wnslgzk)) is shown in the image below. The settings in this example consist of the following controls:
 
@@ -46,9 +46,9 @@ string mySetting = parameters[“myUniqueKey”];
 
 Before a template is rendered on the screen, or if a postback occurs on any control in the template, the method below would be called to allow the Connector an opportunity to make any necessary runtime changes to the template, for example, verifying user credentials, displaying all tables of a selected database in a drop-down list, etc. In this example, no changes are being made to the template, but they can be added to the _**todo**_ section if needed.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 &#x20;For a postback to occur after a user navigates out of a setting field, the _Postback_ property needs to be set to _true_ when packaging the Connector.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ```csharp
 public string GetConfigurationTemplate(string template, IDictionary<string, string> parameters)
@@ -79,11 +79,11 @@ Each Entity contains the following:
 
 <table><thead><tr><th width="285">Name</th><th>Description</th><th data-hidden></th></tr></thead><tbody><tr><td>EntityId</td><td>A unique identifier for the Entity.</td><td></td></tr><tr><td>Name</td><td>The name of the entity.</td><td></td></tr><tr><td>IsLive</td><td>Indicate if the Entity supports Live Updates.</td><td></td></tr><tr><td>Operations</td><td><p>The operations which the Entity supports.</p><ul><li><a href="building-connectors.md#read">Read</a></li><li><a href="building-connectors.md#insert">Insert</a></li><li><a href="building-connectors.md#update">Update</a></li><li><a href="building-connectors.md#undefined">Delete</a></li></ul></td><td></td></tr></tbody></table>
 
-{% code overflow="wrap" %}
+<!-- unsupported tag removed -->
 ```csharp
 new Entity("OpenRecommendation") { IsLive = True, Name = "Open Recommendation", Operations = Operation.Read };
 ```
-{% endcode %}
+<!-- unsupported tag removed -->
 
 ### Entity Properties
 
@@ -97,11 +97,11 @@ This method returns the Entity with a collection of properties for the selected 
 
 Most properties will be Output properties, which describe the Entity's data, and are indicated by setting **key** and **isParameter** to **false**. For example, this String property named _OutputString:_&#x20;
 
-{% code overflow="wrap" %}
+<!-- unsupported tag removed -->
 ```csharp
 new Property("OutputString", Settings.Enums.Types.String, key: false, isParameter: false) 
 ```
-{% endcode %}
+<!-- unsupported tag removed -->
 
 At least one property should be marked as the Entity's Key, indicated by setting **key** to **true**. The key uniquely identifies records when performing Update or Delete tasks, and for Application Blocks such as Grids that require a unique key per record. For example, this Long property named _Id:_
 
@@ -115,11 +115,11 @@ Finally, we have the optional Parameter properties, indicated by setting **isPar
 new Property("Input", Settings.Enums.Types.Int, key: false, isParameter: true);
 ```
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 Few Connectors need Parameter properties - they are used when the desired outcome is not achievable through the regular Configuration settings or the data source filter.
 
 For example, the Azure Digital Twins Connector's Time Series entity includes an optional input parameter, "$ts", which shows up in the output as well as a Timestamp for that specific record/event.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ### Create
 
@@ -139,11 +139,11 @@ this.config = configuration;
 
 The _Read_ method is one of the Entities' operations and is expected to return a JToken back to the _Engine_. This method is invoked when a Read/Refresh Action is called from a Block within an App Page.
 
-{% code overflow="wrap" %}
+<!-- unsupported tag removed -->
 ```csharp
 public IQueryable<JToken> Read(string entityId, OperationOptions options, out long count, JObject extraOptions = null)
 ```
-{% endcode %}
+<!-- unsupported tag removed -->
 
 This method contains a list of parameters being passed from the _Engine._
 
@@ -163,11 +163,11 @@ public JObject Insert(string entityId, JObject values, OperationOptions options)
 
 The _Update_ method is one of the Entities' operations and is expected to return a JObject back to the _Engine_ with the updated record Id. This method will be invoked when an Update Action is called from a Block within an App Page.
 
-{% code overflow="wrap" %}
+<!-- unsupported tag removed -->
 ```csharp
 public JObject Update(string entityName, JObject key, JObject values, OperationOptions options)
 ```
-{% endcode %}
+<!-- unsupported tag removed -->
 
 <table><thead><tr><th width="205">Name</th><th>Description</th><th data-hidden></th></tr></thead><tbody><tr><td><em>entityId</em></td><td>A unique identifier for the Entity</td><td></td></tr><tr><td>key</td><td>A JObject containing the primary key of the record to be updated</td><td></td></tr><tr><td>values</td><td>A JObject of values to be updated</td><td></td></tr><tr><td>OperationOptions</td><td><p>The operation options as configured by a user:</p><ul><li>Parameter: a JObject containing the input parameters' value</li><li>Filter: the data filter criteria.</li><li>TransactionName: the name of the transaction </li></ul></td><td></td></tr></tbody></table>
 
@@ -222,9 +222,9 @@ public void Subscribe(string entityId)
 <pre class="language-csharp"><code class="lang-csharp"><strong>public void Subscribe(string entityId, OperationOptions options, JObject extraOptions)
 </strong></code></pre>
 
-{% hint style="warning" %}
+<!-- unsupported tag removed -->
 The second overload is supported on App Designer v4.3.5 and XMPro.Integration.Framework v4.2 and above.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ### UnSubscribe
 
@@ -246,11 +246,11 @@ public void Publish(string entityId, Change[] changes, JObject options)
 
 To push the changes of entities to an App Page that subscribed to the live update, your Connector should invoke the _OnChange_ event with the values of changes as arguments:
 
-{% code overflow="wrap" %}
+<!-- unsupported tag removed -->
 ```csharp
 this.OnChange?.Invoke(this, new OnChangeArgs() { EntityId = entityId, Changes = changes.ToArray() });
 ```
-{% endcode %}
+<!-- unsupported tag removed -->
 
 ## IConnectorError
 
@@ -258,11 +258,11 @@ A Connector can publish messages to the [Connector Logs](../apps/check-connector
 
 To log the error, your Connector should invoke the _OnConnectorError_ event with the error information passed as arguments:
 
-{% code overflow="wrap" %}
+<!-- unsupported tag removed -->
 ```csharp
 this.OnConnectorError?.Invoke(this, new OnErrorArgs(ConnectionId, Timestamp, Source, Error, DetailedError, Data));
 ```
-{% endcode %}
+<!-- unsupported tag removed -->
 
 ## Example
 

@@ -9,9 +9,9 @@ To publish an XMPro asset, follow the steps below:
 1. Open the page for the XMPro asset you would like to publish and select the data stream/recommendation/application.
 2. Click on _Publish._
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 The Publish button will only be available if the version you are currently viewing is not published. If another version is published clicking the button will change the published version to the current version.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](../../.gitbook/assets/Publish\_1.png)
 
@@ -50,8 +50,8 @@ Unpublishing is done in the same location where you publish the asset. Navigate 
 1. Open the page for the XMPro asset you would like to unpublish and select the data stream/recommendation/application.
 2. Click on _Unpublish._
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 You can unpublish an XMPro Object even if you are currently viewing another version. The Unpublish button will only be available if any version of that XMPro Object is currently published. Clicking the button will unpublish the version that is published.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](../../.gitbook/assets/Publish\_6.png)

@@ -1,89 +1,89 @@
 # Basic
 
-{% content-ref url="checkbox.md" %}
+<!-- unsupported tag removed -->
 [checkbox.md](checkbox.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="color-selector.md" %}
+<!-- unsupported tag removed -->
 [color-selector.md](color-selector.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="data-grid.md" %}
+<!-- unsupported tag removed -->
 [data-grid.md](data-grid.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="date-selector.md" %}
+<!-- unsupported tag removed -->
 [date-selector.md](date-selector.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="dropdown-grid.md" %}
+<!-- unsupported tag removed -->
 [dropdown-grid.md](dropdown-grid.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="embedded-page.md" %}
+<!-- unsupported tag removed -->
 [embedded-page.md](embedded-page.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="html-editor.md" %}
+<!-- unsupported tag removed -->
 [html-editor.md](html-editor.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="image.md" %}
+<!-- unsupported tag removed -->
 [image.md](image.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="indicator.md" %}
+<!-- unsupported tag removed -->
 [indicator.md](indicator.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="list.md" %}
+<!-- unsupported tag removed -->
 [list.md](list.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="lookup.md" %}
+<!-- unsupported tag removed -->
 [lookup.md](lookup.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="number-selector.md" %}
+<!-- unsupported tag removed -->
 [number-selector.md](number-selector.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="radio-buttons.md" %}
+<!-- unsupported tag removed -->
 [radio-buttons.md](radio-buttons.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="range-selector.md" %}
+<!-- unsupported tag removed -->
 [range-selector.md](range-selector.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="select-box.md" %}
+<!-- unsupported tag removed -->
 [select-box.md](select-box.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="switch.md" %}
+<!-- unsupported tag removed -->
 [switch.md](switch.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="tags.md" %}
+<!-- unsupported tag removed -->
 [tags.md](tags.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="text.md" %}
+<!-- unsupported tag removed -->
 [text.md](text.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="text-area.md" %}
+<!-- unsupported tag removed -->
 [text-area.md](text-area.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="textbox.md" %}
+<!-- unsupported tag removed -->
 [textbox.md](textbox.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="tree-grid.md" %}
+<!-- unsupported tag removed -->
 [tree-grid.md](tree-grid.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="tree-list.md" %}
+<!-- unsupported tag removed -->
 [tree-list.md](tree-list.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->

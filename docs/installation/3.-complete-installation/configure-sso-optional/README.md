@@ -2,10 +2,10 @@
 
 Here are the articles in this section:
 
-{% content-ref url="sso-azure-ad.md" %}
+<!-- unsupported tag removed -->
 [sso-azure-ad.md](sso-azure-ad.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="sso-adfs.md" %}
+<!-- unsupported tag removed -->
 [sso-adfs.md](sso-adfs.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->

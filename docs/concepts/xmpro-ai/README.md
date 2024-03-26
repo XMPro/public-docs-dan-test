@@ -56,9 +56,9 @@ Build a widget to harness OpenAI from within your Application. Ask for advice fr
 
 <figure><img src="../../.gitbook/assets/AI_Overview_Copilot_AD.gif" alt=""><figcaption><p>Fig 5: Co-pilot in App Designer</p></figcaption></figure>
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 This example is running on the public version of ChatGPT. Contact us for more information on how to do this using your [Azure OpenAI Service](https://azure.microsoft.com/en-au/products/cognitive-services/openai-service), trained on your own IP.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ### ChatGPT Capability in XMPro Notebook&#x20;
 

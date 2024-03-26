@@ -4,12 +4,12 @@ Recommendation Alerts are advanced Alerts that get triggered when real-time data
 
 [Recommendations](../../concepts/recommendation/) create new Recommendation Alerts based on [Business Rules](../../concepts/recommendation/rule.md#rule-logic), and the Alerts recommend the best next actions based on expert suggestions. Recommendation Alerts monitor the actions taken and outcomes to close the loop on event response.&#x20;
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 It is recommended that you read the article listed below to improve your understanding of Recommendations Alerts.
 
 * [Recommendation Alert](../../concepts/recommendation/recommendation-alert.md)
 * [Manage Recommendations](manage-recommendations.md)
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## Finding Recommendation Alerts
 

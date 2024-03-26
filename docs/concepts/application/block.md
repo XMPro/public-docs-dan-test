@@ -77,9 +77,9 @@ Blocks are accessed through the Blocks tab in the page designer and can be added
   * [Unity](../../blocks-toolbox/visualizations/unity.md)
   * [Unity (Legacy)](../../blocks-toolbox/visualizations/unity-1.md)
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 Can't find the Block you're looking for? [Contact support to submit a feature request](http://xmpro.com/support/).
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## Further Reading
 

@@ -55,7 +55,7 @@ This section provides information about installing the XMPro platform from scrat
 
 &#x20; 4\. Download the file from the link provided below:
 
-{% file src="../../.gitbook/assets/mainTemplate_v4.4.0.json" %}
+<!-- unsupported tag removed -->
 
 &#x20; 5\. Select "Load File" and then Open the downloaded "mainTemplate\_\[Version].json"
 
@@ -67,11 +67,11 @@ This section provides information about installing the XMPro platform from scrat
 
 &#x20; 7\. Complete the form.
 
-{% hint style="danger" %}
+<!-- unsupported tag removed -->
 * Enter the username in the correct format i.e. firstname.lastname@companyname.onxmpro.com
 * The following special characters are **not** supported in the passwords:  `` ` ' \ $ @ ``&#x20;
 * Take note of the passwords used as this will not be displayed again and they are required later.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](../../.gitbook/assets/Azure-ARMTemplate-Form.PNG)
 
@@ -116,9 +116,9 @@ This step explains how to restart your app services in the Azure Portal.&#x20;
 
 A new company is created as part of the installation process but needs a valid license to work.&#x20;
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 Login using the Super Admin account **admin@xmpro.onxmpro.com**.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 &#x20; 1\. Click Company in the left menu to open the Companies page.\
 &#x20; 2\. Click on the Company.\
@@ -133,15 +133,15 @@ Login using the Super Admin account **admin@xmpro.onxmpro.com**.
 
 ![](<../../.gitbook/assets/image (423).png>)
 
-{% hint style="danger" %}
+<!-- unsupported tag removed -->
 The _Generate a license request_ link will only work if SMTP was set up during installation.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 &#x20; 9\. Change the Product to Data Stream Designer from the list and request another license
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 Licenses are given on an individual basis by the [XMPro support team](http://xmpro.com/support/).
-{% endhint %}
+<!-- unsupported tag removed -->
 
 When you have received a license for each product through an email sent to the email address given during installation, follow the steps below to upload the license for both App Designer and Data Stream Designer.
 
@@ -151,15 +151,15 @@ When you have received a license for each product through an email sent to the e
 
 The installation of the XMPro Platform is now complete but before you can use the platform, some steps are needed to set up the environment. Further instructions about the configuration can be found below:&#x20;
 
-{% content-ref url="../3.-complete-installation/install-connectors.md" %}
+<!-- unsupported tag removed -->
 [install-connectors.md](../3.-complete-installation/install-connectors.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
 ## Upgrade
 
-{% hint style="danger" %}
+<!-- unsupported tag removed -->
 Before beginning the upgrade, back up databases using [this](https://docs.microsoft.com/en-us/azure/azure-sql/database/database-export#the-azure-portal) guide.&#x20;
-{% endhint %}
+<!-- unsupported tag removed -->
 
 Follow the same steps as a new [Install](azure.md#install) to upgrade your XMPro platform**.** Make sure to:
 

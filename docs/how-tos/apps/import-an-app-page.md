@@ -4,13 +4,13 @@ App Pages can be exported as a file and imported as a template to other companie
 
 The layout of the template is preserved - data sources must be configured.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 It is recommended that you read the article listed below to improve your understanding of Pages.
 
 * [Page](../../concepts/application/page.md)
 * [Import, Export, and Clone](../import-export-and-clone.md)
 * [How to Manage Pages](manage-pages.md)
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## How to Import an App Page
 

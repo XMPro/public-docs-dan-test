@@ -24,7 +24,7 @@ As a rough guide, an example workload for a _Medium_-sized deployment would be:
 
 <table><thead><tr><th width="263">Component</th><th>Small</th><th>Medium</th><th>Large</th></tr></thead><tbody><tr><td>Subscription Manager (SM) <br><strong>1</strong><br></td><td><p>2 CPU</p><p>8GB RAM</p></td><td><p>2 CPU</p><p>8GB RAM</p></td><td>4 CPU<br>16GB RAM</td></tr><tr><td><p>Application Designer (AD)</p><p><br> </p></td><td><p>2 CPU</p><p>8GB RAM</p></td><td>4 CPU<br>16GB RAM</td><td><p>8 CPU</p><p>32GB RAM</p></td></tr><tr><td>Data Stream Designer (DS)<br><br></td><td><p>2 CPU</p><p>8GB RAM</p></td><td>4 CPU<br>16GB RAM</td><td><p>8 CPU</p><p>32GB RAM</p></td></tr><tr><td>Stream Host Server (SH) <br><strong>2,3</strong><br></td><td><p>2 CPU</p><p>8GB RAM</p></td><td>4 CPU<br>16GB RAM</td><td><p>8 CPU</p><p>32GB RAM</p></td></tr><tr><td><p>SQL Database Server </p><p>(Combined for SM, AD, DS) <br><strong>4</strong></p></td><td><p>2 CPU</p><p>8GB RAM</p></td><td><p>4 CPU</p><p>16GB RAM</p></td><td><p>8 CPU</p><p>32GB RAM</p></td></tr></tbody></table>
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 #### **Footnotes**
 
 **1** High volumes of concurrent users may require additional compute.
@@ -35,7 +35,7 @@ As a rough guide, an example workload for a _Medium_-sized deployment would be:
 &#x20;  additional CPU cores as Stream Hosts perform in-memory processing of events.
 
 **4** High volumes of recommendations may require additional compute and storage.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## Azure
 
@@ -45,7 +45,7 @@ Azure SQL database estimates are based on the General-Purpose service tier and u
 
 <table><thead><tr><th width="257">Component</th><th>Small</th><th>Medium</th><th>Large</th></tr></thead><tbody><tr><td>Subscription Manager (SM) App Service Plan<br><strong>1</strong></td><td>P1v3</td><td>P1v3</td><td>P2v3</td></tr><tr><td>Application Designer (AD) App Service Plan<br></td><td>P1v3</td><td>P2v3</td><td>P3v3</td></tr><tr><td>Data Stream Designer (DS) App Service Plan<br></td><td>P1v3</td><td>P1v3</td><td>P2v3</td></tr><tr><td>Stream Host Server (SH) App Service Plan<br><strong>2,3</strong></td><td>P1v3</td><td>P2v3</td><td>P3v3</td></tr><tr><td><p>Azure SQL Database  </p><p>(For each of SM, AD, DS) <br><strong>4</strong></p></td><td>Standard – 20 DTUs</td><td>Standard – 50 DTUs</td><td>Standard – 100 DTUs</td></tr></tbody></table>
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 **Footnotes**
 
 **1** High volumes of concurrent users may require additional compute.
@@ -56,7 +56,7 @@ Azure SQL database estimates are based on the General-Purpose service tier and u
 &#x20;  additional CPU cores as Stream Hosts perform in-memory processing of events.
 
 **4** High volumes of recommendations may require additional compute and storage.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 For additional details please see [Azure App Service Pricing](https://azure.microsoft.com/en-au/pricing/details/app-service/windows/) and [Azure SQL Database Pricing](https://azure.microsoft.com/en-au/pricing/details/azure-sql-database/single/#pricing).
 
@@ -66,7 +66,7 @@ Estimates for AWS target Amazon EC2 T3 instances for applications, and an Amazon
 
 <table><thead><tr><th width="264">Component</th><th>Small</th><th>Medium</th><th>Large</th></tr></thead><tbody><tr><td>Subscription Manager (SM) EC2 Instance<br><strong>1</strong></td><td>t3.large</td><td>t3.large</td><td>t3.large</td></tr><tr><td>Application Designer (AD) EC2 Instance<br></td><td>t3.large</td><td>t3.xlarge</td><td>t3.2xlarge</td></tr><tr><td>Data Stream Designer (DS) EC2 Instance<br></td><td>t3.large</td><td>t3.large</td><td>t3.xlarge</td></tr><tr><td>Stream Host Server (SH) EC2 Instance<br><strong>2,3</strong></td><td>t3.large</td><td>t3.xlarge</td><td>t3.2xlarge</td></tr><tr><td><p>Amazon RDS for SQL   </p><p>(Combined for SM, AD, DS) <br><strong>4</strong></p></td><td>t3.large</td><td>t3.xlarge</td><td>t3.2xlarge</td></tr></tbody></table>
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 #### **Footnotes**
 
 **1** High volumes of concurrent users may require additional compute.
@@ -77,6 +77,6 @@ Estimates for AWS target Amazon EC2 T3 instances for applications, and an Amazon
 &#x20;  additional CPU cores as Stream Hosts perform in-memory processing of events.
 
 **4** High volumes of recommendations may require additional compute and storage.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 For additional details please see [AWS EC2](https://aws.amazon.com/ec2/instance-types/) and [RDS instance types](https://aws.amazon.com/rds/instance-types/).

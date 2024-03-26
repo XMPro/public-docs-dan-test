@@ -7,9 +7,9 @@ description: >-
 
 # Listener Example
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 Refer to [configuration](listener-configuration.md) to understand all configuration options of this Agent.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ### Step 1: Add the Agent
 
@@ -60,6 +60,6 @@ Let's look at the Live Data View. Observe that the current values and timestamps
 
 <table><thead><tr><th width="206.87658056443786">File</th><th width="326.87287411060635" data-type="files">Link</th><th>Security Key</th></tr></thead><tbody><tr><td>Data Stream</td><td></td><td>C0mp|ex123</td></tr></tbody></table>
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 See the [Import, Export, and Clone - XMPro](https://documentation.xmpro.com/how-tos/import-export-and-clone#importing) article for steps to import a Data Stream.
-{% endhint %}
+<!-- unsupported tag removed -->

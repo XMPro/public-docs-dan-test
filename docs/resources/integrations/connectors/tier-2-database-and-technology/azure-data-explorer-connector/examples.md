@@ -11,9 +11,9 @@ This example Application demonstrates how to read telemetry data from a table in
 
 You can download the files [here](examples.md#step-4-use-the-connection) to try it out for yourself - adjusting the steps to use your **own** Azure credentials.&#x20;
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 Refer to [configuration](broken-reference) to understand all configuration options of this Connector.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ### Step 1: Add the Connection
 
@@ -68,9 +68,9 @@ Click the Launch button and view the results. Observe that telemetry data is ret
 
 <table><thead><tr><th width="137.33333333333331">File</th><th width="450" data-type="files">Link</th><th>Security Key</th></tr></thead><tbody><tr><td>Application</td><td><a href="../../../../../.gitbook/assets/Azure Data Explorer Connector Example - Table.xapp">Azure Data Explorer Connector Example - Table.xapp</a></td><td>C0mp|ex123</td></tr></tbody></table>
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 See the [Import, Export, and Clone - XMPro](https://documentation.xmpro.com/how-tos/import-export-and-clone#importing) article for steps to import an Application.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## ADX Query with Parameters
 
@@ -78,9 +78,9 @@ This example Application demonstrates how to read telemetry data from an Azure D
 
 You can download the files [here](examples.md#files-1) to try it out for yourself - adjusting the steps to use your **own** Azure credentials.&#x20;
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 Refer to [configuration ](broken-reference)to understand all configuration options of this Connector.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ### Step 1: Add the Connection
 
@@ -172,6 +172,6 @@ Observe that the chart is populated with data from Azure Data Explorer.
 
 <table><thead><tr><th width="133">File</th><th width="467.7642469348242" data-type="files">Link</th><th>Security Key</th></tr></thead><tbody><tr><td>Application</td><td><a href="../../../../../.gitbook/assets/Azure Data Explorer Connector Example - Query">Azure Data Explorer Connector Example - Query</a></td><td>C0mp|ex123</td></tr></tbody></table>
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 See the [Import, Export, and Clone - XMPro](https://documentation.xmpro.com/how-tos/import-export-and-clone#importing) article for steps to import an Application.
-{% endhint %}
+<!-- unsupported tag removed -->

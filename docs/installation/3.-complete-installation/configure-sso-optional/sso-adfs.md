@@ -8,9 +8,9 @@ Follow the steps below:
 
 &#x20; 1\. Navigate to the location in IIS where Subscription Manager was installed.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 You can right-click on the application name in IIS and choose “_Explore_“.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](https://docs.xmpro.com/wp-content/uploads/2019/05/open-sub-mgr-app.png)
 
@@ -20,9 +20,9 @@ You can right-click on the application name in IIS and choose “_Explore_“.
 
 &#x20; 3\. Scroll down to the “_xmpro_” section.&#x20;
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 It might be encrypted, which will require you to decrypt it first. For instructions, please refer to the [How to encrypt and decrypt a web.config file](https://docs.xmpro.com/knowledge-base-2/how-to-encrypt-and-decrypt-a-web-config-file/) Knowledge Base article.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 &#x20; 4\. Under the “_identityProviders_” element, add a new element called “_adfs_”.
 
@@ -30,19 +30,19 @@ It might be encrypted, which will require you to decrypt it first. For instructi
 
 <figure><img src="../../../.gitbook/assets/SSO_ADFS_web_config_metadata_address.png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 Set the correct URL for the metadataAddress value. An example of how the URL might look is “_https://adfs.domain.com/federationmetadata/2007-06/federationmetadata.xml_“.&#x20;
 
 Verify your URL by browsing to it in a browser.&#x20;
-{% endhint %}
+<!-- unsupported tag removed -->
 
 &#x20; 6\. Copy the “_baseUrl_” value in the web.config - you will need it later in this guide.
 
 <figure><img src="../../../.gitbook/assets/SSO_AzureAD_web_config_baseUrl.png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="danger" %}
+<!-- unsupported tag removed -->
 **Warning**: you will use this value to create a relying party trust between the Subscription Manager application and AD FS
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## Server Manager
 
@@ -70,9 +70,9 @@ Verify your URL by browsing to it in a browser.&#x20;
 
 &#x20; 6\. Select _Enable support for the WS-Federation Passive protocol_, add the URL and click Next
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 This is the base URL you copied from the web.config file.&#x20;
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](https://docs.xmpro.com/wp-content/uploads/2019/05/wsf-protocol.png)
 
@@ -84,9 +84,9 @@ This is the base URL you copied from the web.config file.&#x20;
 
 &#x20; 9\. Choose an access control policy and click Next. Continue to the last screen&#x20;
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 For this article, we are going to choose _Permit everyone_
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](https://docs.xmpro.com/wp-content/uploads/2019/05/access-control-policy.png)
 
@@ -114,9 +114,9 @@ For this article, we are going to choose _Permit everyone_
 
 Now you should be ready. If you navigate to the Subscription Manager application, you will see the AD FS login option. Log in with your AD FS credentials.&#x20;
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 You will be asked to link your account when you sign in for the first time. If so, fill in your information and click Link Account &#x20;
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](https://docs.xmpro.com/wp-content/uploads/2019/05/add-adfs-credentials.png)
 

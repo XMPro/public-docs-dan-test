@@ -2,11 +2,11 @@
 
 A Category is a container that groups related [Data Streams](../concepts/data-stream/) and [Applications](../concepts/application/), which are shared between core XMPro Products to provide a homogenous environment.&#x20;
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 It is recommended that you read the article listed below to improve your understanding of Categories.
 
 * [Category](../concepts/category.md)
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## Adding a new Category
 
@@ -37,9 +37,9 @@ The order of the categories that can be seen on the landing page can be changed 
 
 ![](<../.gitbook/assets/Category\_5 (1).png>)
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 If you change your mind about reordering the categories, click _Cancel._ None of the changes you’ve made will be saved.  &#x20;
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## Removing Categories
 

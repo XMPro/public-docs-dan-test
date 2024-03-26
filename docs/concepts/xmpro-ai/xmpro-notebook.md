@@ -20,9 +20,9 @@ XMPro Notebook is an embedded version of [Jupyter](https://jupyter.org/) and can
 
 Once opened there is a handy quick-start guide that acts as an introduction on how to use XMPro Notebook.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 The first time an XMPro notebook user session loads, the infrastructure is provisioned in real-time, meaning that the application will take a few seconds to load.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ### ChatGPT
 
@@ -170,9 +170,9 @@ pip install <your library name>
 
 Please [contact](mailto:support@xmpro.com?subject=XMPro-Notebook-Library-Request) XMPro if you would like to propose another library added to the set of defaults.&#x20;
 
-{% hint style="warning" %}
+<!-- unsupported tag removed -->
 Any library you load is only valid for the session and will need to be reinstalled when a new session is created.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ### Licensing
 

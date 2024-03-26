@@ -173,4 +173,4 @@ Amending the aggregation period will be almost instantaneous on ADX. On SQL this
 
 #### Appendix 1: Elapsed Time for Time Series Charts, Regular Charts, and D3 Charts
 
-{% file src="../../.gitbook/assets/FAQ Chart Comparison Appendix.pdf" %}
+<!-- unsupported tag removed -->

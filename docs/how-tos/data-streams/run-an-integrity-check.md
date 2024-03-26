@@ -2,13 +2,13 @@
 
 When running an Integrity Check on a Data Stream, each Stream Object is checked to verify that it is configured correctly. Errors for the Agent will be displayed if there are any issues found with their configurations. This is done to ensure the integrity of your Data Stream and to make sure all input fields are valid and accurate.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 It is recommended that you read the article listed below to improve your understanding of an Integrity Check.
 
 * [Agent](../../concepts/agent/)
 * [Verifying Stream Integrity](../../concepts/data-stream/verifying-stream-integrity.md)
 * [How to Manage Data Streams](manage-data-streams.md)
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## Running an Integrity Check
 
@@ -22,21 +22,21 @@ To run an Integrity Check on a Data Stream, follow the steps below:
 
 ![](../../.gitbook/assets/I\_2.png)
 
-{% hint style="success" %}
+<!-- unsupported tag removed -->
 Agents with a blank background have passed their Integrity Check with no errors.
-{% endhint %}
+<!-- unsupported tag removed -->
 
-{% hint style="danger" %}
+<!-- unsupported tag removed -->
 Agents with a red background have reported back some errors in their configuration.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 &#x20;   4\. Hover over the Agent with errors to view a list of errors.
 
 ![](../../.gitbook/assets/I\_3.png)
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 An Integrity Check cannot be run on Agents that have unsaved changes. To run an Integrity Check, discard or save all changes made.&#x20;
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## Fixing Integrity Check errors
 

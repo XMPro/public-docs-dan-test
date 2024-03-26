@@ -4,22 +4,22 @@ An Action Request is a mechanism to trigger actions in another system while atte
 
 This is made possible with the [Action Request Agents](https://app.gitbook.com/o/-MZASoMaVZCmWsNG58Xo/s/W7YjChsX4E0ykdadpG6O/) in the Data Stream Designer.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 It is recommended that you read this documentation along with the articles listed below to improve your understanding of how action requests work.
 
 * [Recommendation Alert](recommendation-alert.md)
 * [Form](form.md)
 * [Data Stream](../data-stream/)
 * [Stream Object Configuration](../data-stream/stream-object-configuration.md)
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## Open an Action Request
 
 An Action Request is opened when a user clicks a button on a user-defined Form in a Recommendation Alert. The Action Request includes data derived from the Alert, Form, and Button clicked.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 If you add a button to a Form, ensure there is a corresponding Data Stream to process the Action Requests - or they will remain open and unprocessed.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](<../../.gitbook/assets/image (681).png>)
 

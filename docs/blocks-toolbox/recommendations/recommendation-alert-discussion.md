@@ -40,9 +40,9 @@ The _Entity ID_ is optional. Supply an Entity Identifier to show a filtered summ
 
 The _Alert ID_ is optional. Supply a value to default the alert discussion displayed when the Page is opened.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 If an _Entity ID_ is provided without an _Alert ID_, the bottom of the block will be empty when the Page is opened. In this case, the user should select a Recommendation Alert from the grid to see its alert discussion.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ### Action
 

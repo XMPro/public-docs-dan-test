@@ -2,12 +2,12 @@
 
 Variables are placeholders used to hold and maintain certain values. In some cases, it is possible to not know some of the values that you might want to compare within rules or conditions. In this case, you can use Variables where the real value can be substituted in later. Expressions can also be configured and are useful for doing certain calculations and returning results which can also be used within Recommendation [Rules](../../concepts/recommendation/rule.md). &#x20;
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 It is recommended that you read the articles listed below to improve your understanding of Recommendations.
 
 * [Recommendations](../../concepts/recommendation/)
 * [Manage Recommendations](manage-recommendations.md)
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## Create Variables
 

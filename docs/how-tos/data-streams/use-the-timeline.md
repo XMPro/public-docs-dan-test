@@ -2,12 +2,12 @@
 
 The Timeline displays a record of all the changes users have made to the Data Stream, including any notes made about particular issues. This can therefore be used as a collaboration tool to see the changes users make (even if it's only a single user), as well as notes about things that need to be addressed.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 It is recommended that you read the article listed below to improve your understanding of Timelines.
 
 * [Timeline](../../concepts/data-stream/timeline.md)
 * [How to Manage Data Streams](manage-data-streams.md)
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## Viewing the Timeline
 

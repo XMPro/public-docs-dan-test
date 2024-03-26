@@ -2,9 +2,9 @@
 
 A Form is a collection of fields that appear on [Recommendation Alerts](recommendation-alert.md). Forms are how relevant information can be entered and changed over the course of resolving an Alert. Forms can also contain buttons that allow specific actions to be performed in other business systems, like creating a work order in your EAM system. The Action Request Agent in the [Data Stream Designer](../data-stream/) will pass the data from your form to other systems.&#x20;
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 [See the Action Requests article for more details on Action Requests](action-requests.md).
-{% endhint %}
+<!-- unsupported tag removed -->
 
 When a [Recommendation Alert](recommendation-alert.md) is created from the [Rule](rule.md), the Rule's selected Form is used to determine the [fields (Blocks)](form.md#blocks) that will appear in the alert. Forms are managed through the Recommendations page.
 
@@ -46,9 +46,9 @@ The properties of a Block are available in the Properties tab after clicking on 
 
 <table data-header-hidden><thead><tr><th width="201">Property</th><th>Description</th></tr></thead><tbody><tr><td><strong>Property</strong></td><td><strong>Description</strong></td></tr><tr><td>Name</td><td>Name of the recommendation. This is usually one or two words that describe the form.<br>Name is how the Block is differentiated for Data Stream Agents.</td></tr><tr><td>Caption</td><td>The caption is displayed above the Block.</td></tr><tr><td><em>(Text)</em><br>Caption Style</td><td>The style of the text Block. Options include <strong>Heading 1</strong> - <strong>4</strong>, <strong>Body</strong>, <strong>Metric</strong>, and <strong>Small Text.</strong></td></tr><tr><td>Read Only</td><td>A flag that determines whether the field will allow a new value to be added on the Alert.</td></tr><tr><td>Required</td><td>A flag that determines whether the Block must have a value before the Alert can be saved.</td></tr><tr><td><em>(Dropdown)</em> <br>Items</td><td>The items that are available for selection in the dropdown. <br><strong>Text</strong> is shown in the dropdown, and <strong>Value</strong> is what will be selected and saved. </td></tr><tr><td><p><em>(Button)</em></p><p>Button Style</p></td><td><p>The style of the button in the Recommendation Alert:</p><p><strong>Text:</strong> The button has no borders. The text color depends on the Button Type.</p><p><strong>Outlined:</strong> The button has a colored outline. The border color depends on the Button Type.</p><p><strong>Contained:</strong> The button has a colored background. The color depends on the Button Type. If the Button Type is Normal, it has a black outline. </p></td></tr><tr><td><em>(Button)</em><br>Button Type</td><td><p>The color of the button in the Recommendation Alert:</p><p><strong>Danger:</strong> Red.</p><p><strong>Default:</strong> Blue.</p><p><strong>Normal:</strong> White or Black.</p><p><strong>Success:</strong> Green.</p></td></tr></tbody></table>
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 Number Selector automatically converts the entered value into a scientific notation if it is greater than 21 digits for an integer value and greater than 6 digits for a decimal value.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## Further Reading
 

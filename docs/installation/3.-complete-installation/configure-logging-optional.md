@@ -19,15 +19,15 @@ Application logging is essential for troubleshooting and debugging, as it helps 
 * [Application Insights plus Telemetry](configure-logging-optional.md#application-insights-plus-telemetry) _(Added v4.3.6)_
 * [Datadog](configure-logging-optional.md#datadog)
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 Subscription Manager currently only supports logging to file.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## Enable Logging
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 Logging for Subscription Manager and Stream Hosts is always enabled and does not require configuration.&#x20;
-{% endhint %}
+<!-- unsupported tag removed -->
 
 Repeat these steps for any of the XMPro products (Application Designer, Data Stream Designer, and AI XMPro) - except Subscription Manager and Stream Hosts.&#x20;
 
@@ -70,9 +70,9 @@ Below are examples for each XMPro Product.
 </appSettings>
 ```
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 It might be encrypted, which will require you to decrypt it first. For instructions, please refer to the [How to encrypt and decrypt a web.config file](https://docs.xmpro.com/knowledge-base-2/how-to-encrypt-and-decrypt-a-web-config-file/) Knowledge Base article.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 #### Stream Hosts
 

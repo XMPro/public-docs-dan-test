@@ -8,9 +8,9 @@ Templated Lists allow you to display a list of data to the users. This is useful
 
 Columns of data can be added to a Templated List on the canvas. To add an item, select one of the fields and click on the plus symbol to add a new field next to it. Fields can also be cloned by clicking on the clone button from the same top-right hand toolbar.&#x20;
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 [See the Canvas article for more details on these controls.](../../concepts/application/canvas.md#block-toolbar)&#x20;
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](../../.gitbook/assets/HORasD8Ebk.gif)
 
@@ -22,9 +22,9 @@ To delete an item in the templated list, highlight one of the boxes and click on
 
 ![](../../.gitbook/assets/RipAd5YPu5.gif)
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 [See the Canvas article for more details on these controls.](../../concepts/application/canvas.md#block-toolbar)&#x20;
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## Templated List Properties
 

@@ -2,12 +2,12 @@
 
 The Application can either be Light-Themed or Dark-Themed. This depends on the overall design of the Application and can be configured when creating the App, and can also be edited after the app has been created. This is useful as some users or developers prefer to have a certain consistent light or dark-colored theme across their app, and this option allows you to customize the app to fit that preference.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 It is recommended that you read the article listed below to improve your understanding of Applications.
 
 * [Application](../../concepts/application/)
 * [How to Manage Apps](manage-apps.md)
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## Default Theme when creating a new App
 
@@ -40,9 +40,9 @@ To edit the Default Theme for the overall App, follow the steps below:
 
 ![](<../../.gitbook/assets/image (1153).png>)
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 Changing the Default Theme of the App does not change the Themes of the individual Pages that are already configured.&#x20;
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## Choosing a Theme when creating a page
 

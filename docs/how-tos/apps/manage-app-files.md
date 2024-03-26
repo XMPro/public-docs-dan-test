@@ -2,12 +2,12 @@
 
 Files can be uploaded and used within the Application. The interface for App Files allows you to use, rename, delete, and perform more actions on a file that has been uploaded to the Application. App Files are useful in many scenarios, for example, if you need specific files to integrate Unity or D3 Visualizations onto the Page.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 It is recommended that you read the article listed below to improve your understanding of App Files.
 
 * [App Files](../../concepts/application/app-files.md)
 * [How to Manage Apps](manage-apps.md)
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## Uploading App Files
 

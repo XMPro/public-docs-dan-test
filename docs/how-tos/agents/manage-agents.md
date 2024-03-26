@@ -2,11 +2,11 @@
 
 Agents create the foundation for Data Streams, and they can be connected to other Agents to create the flow of data. Each Agent performs a specific function. They are useful as they can be used to either retrieve data in real-time, display data, filter or sort the data, or save them to another database, depending on the function of that individual Agent.&#x20;
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 It is recommended that you read the article listed below to improve your understanding of Agents.
 
 * [Agent](../../concepts/agent/)
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## **Creating Agents**
 
@@ -20,9 +20,9 @@ XMPro.IoT.Framework requires your project to be written using a predefined struc
 
 To learn more about how to use this framework, refer to [these](building-agents.md) instructions.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 Code for some Agents has been made available on [GitHub.](https://github.com/XMPro/) It might be useful to use these resources as an example when writing your own Agents.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ### Packaging the Agent
 
@@ -43,9 +43,9 @@ After writing a new Agent and packaging it, you can upload it to Data Stream Des
 5. Select the category of the Agent (prepopulated if contained in the file)
 6. Click _Save_.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 &#x20;The _Metadata_ field allows you to add tags for the Agent. You can either select a value from the drop-down that appears when you click in the field or type a new value and press _Enter_.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](../../.gitbook/assets/Agents\_3.png)
 
@@ -72,9 +72,9 @@ The newly uploaded Agent will now be available in the toolbox on the Use Case ca
 
 Uploading multiple Agents begins like a [single Agent](manage-agents.md#uploading-an-agent-to-data-stream-designer), except a compressed (.zip) file is selected.&#x20;
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 A 100 MB limit applies to the decompressed file size, not the compressed one.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 If the _.zip_ file is valid, a data grid is populated with the Agent name, version, ID, category, and file size. Complete the upload by following the steps below:
 
@@ -114,9 +114,9 @@ When planning to remove multiple Agents completely at the same time, make sure t
 2. Select all the Agents you would like to remove.
 3. Click on “_Delete_“.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 &#x20;To cancel the selection, click on “_Select_” again.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](../../.gitbook/assets/Agents\_11.png)
 

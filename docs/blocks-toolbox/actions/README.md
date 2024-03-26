@@ -1,17 +1,17 @@
 # Actions
 
-{% content-ref url="box-hyperlink.md" %}
+<!-- unsupported tag removed -->
 [box-hyperlink.md](box-hyperlink.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="button.md" %}
+<!-- unsupported tag removed -->
 [button.md](button.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="data-operations.md" %}
+<!-- unsupported tag removed -->
 [data-operations.md](data-operations.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="hyperlink.md" %}
+<!-- unsupported tag removed -->
 [hyperlink.md](hyperlink.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->

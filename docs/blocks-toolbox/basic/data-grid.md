@@ -229,9 +229,9 @@ The column's value is automatically mapped to the Text property.
 
 Tick for the URL to open in a new tab/window, instead of redirecting the current tab. This applies when the [Editor Type](data-grid.md#editor-type-hyperlink) is set to 'Hyperlink'.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 We recommend opening XMPro URLs in the same tab/window - as users may experience degraded performance when a large number of XMPro tabs are opened.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 #### Column Reordering
 

@@ -29,12 +29,12 @@ You can _disable_ the Tree Grid.&#x20;
 
 [See the Data Grid article ](data-grid.md#common-properties-1)for details on other common behavior properties: Allow Selection, Allow Deleting, Allow Updating, Allow Search, Enable Column Filtering, Enable Row Filtering, and Auto-Adjust Column Widths[.](data-grid.md#common-properties-1)
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 When searching a Tree Grid, the search results include their parents:
 
 * If your result includes a parent, the children will not be available to expand unless they also meet the search criteria.
 * If your result includes a child, the parents are listed for navigation - even if they don't meet the search criteria.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 #### Allow Adding
 

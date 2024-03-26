@@ -1,8 +1,8 @@
 # Manage a Company
 
-{% hint style="warning" %}
+<!-- unsupported tag removed -->
 Please note that this section is intended for Global Administrative users. No other type of user is allowed to manage data about companies and their Subscriptions.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## Approve/Activate Access
 
@@ -32,9 +32,9 @@ To edit the information of a Company, please follow the steps below.
 4. Change the Company information, as required. To change the Company logo, click on the plus-image button and select a new image.
 5. Click on _Save_
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 Please note that the Company's icon will replace the XMPro logo in the top-left corner (Whitelabel).
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](<../../.gitbook/assets/Logo-remove3 (1).png>)
 
@@ -50,9 +50,9 @@ Company Logos can be uploaded when managing a company. To upload a Company Logo,
 
 ![](../../.gitbook/assets/Logo1.png)
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 Any user that logs into that company will be able to see the icon in the top-left corner of App Designer.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](<../../.gitbook/assets/Logo2 (1).png>)
 

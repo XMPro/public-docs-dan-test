@@ -94,6 +94,6 @@ The Stream Host will then be removed. Some files, such as logs, may not be remov
 
 The stream host installation is complete. Please click below to install the default Agents & Connectors:
 
-{% content-ref url="../install-connectors.md" %}
+<!-- unsupported tag removed -->
 [install-connectors.md](../install-connectors.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->

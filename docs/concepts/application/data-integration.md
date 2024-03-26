@@ -63,9 +63,9 @@ For example:
 
 The parameters of the Data Source are then made available to its Action if it allows one, and all its descendants' Dynamic and Quick Expression value bindings.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 [See the Block Properties article for more information on Dynamic and Quick Expression values](block-properties.md#dynamic-and-expression-properties-from-data-integration).
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ### List of Data Source Blocks
 

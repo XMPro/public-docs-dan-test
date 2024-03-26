@@ -2,12 +2,12 @@
 
 It is possible to allow navigation between Pages of an App by configuring the Action of a Block. This allows you to separate your content within the application into sections that can be easily navigated by the user.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 It is recommended that you read the article listed below to improve your understanding of Navigating between Pages.
 
 * [Navigation and Parameters](../../concepts/application/navigation-and-parameters.md)
 * [How to Manage Pages](manage-pages.md)
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## Configuring Navigation between Pages
 

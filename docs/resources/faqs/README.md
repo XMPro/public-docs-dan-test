@@ -4,14 +4,14 @@ Find answers to some of the most frequently asked questions.
 
 ## Categories
 
-{% content-ref url="implementation.md" %}
+<!-- unsupported tag removed -->
 [implementation.md](implementation.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="configuration.md" %}
+<!-- unsupported tag removed -->
 [configuration.md](configuration.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="general.md" %}
+<!-- unsupported tag removed -->
 [general.md](general.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->

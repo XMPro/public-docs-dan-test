@@ -7,9 +7,9 @@ description: >-
 
 # Azure OpenAI Example
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 Refer to [configuration](azure-openai-configuration.md) to understand all configuration options of this Agent.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ### Step 1: Add the Agent
 
@@ -57,6 +57,6 @@ Observe the impact of not instructing the model on how to format the response.
 
 <table><thead><tr><th width="150">File</th><th width="297" data-type="files">Link</th><th>Security Key</th></tr></thead><tbody><tr><td>Data Stream</td><td><a href="../../../../../.gitbook/assets/Azure OpenAI Example.xuc">Azure OpenAI Example.xuc</a></td><td>C0mp|ex123</td></tr></tbody></table>
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 See the [Import, Export, and Clone - XMPro](https://documentation.xmpro.com/how-tos/import-export-and-clone#importing) article for steps to import a Data Stream.
-{% endhint %}
+<!-- unsupported tag removed -->

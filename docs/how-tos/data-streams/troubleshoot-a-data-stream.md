@@ -2,12 +2,12 @@
 
 When creating and configuring a Data Stream, there is a chance it may not be working as expected, and you may have to find out more information as to why it is not behaving the way it should. There are a few options available on how to troubleshoot a Data Stream. Troubleshooting is required if you want to make sure the flow of data is accurate.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 It is recommended that you read the article listed below to improve your understanding of Data Streams.
 
 * [Data Stream](../../concepts/data-stream/)
 * [How to Manage Data Streams](manage-data-streams.md)
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## Troubleshoot using Live View
 
@@ -23,9 +23,9 @@ To troubleshoot using the Live View, follow the steps below:
 
 ![](<../../.gitbook/assets/TS\_2 (1).png>)
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 If data is not being displayed when it should be, or if the values are not being displayed as expected, something may be going wrong with the Agent.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](../../.gitbook/assets/TS\_3.png)
 
@@ -57,9 +57,9 @@ In some cases, the Event Printer does not show any data when trying to troublesh
 4. Select the Stream Host.
 5. View the logs from the Stream Host.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 Any errors that are generated from an Agent which are printed from the error endpoint are also printed in the Stream Host logs.&#x20;
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](<../../.gitbook/assets/image (1005).png>)
 

@@ -2,12 +2,12 @@
 
 A Form is a collection of fields that appear on [Recommendation Alerts](../../concepts/recommendation/recommendation-alert.md). Forms can be created and customized to suit the situation, depending on the Recommendation Alert. Forms are useful if you want relevant information, data, comments, or notes to be entered and changed over the course of resolving an Alert and while it is being actioned.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 It is recommended that you read the articles listed below to improve your understanding of Recommendations.
 
 * [Form](../../concepts/recommendation/form.md)
 * [Manage Recommendations](manage-recommendations.md)
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## Creating a Form
 

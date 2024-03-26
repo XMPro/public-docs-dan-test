@@ -1,11 +1,11 @@
 # Collection and Stream Host
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 It is recommended that you read this documentation along with the articles listed below to improve your understanding of how Stream Hosts and Collections work.
 
 * [Agents](agent/)
 * [Data Stream Processing](data-stream/)
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## Overview
 

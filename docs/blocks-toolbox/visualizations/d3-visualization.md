@@ -18,9 +18,9 @@ The template is the base of the script that is used to create the visualizations
 
 The Script property is required for the D3 Visualization Block.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 To upload a script, it first needs to be uploaded using the App Files Manager. [See the Manage App Files article](../../how-tos/apps/manage-app-files.md) for more details.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 Script template:
 
@@ -51,7 +51,7 @@ The _onDataChanged(data, changes)_ function is where you would write code to res
 
 Below is an example of a working script that shows data along an X-axis and Y-axis.&#x20;
 
-{% file src="../../.gitbook/assets/D3 Chart v2.zip" %}
+<!-- unsupported tag removed -->
 
 ### Data Source
 

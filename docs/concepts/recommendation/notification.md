@@ -44,17 +44,17 @@ When a trigger occurs, everyone who has subscribed and has entered a correct ema
 
 When a trigger occurs, everyone who has subscribed and has entered a correct mobile phone number (in international format) in their profile will receive an email.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 The email and mobile number that you use to receive notifications can be changed when [updating the user settings](../../administration/users/profile.md).
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## Notification Template
 
 When a [Recommendation Alert](recommendation-alert.md) is triggered by a critical event, the user can receive a notification via text message or email. The notification contains a message that notifies the user of the Recommendation Alert. You can choose to create a custom message template for when a notification is triggered, or use a default template provided. &#x20;
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 To learn more about Notification Templates, visit the [How to Manage Notification Templates article](../../how-tos/recommendations/manage-notification-templates.md).
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## Subscribe
 

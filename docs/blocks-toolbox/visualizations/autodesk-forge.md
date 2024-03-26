@@ -16,9 +16,9 @@ The _visibility_ property is common to most Blocks;
 
 ### Settings
 
-{% hint style="warning" %}
+<!-- unsupported tag removed -->
 The user must have an account on AutoDesk Forge to be able to use this section.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 #### Use Variables
 

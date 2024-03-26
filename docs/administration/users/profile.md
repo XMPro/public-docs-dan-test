@@ -14,10 +14,10 @@ Any user is able to update their settings using the Subscription Manager. This i
 
 ![](<../../.gitbook/assets/image (513).png>)
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 If the language selected is English, the Date and Time format for XMPro Products will be determined by the web browser's locale. For example, American English vs Australian English.
-{% endhint %}
+<!-- unsupported tag removed -->
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 The email and mobile number may take up to an hour to propagate to all XMPro Products.
-{% endhint %}
+<!-- unsupported tag removed -->

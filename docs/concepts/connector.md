@@ -56,9 +56,9 @@ When you view a Connector, you can see the list of specific versions for that Co
 
 When selecting a Connector to use in an app, the application will automatically choose the latest version available.&#x20;
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 When a new version of a Connector is uploaded, any apps using older versions may need to be upgraded. [See the Data Integration article for more information on how to upgrade an app's connection.](application/data-integration.md#connection)
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](../.gitbook/assets/Connectors\_4.png)
 

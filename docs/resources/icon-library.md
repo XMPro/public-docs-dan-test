@@ -4,7 +4,7 @@ The following is a list of icons that you can use when you create a new App, Dat
 
 You can download a zip file containing all the icons below.
 
-{% file src="../.gitbook/assets/Icon Library.zip" %}
+<!-- unsupported tag removed -->
 
 ## Widgets
 

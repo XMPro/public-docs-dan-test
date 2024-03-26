@@ -16,11 +16,11 @@ There is no expectation that a time series chart will perform to the same level 
 
 We have chosen not to implement hard limits like similar products e.g. Microsoft ADX, as the data sources our customers use are wide and varied.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 Read the article below to improve your understanding of factors that impact performance.
 
 * [A look beneath the hood of XMPro Charts and Time Series Charts](../../resources/faqs/implementation.md#a-look-beneath-the-hood-of-xmpro-charts-and-time-series-charts)
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ### Connector Selection
 
@@ -97,9 +97,9 @@ This determines the default value for the Interval Size slider. The slider allow
 
 This determines the starting date for the Pan & Zoom. The end date of the Time Series Chart is determined by the row with the latest timestamp. The Pan & Zoom range will update automatically with live data.&#x20;
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 The static range is used unless [Dynamic Start](time-series-chart.md#range-dynamic-start) and [Dynamic End](time-series-chart.md#range-dynamic-end) are not zero.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 #### Range - Dynamic Start
 
@@ -190,12 +190,12 @@ You can specify a custom color for each parameter in the line chart. If the numb
 
 The Alerts for selected Recommendations will be displayed at run-time as markers on the chart: the Alert's created time is used as the timestamp and its title as the text.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 Known limitations:
 
 * The marker title space is limited and the Alert title may be truncated.
 * Some HTML special characters (e.g.`<`) used in the Alert title will be encoded.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 #### Entity ID
 
@@ -211,7 +211,7 @@ A Data Source can be connected to a Time Series Chart. This will allow you to di
 
 The Data Source property is required for the Time Series Chart.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 Known limitations:
 
 * SQL is not advised because large volumes of data may cause read issues and/or performance issues. Azure Data Explorer is the recommended time series data source.
@@ -219,7 +219,7 @@ Known limitations:
   * Save the Data Source.
   * Open the Time Series Chart's Block Properties.
   * Save the Application.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ### Data
 

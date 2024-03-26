@@ -1,8 +1,8 @@
 # Manage Company Subscriptions
 
-{% hint style="warning" %}
+<!-- unsupported tag removed -->
 Please note that this section is intended for Global Administrative users. No other type of user is allowed to manage data about companies and their Subscriptions.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## **Adding a Subscription for the new Company**
 
@@ -15,13 +15,13 @@ After the Company is successfully created, you will have to add a Subscription t
 
 Clicking _Request a new License_ will send a request to the [XMPro support team](http://xmpro.com/support/) for a license for Data Stream Designer for this Company.
 
-{% hint style="warning" %}
+<!-- unsupported tag removed -->
 Clicking _Request a new license_ will only send a license request to XMPro if you have enabled email notifications at the time of installing Subscription Manager
-{% endhint %}
+<!-- unsupported tag removed -->
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 The steps above need to be completed for both the Data Stream Designer and App Designer Products.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](<../../.gitbook/assets/image (303).png>)
 

@@ -46,9 +46,9 @@ This allows you to choose between manually entering a value for the _Provider AP
 
 #### Provider&#x20;
 
-{% hint style="danger" %}
+<!-- unsupported tag removed -->
 Google map and Google Static requires Provider API Key and the user needs to provide their own otherwise Google Static will not load and Google map will be shown in development mode. Bing does not require a Provider API Key to show the map.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 If the Mode is Google or Google Static, the Provider API Key property is required for the Map.
 

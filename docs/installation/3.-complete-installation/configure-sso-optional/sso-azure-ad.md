@@ -10,9 +10,9 @@ Start by registering a new application in Azure AD by following [these](https://
 
 Immediately after registering your application, an overview page will be opened for the new application. A unique application (client) ID would have been assigned to the application.&#x20;
 
-{% hint style="danger" %}
+<!-- unsupported tag removed -->
 **Warning:** Copy this ID. You will add it in Subscription Manager’s _web.config_ file shortly.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](https://docs.xmpro.com/wp-content/uploads/2019/07/copy-client-id.png)
 
@@ -30,27 +30,27 @@ Next, create a secret for Subscription Manager. Follow the steps below:
 
 ![](https://docs.xmpro.com/wp-content/uploads/2019/07/add-secret-2-2.png)
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 Both the application client ID and the secret need to be added to Subscription Manager’s _web.config_ file.&#x20;
-{% endhint %}
+<!-- unsupported tag removed -->
 
 6. Navigate to the IIS location where Subscription Manager has been installed.
 7. Open the file _web.config_ file.&#x20;
 8. Scroll down to the “_xmpro_” section.&#x20;
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 This section might have to be decrypted, for which you can find instructions [here](https://docs.xmpro.com/knowledge-base-2/how-to-encrypt-and-decrypt-a-web-config-file/).
-{% endhint %}
+<!-- unsupported tag removed -->
 
 9. Add the application (client) ID that you copied earlier to the `clientId` attribute of the `azureAD` element&#x20;
 10. Copy the secret and add it to the _web.config_.
 
 <figure><img src="../../../.gitbook/assets/SSO_AzureAD_web_config_clientId_and_key.png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 If you're using the Azure key store to manage app settings and secrets, use the `${}` syntax for the azureAD attributes in the _web.config_, similar to:\
 `<azureAD clientId="${ADClientID}" key="${ADSecret}" />`
-{% endhint %}
+<!-- unsupported tag removed -->
 
 11. And define the following secrets in the key store:
 

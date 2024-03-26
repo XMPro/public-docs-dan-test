@@ -6,9 +6,9 @@ Agents can be traced and debugged once they are added and used in a Data Stream.
 
 * Package the agent using [this guide](packaging-agents.md). Make sure that the Agent is packaged as non-virtual. If the Agent is required to be virtual, temporarily set it to non-virtual during development and just repackage it to virtual when releasing.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 Only non-virtual agents could trigger all breakpoints inside the Agent's code. This will also allow you to access any local environment (database, server, etc.) that you will use for testing.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 <figure><img src="../../.gitbook/assets/Debugging an Agent - Package Manager Configuration.png" alt=""><figcaption></figcaption></figure>
 

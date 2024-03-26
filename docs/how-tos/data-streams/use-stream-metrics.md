@@ -4,16 +4,16 @@ When a Data Stream is published, the Stream Metrics become visible and allow you
 
 ![](../../.gitbook/assets/Summary.gif)
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 It is recommended that you read the article listed below to improve your understanding of Stream Metrics.
 
 * [Running Data Streams](../../concepts/data-stream/running-data-streams.md)
 * [How to Manage Data Streams](manage-data-streams.md)
-{% endhint %}
+<!-- unsupported tag removed -->
 
-{% hint style="warning" %}
+<!-- unsupported tag removed -->
 Stream metrics do affect performance. See the [Data Stream Designer Settings](../../../how-tos/manage-site-settings.md#analytics) article for more information on how to toggle this feature on and off.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## Stream Metrics Components
 
@@ -29,9 +29,9 @@ The indicator is:
 * amber if some started (indicates an error on the Stream Host)
 * red if the Data Stream failed to start on all Stream Hosts (likely an error on the Data Stream)
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 This is useful to alert the composer when the Data Stream is first published that the Data Stream failed to start.&#x20;
-{% endhint %}
+<!-- unsupported tag removed -->
 
 <figure><img src="../../.gitbook/assets/Started On.PNG" alt=""><figcaption></figcaption></figure>
 

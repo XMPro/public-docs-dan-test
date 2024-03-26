@@ -2,12 +2,12 @@
 
 When a [Recommendation Alert](../../concepts/recommendation/recommendation-alert.md) is triggered by a critical event, the user can receive a notification via text message or email. The notification contains a message that notifies the user of the Recommendation Alert. You can choose to create a custom message template for when a notification is triggered, or use a default template provided. &#x20;
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 It is recommended that you read the articles listed below to improve your understanding of Recommendations:
 
 * [Notification](../../concepts/recommendation/notification.md)
 * [Manage Notifications](manage-notifications.md)
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## Add a Recommendation Notification Template&#x20;
 
@@ -37,7 +37,7 @@ By default, each notification template is set to 'default'. You can add a custom
 
 Here is an example of an HTML Template file:
 
-{% file src="../../.gitbook/assets/Recommendation Notification Template.zip" %}
+<!-- unsupported tag removed -->
 
 To upload a custom email template, follow the steps below:
 
@@ -51,13 +51,13 @@ To upload a custom email template, follow the steps below:
 &#x20; 5\. If you have any custom placeholders, select the values that will be in those fields.\
 &#x20; 6\. Press Save.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 Add capitalized placeholders for data within the HTML file between curly bracket symbols. For example, \{{ALERTID\}}.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](../../.gitbook/assets/ReworkNotifTemplates1.png)
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 This list of predefined placeholders can be used in the template without mapping:
 
 * ALERTID
@@ -68,7 +68,7 @@ This list of predefined placeholders can be used in the template without mapping
 * PENDINGTIME
 * RULENAME
 * RECNAME (Recommendation Name)
-{% endhint %}
+<!-- unsupported tag removed -->
 
 Click the link to see a preview of the email.
 
@@ -84,9 +84,9 @@ By default, each notification template is set to 'default'. To use a custom SMS 
 &#x20; 4\. Enter a custom notification message.\
 &#x20; 5\. Press Save.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 Use the '@' symbol to choose tags from your Data Stream.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](../../.gitbook/assets/notifications5.png)
 

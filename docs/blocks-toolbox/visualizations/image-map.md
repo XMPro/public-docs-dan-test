@@ -8,9 +8,9 @@ Static and/or dynamic data can be added and their aspect ratio is also maintaine
 
 The static content is a container used to lock the position of other Blocks, for example, to show general information on the corners of a plant diagram. For the best results, specify the position as a percentage and the text size as vh/vw.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 [vw and vh are length units](https://www.w3.org/TR/css3-values/#viewport-relative-lengths) representing 1% of the viewport size for viewport width (vw) and height (vh), respectively. They are ideal for specifying size - especially text - in a responsive design because they are independent of the base font size.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 A dynamic template is a container of other Blocks, linked to a data source. An instance of the template will show at run-time for each data point returned by the data source, positioned at the data point's specified X and Y coordinates.&#x20;
 
@@ -66,9 +66,9 @@ The X Value determines the horizontal position of the Dynamic Template's run-tim
 
 The Y Value determines the vertical position of the Dynamic Template's run-time instances. Acceptable values are percentages, i.e. between 0 and 100.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 The X and Y Values determine the run-time position of each instance of the dynamic template. You can adjust the template's position on the **canvas** under block styling. &#x20;
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ### Positioning
 
@@ -86,9 +86,9 @@ To add another Dynamic Template, select any Dynamic Template and click on the _p
 
 To remove a Dynamic Template, select the Dynamic Template and click on the _delete_ button in the top right Block toolbar.&#x20;
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 The default Dynamic Template cannot be removed.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](<../../.gitbook/assets/Removing dynamic templates (1).gif>)
 
@@ -110,9 +110,9 @@ You can also change the Width and Height to a percentage or vw/vh in the [Dimens
 
 To add Static Content, select the Image Map Block and click on the _plus_ button in the top right Block toolbar.&#x20;
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 If your Image layer covers the Image Map, click the _up_ button in the top right Block toolbar.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](<../../.gitbook/assets/Adding static content.gif>)
 

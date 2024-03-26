@@ -2,12 +2,12 @@
 
 Dynamic Properties allow you to select a dynamic value for a property from the Page Parameters, Variables, User Details, and from a column or expression of the current row of a parent Block's Data Source.&#x20;
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 It is recommended that you read the article listed below to improve your understanding of Properties.
 
 * [Block Properties](../../concepts/application/block-properties.md)
 * [How to Manage Pages](manage-pages.md)
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ### How to Enable Dynamic Properties
 

@@ -69,7 +69,7 @@ The following tables group the available Agents by tier:
 
 ### Tier 5 - Free & Open Source
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 Download the tier 5 files [here](https://xmappstore.blob.core.windows.net/tier5/Tier%205%20-%20Agents.zip).&#x20;
 
 Use these individual files if you are not on v4.1.13 or higher:&#x20;
@@ -82,7 +82,7 @@ Use these individual files if you are not on v4.1.13 or higher:&#x20;
 
 \
 Links for the larger AI & ML Agents\* are on their individual documentation pages.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 | <img src="../../.gitbook/assets/anomaly-detection.png" alt="" data-size="line"> [Anomaly Detection](https://xmpro.gitbook.io/anomaly-detection/)               | AI & Machine Learning\*                  |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
@@ -113,7 +113,7 @@ Links for the larger AI & ML Agents\* are on their individual documentation page
 
 ### Tier 6 - XMPro Internal
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 Download the tier 6 files [here](https://xmappstore.blob.core.windows.net/tier6/Tier%206%20-%20Agents.zip).
 
 Use these individual files if you are not on v4.1.13 or higher:&#x20;
@@ -123,7 +123,7 @@ Use these individual files if you are not on v4.1.13 or higher:&#x20;
 * [Listeners](https://xmappstore.blob.core.windows.net/tier6/Tier%206%20-%20Listeners.zip)
 * [Recommendations](https://xmappstore.blob.core.windows.net/tier6/Tier%206%20-%20Recommendations.zip)
 * [Transformations](https://xmappstore.blob.core.windows.net/tier6/Tier%206%20-%20Transformations.zip)
-{% endhint %}
+<!-- unsupported tag removed -->
 
 <table data-header-hidden><thead><tr><th width="150">Agent</th><th>Type</th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/Aggregate.png" alt="" data-size="line"> <a href="https://xmpro.gitbook.io/aggregate/">Aggregate</a></td><td>Transformation</td></tr><tr><td><img src="../../.gitbook/assets/alter-attribute-64.png" alt="" data-size="line"> <a href="https://xmpro.gitbook.io/alter-attributes/">Alter Attributes</a></td><td>Transformation</td></tr><tr><td><img src="../../.gitbook/assets/AUC.png" alt="" data-size="line"> <a href="https://xmpro.gitbook.io/area-under-the-curve/">Area Under the Curve</a></td><td>Function</td></tr><tr><td><img src="../../.gitbook/assets/Batch Identifier.png" alt="" data-size="line"> <a href="https://xmpro.gitbook.io/batch-identifier/">Batch Identifier</a></td><td>Transformation</td></tr><tr><td><img src="../../.gitbook/assets/Broadcast.png" alt="" data-size="line"> <a href="https://xmpro.gitbook.io/broadcast/">Broadcast</a></td><td>Transformation</td></tr><tr><td><img src="../../.gitbook/assets/Calculated Field.png" alt="" data-size="line"> <a href="https://xmpro.gitbook.io/calculated-field/">Calculated Field</a></td><td>Transformation</td></tr><tr><td><img src="../../.gitbook/assets/ActionRequestIcon.png" alt=""> <a href="https://xmpro.gitbook.io/action-request-agents/">Close Action Request</a></td><td>Recommendation</td></tr><tr><td><img src="../../.gitbook/assets/concat.png" alt=""><a href="https://xmpro.gitbook.io/concatenate-row-values/">Concatenate Row Values</a></td><td>Transformation</td></tr><tr><td><img src="../../.gitbook/assets/Data Conversion.png" alt="" data-size="line"> <a href="https://xmpro.gitbook.io/data-conversion">Data Conversion</a></td><td>Transformation</td></tr><tr><td><img src="../../.gitbook/assets/Edge Analysis.png" alt="" data-size="line"> <a href="https://xmpro.gitbook.io/edge-analysis/">Edge Analysis</a></td><td>Transformation</td></tr><tr><td><img src="../../.gitbook/assets/Event Printer.png" alt="" data-size="line"> <a href="https://xmpro.gitbook.io/event-printer/">Event Printer</a></td><td>Action Agent</td></tr><tr><td><img src="../../.gitbook/assets/Event Simulator.png" alt="" data-size="line"> <a href="https://xmpro.gitbook.io/event-simulator/">Event Simulator</a></td><td>Listener</td></tr><tr><td><img src="../../.gitbook/assets/File Monitor.png" alt="" data-size="line"> <a href="https://xmpro.gitbook.io/file/">File Listener</a></td><td>Listener</td></tr><tr><td><img src="../../.gitbook/assets/Filter.png" alt="" data-size="line"> <a href="https://xmpro.gitbook.io/filter/">Filter</a></td><td>Transformation</td></tr><tr><td><img src="../../.gitbook/assets/GeoFence.png" alt="" data-size="line"> <a href="https://xmpro.gitbook.io/geofence/">Geofence</a></td><td>Function</td></tr><tr><td><img src="../../.gitbook/assets/Group and Merge.png" alt="" data-size="line"> <a href="https://xmpro.gitbook.io/group-and-merge/">Group &#x26; Merge</a></td><td>Transformation</td></tr><tr><td><img src="../../.gitbook/assets/Join.png" alt="" data-size="line"> <a href="https://xmpro.gitbook.io/join/">Join</a></td><td>Transformation</td></tr><tr><td><img src="../../.gitbook/assets/Missing Values Detector.png" alt="" data-size="line"> <a href="https://xmpro.gitbook.io/missing-values-detector/">Missing Value Detector</a></td><td>Transformation</td></tr><tr><td><img src="../../.gitbook/assets/Missing Values Substitutor.png" alt="" data-size="line"> <a href="https://xmpro.gitbook.io/missing-value-substitutor/">Missing Value Substitutor</a></td><td>Transformation</td></tr><tr><td><img src="../../.gitbook/assets/NormalizeFieldsIcon.png" alt=""> <a href="https://xmpro.gitbook.io/normalize-fields/">Normalize Fields</a></td><td>Transformation</td></tr><tr><td><img src="../../.gitbook/assets/Pass Through.png" alt="" data-size="line"> <a href="https://xmpro.gitbook.io/pass-through/">Pass Through</a></td><td>Transformation</td></tr><tr><td><img src="../../.gitbook/assets/pivot.png" alt=""> <a href="https://xmpro.gitbook.io/pivot-table/">Pivot Table</a></td><td>Transformation</td></tr><tr><td><img src="../../.gitbook/assets/RandomNumberIcon.png" alt=""> <a href="https://xmpro.gitbook.io/random-numbers/">Random Number</a></td><td>Transformation</td></tr><tr><td><img src="../../.gitbook/assets/ActionRequestIcon.png" alt=""> <a href="https://xmpro.gitbook.io/action-request-agents/">Read Action Request</a></td><td>Recommendation</td></tr><tr><td><img src="../../.gitbook/assets/Read Recommendation.png" alt="" data-size="line"> <a href="https://xmpro.gitbook.io/read-recommendation/">Read Recommendation </a></td><td>Recommendation</td></tr><tr><td><img src="../../.gitbook/assets/Resolve Recommendation.png" alt="" data-size="line"> <a href="https://xmpro.gitbook.io/resolve-recommendation/">Resolve Recommendation</a></td><td>Recommendation</td></tr><tr><td><img src="../../.gitbook/assets/Row Count.png" alt="" data-size="line"> <a href="https://xmpro.gitbook.io/row-count/">Row Count</a></td><td>Transformation</td></tr><tr><td><img src="../../.gitbook/assets/Row Padding.png" alt="" data-size="line"> <a href="https://xmpro.gitbook.io/row-padding/">Row Padding</a></td><td>Transformation</td></tr><tr><td><img src="../../.gitbook/assets/Run Recommendation.png" alt="" data-size="line"> <a href="https://xmpro.gitbook.io/run-recommendation">Run Recommendation</a></td><td>Recommendation</td></tr><tr><td><img src="../../.gitbook/assets/Sort.png" alt="" data-size="line"> <a href="https://xmpro.gitbook.io/sort/">Sort</a></td><td>Transformation</td></tr><tr><td><img src="../../.gitbook/assets/Threshold Monitor.png" alt="" data-size="line"> <a href="https://xmpro.gitbook.io/threshold-monitor/">Threshold Monitor</a></td><td>Transformation</td></tr><tr><td><img src="../../.gitbook/assets/pivot.png" alt=""><a href="https://xmpro.gitbook.io/transpose/">Transpose</a></td><td>Transformation</td></tr><tr><td><img src="../../.gitbook/assets/Trim.png" alt="" data-size="line"> <a href="https://xmpro.gitbook.io/trim/">Trim</a></td><td>Transformation</td></tr><tr><td><img src="../../.gitbook/assets/Union.png" alt="" data-size="line"> <a href="https://xmpro.gitbook.io/union/">Union</a></td><td>Transformation</td></tr><tr><td><img src="../../.gitbook/assets/UnzipIcon.png" alt=""> <a href="https://xmpro.gitbook.io/unzip/">Unzip</a></td><td>Action Agent</td></tr><tr><td><img src="../../.gitbook/assets/Update Recommendation.png" alt="" data-size="line"> <a href="https://xmpro.gitbook.io/update-recommendation/">Update Recommendation</a></td><td>Recommendation</td></tr><tr><td><img src="../../.gitbook/assets/Window.png" alt="" data-size="line"> <a href="https://xmpro.gitbook.io/window/">Window </a></td><td>Transformation</td></tr><tr><td><img src="../../.gitbook/assets/XMPro App.png" alt="" data-size="line"> <a href="https://xmpro.gitbook.io/xmpro-app/">XMPro App</a></td><td>Action Agent</td></tr></tbody></table>
 
@@ -133,9 +133,9 @@ A [_Connector_](../../concepts/connector.md) is a pre-built integration plug-in 
 
 Whereas the Agents in a published Data Stream continuously poll for data, the Connectors in a published App retrieve data on an ad-hoc basis.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 Download the tier 5 & 6 files [here](https://xmappstore.blob.core.windows.net/tier5/Tier%205%20%26%206%20-%20Connectors.zip).
-{% endhint %}
+<!-- unsupported tag removed -->
 
 The following tables group the available Connectors by tier:
 

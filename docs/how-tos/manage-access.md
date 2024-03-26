@@ -2,11 +2,11 @@
 
 XMPro Objects such as Data Streams, Recommendations, Applications, and more can be shared with different users. The person that originally created the XMPro Object will be listed as the owner. When sharing the XMPro Object with other users, users can either be given Co-owner, read, or write access.&#x20;
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 It is recommended that you read the article listed below to improve your understanding of Managing Access.
 
 * [Manage Access](../concepts/manage-access.md)
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## Giving permissions to users
 

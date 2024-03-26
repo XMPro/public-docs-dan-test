@@ -2,12 +2,12 @@
 
 Widgets are collections of Blocks or layouts that you can group together and re-use for other Apps and Pages. For example, if there is a common group of Blocks that is repetitive to continuously recreate, these Blocks can be selected and turned into a Widget. When a Widget is created, it is added as a Block in the Blocks toolbox and can then be dragged onto the canvas and re-used as many times as needed on any Page.&#x20;
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 It is recommended that you read the article listed below to improve your understanding of Widgets.
 
 * [UI Block (Toolbox)](../../concepts/application/block.md)
 * [How to Manage Pages](manage-pages.md)
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## Creating a Widget
 
@@ -70,9 +70,9 @@ Widgets that were built in one Application can be imported to another Applicatio
 
 ![](../../.gitbook/assets/ImportWidgets2.png)
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 New Widgets will appear in the list of Widgets.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](<../../.gitbook/assets/ImportWidgets3 (1).png>)
 
@@ -85,9 +85,9 @@ If you want certain Widgets that were built in your Application to be used in an
 &#x20;   3\. Select the Widgets you would like to export.\
 &#x20;   4\. Click on Export.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 You can choose multiple Widgets to export at once. They will all be exported into one file.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](../../.gitbook/assets/ExportWidgets1.png)
 

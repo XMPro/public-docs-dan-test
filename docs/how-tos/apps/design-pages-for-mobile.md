@@ -2,13 +2,13 @@
 
 When designing Pages, you may want to use responsive web design principles to support different screen sizes with the same App. This is easily accomplished with Block Styling and Devices. The default Page Layouts that you can choose from when creating a page have built-in responsive styling applied to the cards. For an example of this, see the [Responsive Page Layout Example](../../concepts/application/page.md#responsive-page-layout-example).
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 It is recommended that you read the article listed below to improve your understanding of how to design pages for mobile.
 
 * [How to Use Block Styling and Devices](use-block-styling-and-devices.md)
 * [How to Manage Pages](manage-pages.md)
 * [How to Use Flex](use-flex.md)
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## How to Make Responsive Card Layout
 

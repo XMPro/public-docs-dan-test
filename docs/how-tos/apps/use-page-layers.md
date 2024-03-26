@@ -2,12 +2,12 @@
 
 Blocks are organized on the Canvas in a hierarchy. A list view of this hierarchy is visible by selecting the Page Layers tab in the toolbox. This can make selecting Blocks simpler and easier as some Applications may have many nested layers and it can be difficult to select them on the Canvas itself. Each Block that is selected also displays a list of any children Blocks if applicable. This allows you to find the exact Block you need to manipulate.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 It is recommended that you read the article listed below to improve your understanding of Page Layers.
 
 * [Page Layers](../../concepts/application/page-layers.md)
 * [How to Manage Pages](manage-pages.md)
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## Selecting a block
 
@@ -49,9 +49,9 @@ Renaming Blocks will not affect what the block looks like at runtime, it will on
 
 &#x20;   4\. Enter the new name of the Block.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 Changing the name will not change the content of the Block, it will only change what the Block is called.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](../../.gitbook/assets/Layers\_6.png)
 

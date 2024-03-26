@@ -40,14 +40,14 @@ In order to proceed with the deployment, you are required to complete the steps 
 2. Install the [**software** requirements](../install.md#software-requirements)
 3. Follow the [certificate and communication steps](../install.md#preparation-steps)&#x20;
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 **Two SSL Certificates are required**
 
 1. An SSL Certificate in AWS Certificate Manager, used by IIS (See the [Appendix](aws.md#ssl-certificate-in-certificate-manager) guide).\
 
 2. An SSL Certificate, used by the SM instance (added to the [S3 Bucket](aws.md#create-s3-bucket) during the installation).\
    Create or ask your administrator for an SSL certificate with the correct DNS name. A self-signed certificate is good enough. There are many ways to generate this certificate, one of which is described in the above [1. Preparation](../install.md#https-ssl-certificate) guide. Please note the file names **must** be called **ssl.pfx** and **ssl.password.txt**.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 **Resources**&#x20;
 
@@ -112,12 +112,12 @@ Search for **ElastiCache** in the _**Services**_ dropdown and select it.
 
 ![](<../../.gitbook/assets/image (1613).png>)
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 Note:
 
 * Currently, SignalR doesn’t support Redis Clusters [https://docs.microsoft.com/en-us/aspnet/signalr/overview/performance/scaleout-with-redis](https://docs.microsoft.com/en-us/aspnet/signalr/overview/performance/scaleout-with-redis)
 * Sticky Sessions must be used for SignalR [https://learn.microsoft.com/en-us/aspnet/core/signalr/scale?view=aspnetcore-6.0](https://learn.microsoft.com/en-us/aspnet/core/signalr/scale?view=aspnetcore-6.0)
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## Amazon RDS Creation
 
@@ -142,13 +142,13 @@ In the AWS Management Console choose **RDS** under _**Database**_ in the _**Serv
 
 5\. Click the _DB Identifier_ just created.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 Make a note of the following:
 
 * _Endpoint_ - In this example: _aero-sql.cug4m2yk6h94.ap-south-1.rds.amazonaws.com_
 * User - as specified earlier
 * Password - as specified earlier
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](<../../.gitbook/assets/image (144).png>)
 
@@ -238,9 +238,9 @@ The first step in using AWS Elastic Beanstalk is to create an application, which
 
 ![](<../../.gitbook/assets/image (75).png>)
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 You have successfully created the application. Next, we'll create the application's environments for each product: Subscription Manager, Data Stream Designer, and App Designer.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## Subscription Manager
 
@@ -356,9 +356,9 @@ You have successfully created the application. Next, we'll create the applicatio
 10. Copy the _sign.pfx_ and _sign.password.txt_ files (the signing certificate referenced in the [1. Preparation](../install.md#signing-certificate) guide) into the bucket and ensure the files are publicly accessible.
 11. Copy the _ssl.pfx_ and _ssl.password.txt_ files (the SSL certificate referenced in the [1. Preparation](../install.md#https-ssl-certificate) guide) into the bucket and ensure the files are publicly accessible.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 The signing certificate is between the end user and the load balancer. The instance SSL certificate is used between the instances and the load balancer.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ### Install Subscription Manager
 
@@ -796,6 +796,6 @@ This needs to be completed for each ELB Application.
 
 The installation of the XMPro Platform is now complete, but there are some environment setup steps before you can use the platform. Please click the below link for further instructions:
 
-{% content-ref url="../3.-complete-installation/" %}
+<!-- unsupported tag removed -->
 [3.-complete-installation](../3.-complete-installation/)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->

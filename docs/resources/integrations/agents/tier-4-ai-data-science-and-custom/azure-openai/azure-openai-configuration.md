@@ -14,9 +14,9 @@ description: >-
 
 This associates the Agent to a specific Collection (default to that of the current Data Stream).
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 Refer to [Collections and Stream Hosts](https://documentation.xmpro.com/collection) to understand more about Collections.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ### Connection Properties <a href="#connection-properties" id="connection-properties"></a>
 
@@ -64,9 +64,9 @@ The message to send. Insert columns from the input payload by enclosing them in 
 
 <figure><img src="../../../../../.gitbook/assets/Azure OpenAI Example - Config 2.png" alt=""><figcaption><p>Fig 2: Azure OpenAI Message Configuration</p></figcaption></figure>
 
-{% hint style="warning" %}
+<!-- unsupported tag removed -->
 Before configuring the **AI** Agent, please ensure that its input endpoint is connected to a parent Agent which will be sending data to it.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ### Endpoints
 

@@ -8,9 +8,9 @@ The Live Feed Block is a dynamic visualization block that offers users the abili
 
 By integrating a live feed, users can monitor events as they unfold in real time, and when used in conjunction with other blocks within App Designer, it allows users to not only view real-time events but also to monitor and visualize key statistics related to the area under surveillance. This combination of live visuals and data-driven insights provides a comprehensive overview of the situation at hand, enabling users to respond more effectively to changing conditions.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 The controls at runtime will depend on the camera software used.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## Live Feed Properties
 
@@ -28,9 +28,9 @@ The _visibility_ property is common to most Blocks;
 
 Enter the URL of the IP live camera. The contents of the feed will load automatically from this URL.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 The live feed will be streamed on the canvas once the URL has been provided.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 #### Enable Scrollbars&#x20;
 

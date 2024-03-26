@@ -14,9 +14,9 @@ description: This section explains each of the properties in the configuration b
 
 This associates the Agent to a specific Collection (default to that of the current Data Stream).
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 Refer to [Collections and Stream Hosts](https://documentation.xmpro.com/collection) to understand more about Collections.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 #### Polling Interval (seconds)
 
@@ -150,4 +150,4 @@ Errors encountered during the execution of this Agent will be published on this 
 
 Download this template, modify it to represent your tags, and upload it to [CSV File To Import](listener-configuration.md#csv-file-to-import) (applies when [Import Tags From CSV File](listener-configuration.md#import-tags-from-csv-file) is ticked).
 
-{% file src="../../../../../.gitbook/assets/OpcDaTagsTemplate.csv" %}
+<!-- unsupported tag removed -->

@@ -2,11 +2,11 @@
 
 A List is a UI component that displays a collection of items in the form of a list. The List is scrollable if there are too many items to fit in its container, or it can also be separated into pages. A List can be connected to a Data Source to retrieve and display specific values. Lists can be useful if you want to display a list of items to the user.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 It is recommended that you read the article listed below to improve your understanding of Data Sources.
 
 * [How to Create and Manage Data Sources](../../how-tos/apps/manage-data-sources.md)
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ### Appearance
 

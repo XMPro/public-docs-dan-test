@@ -2,19 +2,19 @@
 
 A Stream Host is an application that can either be installed as a Windows Service or as a Console Application. Stream Hosts enable Data Streams to run, and you can check any status updates, messages, or errors from the Stream Host directly from the Data Stream you are running.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 It is recommended that you read the article listed below to improve your understanding of Stream Hosts and Data Streams.
 
 * [Data Stream](../../concepts/data-stream/)
 * [Collection and Stream Host](../../concepts/collection.md)
 * [How to Manage Data Streams](manage-data-streams.md)
-{% endhint %}
+<!-- unsupported tag removed -->
 
 Stream Host logs can be checked by going to the 'Collection' page of Data Stream Designer and viewing the logs there. However, you can also view Logs that are specific to a Data Stream directly from the Data Stream canvas.&#x20;
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 To find out more about viewing Stream Host logs, visit the [How to Manage Stream Hosts article](../stream-host.md).&#x20;
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## View Data Stream Logs
 

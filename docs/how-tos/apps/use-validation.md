@@ -2,12 +2,12 @@
 
 Validation is a way of making sure the user has correctly entered data when they are filling out a form. The Validation occurs when they press the submit button. This prevents the user from submitting data that is inaccurate or in the wrong format.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 It is recommended that you read the article listed below to improve your understanding of Applications.
 
 * [Block Properties](../../concepts/application/block-properties.md)
 * [How to Manage Pages](manage-pages.md)
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## Adding Validation to Forms
 

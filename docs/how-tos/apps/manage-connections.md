@@ -4,12 +4,12 @@ The parameters defined in a Connection allow the App to connect to a source of d
 
 For example, Connection parameters to connect to an SQL Database would include the Server Name, Authentication type, Username, and password.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 It is recommended that you read the article listed below to improve your understanding of Data Integration.
 
 * [Data Integration](../../concepts/application/data-integration.md)
 * [How to Manage Pages](manage-pages.md)
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## Adding a Connection to the Application
 
@@ -72,9 +72,9 @@ To delete multiple Connections, follow the steps below:
 
 ![](../../.gitbook/assets/conn\_8.png)
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 You can cancel the multi-select by clicking on the select button again.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## Data Stream Connections
 

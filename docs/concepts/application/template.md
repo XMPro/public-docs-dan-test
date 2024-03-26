@@ -14,9 +14,9 @@ When you click a Template it will give you a preview with screenshots, Name and 
 
 Templates are created by clicking Save as Template on an App. This will create a Template that has the Pages of the App. The Thumbnail screenshot will be shown on the New App page, and all the screenshots will be visible after clicking on the Template on the New App Page.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 Please note that any Data Sources on the Pages will not be saved into the Template.&#x20;
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](<../../.gitbook/assets/image (510).png>)
 

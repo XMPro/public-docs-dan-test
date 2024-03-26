@@ -2,12 +2,12 @@
 
 If an Agent has been updated and you want to use the latest version, you can upgrade the Agent using the top menu to get the latest version. It is beneficial to upgrade the Agent especially if there are known errors for that Agent or if the Agent has been improved and provides more functionalities or settings.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 It is recommended that you read the article listed below to improve your understanding of Agents.
 
 * [Agent](../../concepts/agent/)
 * [How to Manage Data Streams](manage-data-streams.md)
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## **Upgrading Agents**
 

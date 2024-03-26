@@ -60,9 +60,9 @@ The _Read_ permission will allow a person to view the XMPro Object, but making a
 
 XMPro Objects that have the ability to view them at runtime (Apps and Recommendations) have two tabs - Design Access and Run Access. Design access is as described for Manage Access above, and Run Access is where you can configure which [Business Roles](manage-access.md#business-roles-administrator) or [Users](broken-reference) have permission to view the runtime mode of the XMPro Object. If a Business Role is selected for Run Access, all descendent Business Rules and Users also have access.
 
-{% hint style="warning" %}
+<!-- unsupported tag removed -->
 For Apps, if a User has Design Access they will also automatically have access to run the App in view mode. However, for Recommendations, a User can only view Recommendation Alerts if they or their Business Role has Run Access, regardless of whether they have Design Access to the Recommendation.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![Run Access for the ACME Company and David only ](<../.gitbook/assets/image (574).png>)
 
@@ -86,9 +86,9 @@ When a user logs in, Subscription Manager will look at the value specified in th
 
 [See the Sync Azure AD Role to SM's Business Role article for information on how to configure the claim name.](../installation/3.-complete-installation/configure-sso-optional/sso-azure-ad.md#sync-azure-ad-role-with-sms-business-role)
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 If a Business Role with the same name doesn't exist, it will be created as a child under the default Business Role, 'All Employees'.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## Actions on the Manage Run Access page
 

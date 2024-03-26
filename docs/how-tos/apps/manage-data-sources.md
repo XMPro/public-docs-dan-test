@@ -2,12 +2,12 @@
 
 Data Sources can be created for a Page in the Application. They are a way to link to a specific Entity in a Connection's Entities, for example, a table in a SQL database. Data Sources are managed through the Page Data tab of a Page. Data Sources allow you to display, use, manipulate or store data from a connected source of data such as an SQL Server Database. &#x20;
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 It is recommended that you read the article listed below to improve your understanding of Data Integration.
 
 * [Data Integration](../../concepts/application/data-integration.md)
 * [How to Manage Connections](manage-connections.md)
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## Creating a Data Source
 

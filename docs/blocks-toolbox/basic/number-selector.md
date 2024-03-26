@@ -2,9 +2,9 @@
 
 In scenarios where the user should select a number, the Number Selector is an input field that gives the user the option to do so. When the user enters a value, the field automatically makes sure the value entered is a number.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 Number Selector automatically converts the entered value into a scientific notation if it is greater than 21 digits for an integer value and greater than 6 digits for a decimal value.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## Number Selector Properties
 

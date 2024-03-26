@@ -2,13 +2,13 @@
 
 Flex styles are a way of changing the layout of the page so it is responsive. When using Flex, the layout and position of the Blocks will respond to fit the screen, which is important in ensuring that users have a good user experience regardless of the screen size they are viewing your Application on.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 It is recommended that you read the article listed below to improve your understanding of Devices and the Style Manager.
 
 * [Device](../../concepts/application/devices.md)
 * [Style Manager](../../concepts/application/block-styling.md)
 * [How to Use Style Manager and Devices](use-block-styling-and-devices.md)
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## Enabling Flex Styles
 

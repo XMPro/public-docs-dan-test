@@ -2,11 +2,11 @@
 
 Connectors allow you to connect to third-party sources of data. Examples of these Data Sources include databases, Data Streams, or Recommendations, which can be integrated into the Application and are needed if you want to display any real-time or context data to the user on a Page of an Application.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 It is recommended that you read the article listed below to improve your understanding of Connectors.
 
 * [Connector](../../concepts/connector.md)
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ## **Creating Connectors**
 
@@ -20,9 +20,9 @@ XMPro.IoT.Framework requires your project to be written using a predefined struc
 
 To learn more about how to use this framework, refer to [these](building-connectors.md) instructions.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 Code for some Connectors has been made available on [GitHub.](https://github.com/XMPro/) It might be useful to use these resources as an example when writing your own Connectors.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ### Packaging the Connector
 
@@ -75,9 +75,9 @@ When a new [version](../../concepts/version.md) of a Connector is added, the Con
 3. Each version is shown along with the number of Applications still using that version.&#x20;
 4. Select the version to view the complete list of Applications still using that version.
 
-{% hint style="info" %}
+<!-- unsupported tag removed -->
 Users with [DeleteConnector](../../administration/subscriptions-admin/manage-user-access.md#app-designer-rights-and-roles) rights and Admins see the usage count for all Applications, whereas other users see the usage count of Applications to which they have access.
-{% endhint %}
+<!-- unsupported tag removed -->
 
 ![](<../../.gitbook/assets/image (246).png>)
 

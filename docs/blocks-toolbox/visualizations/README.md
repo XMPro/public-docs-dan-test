@@ -1,81 +1,81 @@
 # Visualizations
 
-{% content-ref url="autodesk-forge.md" %}
+<!-- unsupported tag removed -->
 [autodesk-forge.md](autodesk-forge.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="azure-digital-twin-hierarchy.md" %}
+<!-- unsupported tag removed -->
 [azure-digital-twin-hierarchy.md](azure-digital-twin-hierarchy.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="bar-gauge.md" %}
+<!-- unsupported tag removed -->
 [bar-gauge.md](bar-gauge.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="chart.md" %}
+<!-- unsupported tag removed -->
 [chart.md](chart.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="circular-gauge.md" %}
+<!-- unsupported tag removed -->
 [circular-gauge.md](circular-gauge.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="d3-visualization.md" %}
+<!-- unsupported tag removed -->
 [d3-visualization.md](d3-visualization.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="esri-map.md" %}
+<!-- unsupported tag removed -->
 [esri-map.md](esri-map.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="image-map.md" %}
+<!-- unsupported tag removed -->
 [image-map.md](image-map.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="linear-gauge.md" %}
+<!-- unsupported tag removed -->
 [linear-gauge.md](linear-gauge.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="autodesk-forge-1.md" %}
+<!-- unsupported tag removed -->
 [autodesk-forge-1.md](autodesk-forge-1.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="map.md" %}
+<!-- unsupported tag removed -->
 [map.md](map.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="pie-chart.md" %}
+<!-- unsupported tag removed -->
 [pie-chart.md](pie-chart.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="pivot-grid.md" %}
+<!-- unsupported tag removed -->
 [pivot-grid.md](pivot-grid.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="polar-chart.md" %}
+<!-- unsupported tag removed -->
 [polar-chart.md](polar-chart.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="power-bi.md" %}
+<!-- unsupported tag removed -->
 [power-bi.md](power-bi.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="sparkline.md" %}
+<!-- unsupported tag removed -->
 [sparkline.md](sparkline.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="time-series-chart.md" %}
+<!-- unsupported tag removed -->
 [time-series-chart.md](time-series-chart.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="tree-map.md" %}
+<!-- unsupported tag removed -->
 [tree-map.md](tree-map.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="unity.md" %}
+<!-- unsupported tag removed -->
 [unity.md](unity.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
 
-{% content-ref url="unity-1.md" %}
+<!-- unsupported tag removed -->
 [unity-1.md](unity-1.md)
-{% endcontent-ref %}
+<!-- unsupported tag removed -->
