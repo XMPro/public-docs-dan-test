@@ -18,7 +18,7 @@ XMPro can be deployed on the cloud, On-Premise, or the edge. With XMPro AI, you 
 
 <!-- embeded video removed -->
 Fig 2: XMPro AI - How It Works
-{% endembed %}
+<!-- embeded video removed -->
 
 
 ## Embedded AI
@@ -78,4 +78,4 @@ We then switch to MLflow to promote version 2 to production. Observe that when w
 
 <!-- embeded video removed -->
 Fig 7: A new version promoted in MLflow is seamlessly picked up and processed in the Data Stream.&#x20;
-{% endembed %}
+<!-- embeded video removed -->

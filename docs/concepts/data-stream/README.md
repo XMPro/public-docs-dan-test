@@ -6,7 +6,7 @@ The Data Stream Designer lets you see all connected data in one place and manipu
 
 <!-- embeded video removed -->
 Video Presentation Discussing Data Stream Designer
-{% endembed %}
+<!-- embeded video removed -->
 
 Data Stream's flow is represented by agents connected by arrows, enabling data processing at each agent based on its function, allowing you to view and perform actions on data from multiple sources in one place.
 

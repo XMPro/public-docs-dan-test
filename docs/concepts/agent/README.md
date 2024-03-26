@@ -8,7 +8,7 @@ Agents are needed to connect to specific systems. Since Agents are individual co
 
 <!-- embeded video removed -->
 Videor Presentation Discussing Agents and Collections
-{% endembed %}
+<!-- embeded video removed -->
 
 Each Agent consists of code, [settings](./#settings), and other properties that are packaged into a file that can be uploaded to Data Stream Designer.&#x20;
 

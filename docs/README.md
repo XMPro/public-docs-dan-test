@@ -22,7 +22,7 @@ XMPro’s extensible [integration library](https://documentation.xmpro.com/resou
 
 <!-- embeded video removed -->
 Watch the demo video to see XMPro's platform in action
-{% endembed %}
+<!-- embeded video removed -->
 
 ## How The Documentation Is Organized
 
