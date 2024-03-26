@@ -1,5 +1,5 @@
 # realize-value-from-end-to-end-condition-monitoring-in-6---8-weeks---xmpro
-{% embed url="https://www.youtube.com/watch?v=y8sCSz4NLOQ" %}
+<!-- embeded video removed -->
 
 
 

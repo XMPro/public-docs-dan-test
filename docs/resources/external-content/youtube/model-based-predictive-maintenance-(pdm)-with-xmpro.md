@@ -1,5 +1,5 @@
 # model-based-predictive-maintenance-(pdm)-with-xmpro
-{% embed url="https://www.youtube.com/watch?v=rqN70ip1GPI" %}
+<!-- embeded video removed -->
 
 
 

@@ -1,5 +1,5 @@
 # setting-up-a-typical-industrial-iot-use-case-with-xmpro
-{% embed url="https://www.youtube.com/watch?v=Z23vUw-XYm8" %}
+<!-- embeded video removed -->
 
 
 

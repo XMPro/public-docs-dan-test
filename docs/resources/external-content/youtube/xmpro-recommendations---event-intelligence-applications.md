@@ -1,5 +1,5 @@
 # xmpro-recommendations---event-intelligence-applications
-{% embed url="https://www.youtube.com/watch?v=Rh9G1qR6X5o" %}
+<!-- embeded video removed -->
 
 
 

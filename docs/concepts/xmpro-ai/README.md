@@ -16,9 +16,10 @@ XMPro AI is baked into our modules, from the agents, reading and contextualizing
 
 XMPro can be deployed on the cloud, On-Premise, or the edge. With XMPro AI, you can make data-driven decisions with confidence, maximizing efficiency and driving business growth. &#x20;
 
-{% embed url="https://www.youtube.com/watch?v=u2y-4TMuQkw" %}
+<!-- embeded video removed -->
 Fig 2: XMPro AI - How It Works
 {% endembed %}
+
 
 ## Embedded AI
 
@@ -75,6 +76,6 @@ In the example below, version 1 of a model is configured and the Data Stream is 
 
 We then switch to MLflow to promote version 2 to production. Observe that when we switch back to the Data Stream output, model version two is seamlessly used to make the next prediction.
 
-{% embed url="https://www.youtube.com/watch?v=2nwB2MgL_ds" %}
+<!-- embeded video removed -->
 Fig 7: A new version promoted in MLflow is seamlessly picked up and processed in the Data Stream.&#x20;
 {% endembed %}

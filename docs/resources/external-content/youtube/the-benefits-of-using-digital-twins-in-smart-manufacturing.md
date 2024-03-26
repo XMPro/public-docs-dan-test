@@ -1,5 +1,5 @@
 # the-benefits-of-using-digital-twins-in-smart-manufacturing
-{% embed url="https://www.youtube.com/watch?v=stBkrkKU59Y" %}
+<!-- embeded video removed -->
 
 
 

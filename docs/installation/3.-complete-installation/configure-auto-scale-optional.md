@@ -4,7 +4,7 @@ description: v4.3.1
 
 # Configure Auto Scale (Optional)
 
-{% embed url="https://youtu.be/hpusWm3GEko" %}
+<!-- embeded video removed -->
 
 ## Overview
 

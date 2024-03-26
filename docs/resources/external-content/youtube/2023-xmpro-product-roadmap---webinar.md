@@ -1,5 +1,5 @@
 # 2023-xmpro-product-roadmap---webinar
-{% embed url="https://www.youtube.com/watch?v=XeEpso-ykMI" %}
+<!-- embeded video removed -->
 
 
 

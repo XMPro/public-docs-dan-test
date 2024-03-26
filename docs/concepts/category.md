@@ -6,7 +6,7 @@ A Category is a container that groups related [Data Streams](data-stream/) and [
 
 Categories are useful as they allow you to group your Data Streams, Applications, or other XMPro Objects into logical areas. Organizations have the flexibility to create Categories based on their specific requirements such as the organizational structure of their asset hierarchy.&#x20;
 
-{% embed url="https://www.youtube.com/watch?v=2GznBa2cKHo" %}
+<!-- embeded video removed -->
 
 ## Finding Categories
 

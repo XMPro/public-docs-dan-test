@@ -1,5 +1,5 @@
 # xmpro---the-world's-only-ai---powered-intelligent-digital-twin-suite
-{% embed url="https://www.youtube.com/watch?v=8QesUF89APs" %}
+<!-- embeded video removed -->
 
 
 

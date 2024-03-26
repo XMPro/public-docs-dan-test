@@ -1,5 +1,5 @@
 # end-to-end-real-time-condition-monitoring-demo---xmpro-application-development-platform
-{% embed url="https://www.youtube.com/watch?v=2Qdhw_Vzd_8" %}
+<!-- embeded video removed -->
 
 
 

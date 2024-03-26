@@ -1,5 +1,5 @@
 # the-four-industrial-revolutions-explained-in-under-4-minutes!-#industry4-#smartmanufacturing
-{% embed url="https://www.youtube.com/watch?v=NDTvCO5ifKo" %}
+<!-- embeded video removed -->
 
 
 

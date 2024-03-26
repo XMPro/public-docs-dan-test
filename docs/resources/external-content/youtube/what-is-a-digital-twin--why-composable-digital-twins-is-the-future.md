@@ -1,5 +1,5 @@
 # what-is-a-digital-twin--why-composable-digital-twins-is-the-future
-{% embed url="https://www.youtube.com/watch?v=AceTNfEBgN0" %}
+<!-- embeded video removed -->
 
 
 

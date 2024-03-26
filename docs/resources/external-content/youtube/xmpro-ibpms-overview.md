@@ -1,5 +1,5 @@
 # xmpro-ibpms-overview
-{% embed url="https://www.youtube.com/watch?v=7cwuXVLwFYw" %}
+<!-- embeded video removed -->
 
 
 

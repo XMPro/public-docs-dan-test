@@ -1,5 +1,5 @@
 # xmpro-ai-end-to-end-use-case
-{% embed url="https://www.youtube.com/watch?v=HHXKgu_gaoY" %}
+<!-- embeded video removed -->
 
 
 

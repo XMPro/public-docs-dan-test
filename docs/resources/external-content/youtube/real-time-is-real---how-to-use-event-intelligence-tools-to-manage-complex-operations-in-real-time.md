@@ -1,5 +1,5 @@
 # real-time-is-real---how-to-use-event-intelligence-tools-to-manage-complex-operations-in-real-time
-{% embed url="https://www.youtube.com/watch?v=NR39SFj1EH0" %}
+<!-- embeded video removed -->
 
 
 

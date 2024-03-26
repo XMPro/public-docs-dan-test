@@ -1,5 +1,5 @@
 # xmpro-data-stream-designer---event-intelligence-applications
-{% embed url="https://www.youtube.com/watch?v=gcsBKSqA0FU" %}
+<!-- embeded video removed -->
 
 
 

@@ -1,5 +1,5 @@
 # how-to-revolutionize-your-supply-chain-with-digital-twins
-{% embed url="https://www.youtube.com/watch?v=PABXmUbtILw" %}
+<!-- embeded video removed -->
 
 
 

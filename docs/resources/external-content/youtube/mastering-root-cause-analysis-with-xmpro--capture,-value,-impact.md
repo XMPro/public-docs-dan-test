@@ -1,5 +1,5 @@
 # mastering-root-cause-analysis-with-xmpro--capture,-value,-impact
-{% embed url="https://www.youtube.com/watch?v=lCqijGb1rwg" %}
+<!-- embeded video removed -->
 
 
 

@@ -1,5 +1,5 @@
 # smart-facilities-management-with-intelligent-digital-twins
-{% embed url="https://www.youtube.com/watch?v=jCXqP2JYEwk" %}
+<!-- embeded video removed -->
 
 
 

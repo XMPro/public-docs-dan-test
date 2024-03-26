@@ -1,5 +1,5 @@
 # xmpro-overview-&-fin-fan-failure-demo
-{% embed url="https://www.youtube.com/watch?v=CKunaPTI0Io" %}
+<!-- embeded video removed -->
 
 
 

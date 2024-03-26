@@ -1,5 +1,5 @@
 # webinar---xmpro-4.3-release-showcase
-{% embed url="https://www.youtube.com/watch?v=02YTYa0ZerA" %}
+<!-- embeded video removed -->
 
 
 

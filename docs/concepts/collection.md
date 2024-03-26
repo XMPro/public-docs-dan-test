@@ -15,7 +15,7 @@ A Stream Host is an Application that can either be installed as a Windows Servic
 
 Both [Virtual and Non-Virtual](agent/virtual-vs-non-virtual-agents.md) Agents essentially run on a Stream Host, but how they are handled at design time differs greatly. Non-Virtual Agents require a Stream Host to be online for Data Stream Designer to be able to get their configurations, but Virtual Agents don’t need a Stream Host to be running.
 
-{% embed url="https://www.youtube.com/watch?v=-f2TRr-OQSY" %}
+<!-- embeded video removed -->
 
 ### Collections
 

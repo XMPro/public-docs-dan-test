@@ -1,5 +1,5 @@
 # generative-ai-and-digital-twins-in-2024---xmpro-webinar
-{% embed url="https://www.youtube.com/watch?v=zALvKH3O1H0" %}
+<!-- embeded video removed -->
 
 
 

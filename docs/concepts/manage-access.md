@@ -4,7 +4,7 @@ Managing the access of users is important as it can improve the security of XMPr
 
 Whether or not you can design a particular data stream, application, or other XMPro Objects is determined by the permissions that you have on it. The person that originally created the XMPro Object will be listed as the owner and can never lose his/her right to access it unless it is deleted. Other users can then be assigned read or read-and-write access.
 
-{% embed url="https://www.youtube.com/watch?v=T-dr8cGbNoo" %}
+<!-- embeded video removed -->
 
 ## Grant Permissions
 

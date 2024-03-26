@@ -6,7 +6,7 @@ Each Agent is designed to perform a specific function in the stream. For example
 
 Agents are needed to connect to specific systems. Since Agents are individual components, new Agents can also be added and integrated into the Data Stream to complete a specific functionality.
 
-{% embed url="https://www.youtube.com/watch?v=iEBTz6FYEHI" %}
+<!-- embeded video removed -->
 Videor Presentation Discussing Agents and Collections
 {% endembed %}
 

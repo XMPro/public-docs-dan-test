@@ -20,7 +20,7 @@ XMPro’s extensible [integration library](https://documentation.xmpro.com/resou
 
 ## Watch The Demo Video
 
-{% embed url="https://youtu.be/hi_cXYA7xsg" %}
+<!-- embeded video removed -->
 Watch the demo video to see XMPro's platform in action
 {% endembed %}
 

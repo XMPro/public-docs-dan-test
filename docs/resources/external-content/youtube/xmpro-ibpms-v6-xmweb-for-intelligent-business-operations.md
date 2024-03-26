@@ -1,5 +1,5 @@
 # xmpro-ibpms-v6-xmweb-for-intelligent-business-operations
-{% embed url="https://www.youtube.com/watch?v=T-XEEKPeJag" %}
+<!-- embeded video removed -->
 
 
 

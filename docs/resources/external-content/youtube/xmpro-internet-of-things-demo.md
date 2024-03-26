@@ -1,5 +1,5 @@
 # xmpro-internet-of-things-demo
-{% embed url="https://www.youtube.com/watch?v=s55Dg9PcfLY" %}
+<!-- embeded video removed -->
 
 
 

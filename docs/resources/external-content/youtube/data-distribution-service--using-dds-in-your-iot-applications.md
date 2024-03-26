@@ -1,5 +1,5 @@
 # data-distribution-service--using-dds-in-your-iot-applications
-{% embed url="https://www.youtube.com/watch?v=ypmEC1WyjzA" %}
+<!-- embeded video removed -->
 
 
 

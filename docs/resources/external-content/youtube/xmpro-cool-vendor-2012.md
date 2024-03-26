@@ -1,5 +1,5 @@
 # xmpro-cool-vendor-2012
-{% embed url="https://www.youtube.com/watch?v=RrQHevwath8" %}
+<!-- embeded video removed -->
 
 
 

@@ -1,5 +1,5 @@
 # part-3---how-to-manage-complex-operations-in-real-time-using-composable-digital-twins
-{% embed url="https://www.youtube.com/watch?v=AgyCd2DP3ak" %}
+<!-- embeded video removed -->
 
 
 

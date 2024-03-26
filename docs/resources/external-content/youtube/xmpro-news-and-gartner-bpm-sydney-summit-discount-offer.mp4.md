@@ -1,5 +1,5 @@
 # xmpro-news-and-gartner-bpm-sydney-summit-discount-offer.mp4
-{% embed url="https://www.youtube.com/watch?v=EMyB52sCblk" %}
+<!-- embeded video removed -->
 
 
 

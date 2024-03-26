@@ -1,5 +1,5 @@
 # xmpro-version-6---introducing-the-next-generation-bpm-for-intelligent-business-operations
-{% embed url="https://www.youtube.com/watch?v=omCdy3R5D2g" %}
+<!-- embeded video removed -->
 
 
 

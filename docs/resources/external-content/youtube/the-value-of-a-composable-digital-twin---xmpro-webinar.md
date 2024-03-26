@@ -1,5 +1,5 @@
 # the-value-of-a-composable-digital-twin---xmpro-webinar
-{% embed url="https://www.youtube.com/watch?v=zea70jJNTfA" %}
+<!-- embeded video removed -->
 
 
 

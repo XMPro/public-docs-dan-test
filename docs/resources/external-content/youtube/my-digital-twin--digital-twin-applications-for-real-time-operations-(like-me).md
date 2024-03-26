@@ -1,5 +1,5 @@
 # my-digital-twin--digital-twin-applications-for-real-time-operations-(like-me)
-{% embed url="https://www.youtube.com/watch?v=E8mDCLVZ6Uc" %}
+<!-- embeded video removed -->
 
 
 

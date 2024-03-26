@@ -1,5 +1,5 @@
 # xmpro-app-designer-overview---event-intelligence-applications
-{% embed url="https://www.youtube.com/watch?v=PaS8126ZlVE" %}
+<!-- embeded video removed -->
 
 
 

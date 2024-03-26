@@ -1,5 +1,5 @@
 # microsoft-azure-digital-twins---everything-you-need-to-know
-{% embed url="https://www.youtube.com/watch?v=bOkp7uRoNr0" %}
+<!-- embeded video removed -->
 
 
 

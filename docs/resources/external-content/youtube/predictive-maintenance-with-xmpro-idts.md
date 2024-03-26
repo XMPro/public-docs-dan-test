@@ -1,5 +1,5 @@
 # predictive-maintenance-with-xmpro-idts
-{% embed url="https://www.youtube.com/watch?v=5vzqp90uVQY" %}
+<!-- embeded video removed -->
 
 
 

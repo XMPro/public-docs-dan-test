@@ -1,5 +1,5 @@
 # digital-twin-strategy-to-execution-pyramid---xmpro-webinar
-{% embed url="https://www.youtube.com/watch?v=dZ7Mc8jo6Ts" %}
+<!-- embeded video removed -->
 
 
 

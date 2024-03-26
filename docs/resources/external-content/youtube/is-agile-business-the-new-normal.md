@@ -1,5 +1,5 @@
 # is-agile-business-the-new-normal
-{% embed url="https://www.youtube.com/watch?v=M6k2sc4PitE" %}
+<!-- embeded video removed -->
 
 
 

@@ -1,5 +1,5 @@
 # what-is-predictive-maintenance--(pdm)
-{% embed url="https://www.youtube.com/watch?v=cnwYFOuHXs0" %}
+<!-- embeded video removed -->
 
 
 

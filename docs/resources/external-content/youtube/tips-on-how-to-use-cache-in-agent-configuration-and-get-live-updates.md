@@ -1,5 +1,5 @@
 # tips-on-how-to-use-cache-in-agent-configuration-and-get-live-updates
-{% embed url="https://www.youtube.com/watch?v=s6ME9bR5n3U" %}
+<!-- embeded video removed -->
 
 
 

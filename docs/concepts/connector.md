@@ -10,7 +10,7 @@ Connectors are useful if you want to use the data within an Application or displ
 
 Data Sources can include databases, Data Streams, or Recommendations. [See the Data Integration article for more details](application/data-integration.md). You can assume that Connectors have already been set up by your Administrator.
 
-{% embed url="https://www.youtube.com/watch?v=1KbTHWZwgPI" %}
+<!-- embeded video removed -->
 
 Each Connector consists of code, [settings](connector.md#settings), and other properties that are packaged into a file that can be uploaded to App Designer.&#x20;
 

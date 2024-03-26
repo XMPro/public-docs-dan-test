@@ -1,5 +1,5 @@
 # how-to-create-intelligent-digital-twins-using-xmpro-ai
-{% embed url="https://www.youtube.com/watch?v=li_EXCTmVOQ" %}
+<!-- embeded video removed -->
 
 
 

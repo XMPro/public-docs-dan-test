@@ -1,5 +1,5 @@
 # digital-twin--your-most-productive-remote-worker---xmpro-webinar
-{% embed url="https://www.youtube.com/watch?v=TUEkwk980mM" %}
+<!-- embeded video removed -->
 
 
 

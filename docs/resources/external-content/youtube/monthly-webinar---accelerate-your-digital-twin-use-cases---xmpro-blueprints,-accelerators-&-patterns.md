@@ -1,5 +1,5 @@
 # monthly-webinar---accelerate-your-digital-twin-use-cases---xmpro-blueprints,-accelerators-&-patterns
-{% embed url="https://www.youtube.com/watch?v=mRFfYiRelg8" %}
+<!-- embeded video removed -->
 
 
 

@@ -4,7 +4,7 @@ An XMPro Application or App is an event-driven web application created using XMP
 
 Applications are accessed through the App Designer Categories dashboard or the Applications button on the left menu.
 
-{% embed url="https://www.youtube.com/watch?v=PaS8126ZlVE" %}
+<!-- embeded video removed -->
 
 ## Finding Applications
 

@@ -1,5 +1,5 @@
 # an-introduction-to-intelligent-digital-twins---webinar
-{% embed url="https://www.youtube.com/watch?v=KHjObXa-gQ4" %}
+<!-- embeded video removed -->
 
 
 

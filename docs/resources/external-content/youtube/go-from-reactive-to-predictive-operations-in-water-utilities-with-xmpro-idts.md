@@ -1,5 +1,5 @@
 # go-from-reactive-to-predictive-operations-in-water-utilities-with-xmpro-idts
-{% embed url="https://www.youtube.com/watch?v=VM7KoSXApWA" %}
+<!-- embeded video removed -->
 
 
 

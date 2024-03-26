@@ -4,7 +4,7 @@ description: v4.3.0
 
 # Configure Logging (Optional)
 
-{% embed url="https://youtu.be/N5f1_4F6g84" %}
+<!-- embeded video removed -->
 
 ## Overview
 

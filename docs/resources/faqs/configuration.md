@@ -12,7 +12,7 @@ In the video below, we demonstrate how to rotate text -90 degrees around the z-a
 
 * [Block Styling - Extra](../../concepts/application/block-styling.md#extra)
 
-{% embed url="https://www.youtube.com/watch?v=3eQHzy5nAy0" %}
+<!-- embeded video removed -->
 
 ### How do I export Grid Data from my App to Microsoft Excel?
 
@@ -22,7 +22,7 @@ In the video below, we demonstrate how to toggle on your Data Grid's export butt
 
 * [Data Grid Properties - Allow Export To Excel](../../blocks-toolbox/basic/data-grid.md#allow-export-to-excel)
 
-{% embed url="https://www.youtube.com/watch?v=KrUothBHQVg" %}
+<!-- embeded video removed -->
 
 ## Data Stream Designer
 
@@ -48,7 +48,7 @@ In the video below, we demonstrate how to view the log for a particular Stream H
 * [Stream Host Logs](../../how-tos/stream-host.md)
 * [How to check Data Stream Logs](../../how-tos/data-streams/check-data-stream-logs.md)
 
-{% embed url="https://youtu.be/_HYBmBCug2I?si=y1l5pccS44Ap5VHk" %}
+<!-- embeded video removed -->
 
 ### How are the Stream Load Metrics calculated?
 

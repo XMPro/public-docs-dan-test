@@ -4,7 +4,7 @@ A Data Stream is a visual display of data flow, letting you integrate and connec
 
 The Data Stream Designer lets you see all connected data in one place and manipulate it in different ways, such as aggregating, filtering, displaying, or saving to another database. You can monitor data to spot critical events like machine failures, without needing coding skills.
 
-{% embed url="https://www.youtube.com/watch?v=gcsBKSqA0FU" %}
+<!-- embeded video removed -->
 Video Presentation Discussing Data Stream Designer
 {% endembed %}
 

@@ -1,5 +1,5 @@
 # xmpro-real-time-event-intelligence-demo
-{% embed url="https://www.youtube.com/watch?v=hi_cXYA7xsg" %}
+<!-- embeded video removed -->
 
 
 

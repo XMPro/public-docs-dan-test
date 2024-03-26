@@ -1,5 +1,5 @@
 # xmpro-case-management-example
-{% embed url="https://www.youtube.com/watch?v=K9fB6isunAM" %}
+<!-- embeded video removed -->
 
 
 

@@ -6,7 +6,7 @@ Recommendation Alerts are advanced alerts that are triggered when a critical eve
 
 Discussions allow users to message each other about the particular event that triggered the alert. Other people who view the alert can also view those discussions to be up-to-date with any new information. Triage Instructions are instructions given to help whoever is resolving the Recommendation Alert. Custom Forms can also be shown to the user when they view an alert. Users can use the forms to enter relevant information over the course of resolving the Alert.
 
-{% embed url="https://www.youtube.com/watch?v=Rh9G1qR6X5o" %}
+<!-- embeded video removed -->
 
 In practical terms, Recommendations observe live data from a [Data Stream](../data-stream/) with a Run Recommendation Agent and evaluate the data against conditions defined in their [Rules](rule.md). If a Rule's condition is met, a [Recommendation Alert](recommendation-alert.md) is created from the Rule.
 

@@ -1,5 +1,5 @@
 # xmpro-ibpms-for-sharepoint
-{% embed url="https://www.youtube.com/watch?v=vWPLhFWhux0" %}
+<!-- embeded video removed -->
 
 
 

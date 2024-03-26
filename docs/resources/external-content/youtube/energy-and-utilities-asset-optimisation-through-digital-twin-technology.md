@@ -1,5 +1,5 @@
 # energy-and-utilities-asset-optimisation-through-digital-twin-technology
-{% embed url="https://www.youtube.com/watch?v=XwPLj-X5uwM" %}
+<!-- embeded video removed -->
 
 
 

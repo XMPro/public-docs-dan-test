@@ -1,5 +1,5 @@
 # the-roadmap-to-intelligent-digital-twins
-{% embed url="https://www.youtube.com/watch?v=A5GwGoC80to" %}
+<!-- embeded video removed -->
 
 
 

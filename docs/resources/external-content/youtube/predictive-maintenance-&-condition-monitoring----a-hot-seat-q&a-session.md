@@ -1,5 +1,5 @@
 # predictive-maintenance-&-condition-monitoring----a-hot-seat-q&a-session
-{% embed url="https://www.youtube.com/watch?v=MNWovRO1yDs" %}
+<!-- embeded video removed -->
 
 
 

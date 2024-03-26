@@ -14,7 +14,7 @@ Each XMPro Object keeps track of different versions, including:
 * Recommendations
 * Forms
 
-{% embed url="https://www.youtube.com/watch?v=3oqlQJxFaOg" %}
+<!-- embeded video removed -->
 
 Minor version increases are automatically handled by the system every time you make changes to the particular XMPro Object and save those changes. However, control over how major version increases are handled is given, to some extent, to the user as versions can easily be copied or removed.
 

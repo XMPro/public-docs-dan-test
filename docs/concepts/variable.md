@@ -4,7 +4,7 @@ Variables are placeholders used to maintain integration keys and secrets. They c
 
 They provide a central point to maintain credentials that can improve security. Engineers and other users can reference and use these credentials without knowing the actual value they contain. More secure credentials such as passwords can be encrypted to add an extra layer of security.&#x20;
 
-{% embed url="https://www.youtube.com/watch?v=-yx_YXT_1bM" %}
+<!-- embeded video removed -->
 
 Variables can be added in both the App Designer and the Data Stream Designer. The value of the Variable is only available in the environment it is created in. For example, if the Variable is created in the Data Stream Designer, both the name and value of the Variable will be available in the Data Stream Designer. However, in the App Designer, only the name will be available and the value will be left empty.&#x20;
 

@@ -1,5 +1,5 @@
 # the-top-use-cases-for-composable-digital-twins-in-renewables
-{% embed url="https://www.youtube.com/watch?v=hLRJkvwS9hI" %}
+<!-- embeded video removed -->
 
 
 

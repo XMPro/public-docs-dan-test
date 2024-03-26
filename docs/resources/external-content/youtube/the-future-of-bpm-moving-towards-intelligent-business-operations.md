@@ -1,14 +1,18 @@
 # the-future-of-bpm-moving-towards-intelligent-business-operations
-{% embed url="https://www.youtube.com/watch?v=6hvYozsr8hs" %}
+<!-- embeded video removed -->
 
 
 
-Join Pieter van Schalkwyk, MD of XMPro Pty Ltd, for this strategic insight into the future of BPM and how XMPro aligns itself to accommodate Intelligent Business Operations.
-
+Join Pieter van Schalkwyk, MD of XMPro Pty Ltd, for this strategic insight into the future of BPM and how XMPro aligns itself to accommodate Intelligent Business Operations.
+
+
+
 Pieter will...
 <details>
-<summary>Transcript</summary>Join Pieter van Schalkwyk, MD of XMPro Pty Ltd, for this strategic insight into the future of BPM and how XMPro aligns itself to accommodate Intelligent Business Operations.
-
+<summary>Transcript</summary>Join Pieter van Schalkwyk, MD of XMPro Pty Ltd, for this strategic insight into the future of BPM and how XMPro aligns itself to accommodate Intelligent Business Operations.
+
+
+
 Pieter will...
 hi and welcome to the ex-emperor future
 

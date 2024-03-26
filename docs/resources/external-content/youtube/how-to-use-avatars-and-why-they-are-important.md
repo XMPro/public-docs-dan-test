@@ -1,5 +1,5 @@
 # how-to-use-avatars-and-why-they-are-important
-{% embed url="https://www.youtube.com/watch?v=nMMZt4MDwIw" %}
+<!-- embeded video removed -->
 
 
 

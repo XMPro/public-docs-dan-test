@@ -1,5 +1,5 @@
 # xmpro---the-social-listener---why-you-should-be-listening.wmv
-{% embed url="https://www.youtube.com/watch?v=5I6WG34MbA0" %}
+<!-- embeded video removed -->
 
 
 

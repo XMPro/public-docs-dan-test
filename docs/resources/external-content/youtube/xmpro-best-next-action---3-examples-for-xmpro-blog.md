@@ -1,5 +1,5 @@
 # xmpro-best-next-action---3-examples-for-xmpro-blog
-{% embed url="https://www.youtube.com/watch?v=-KEcyUvS4AA" %}
+<!-- embeded video removed -->
 
 
 

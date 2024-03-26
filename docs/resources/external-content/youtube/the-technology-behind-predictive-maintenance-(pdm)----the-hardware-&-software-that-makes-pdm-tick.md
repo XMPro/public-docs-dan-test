@@ -1,5 +1,5 @@
 # the-technology-behind-predictive-maintenance-(pdm)----the-hardware-&-software-that-makes-pdm-tick
-{% embed url="https://www.youtube.com/watch?v=mfX9zGR49TM" %}
+<!-- embeded video removed -->
 
 
 

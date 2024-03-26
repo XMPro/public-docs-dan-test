@@ -1,5 +1,5 @@
 # what-industries-does-xmpro-serve-
-{% embed url="https://www.youtube.com/watch?v=eoh9O3-3xRM" %}
+<!-- embeded video removed -->
 
 
 

@@ -1,5 +1,5 @@
 # xmpro---the-world's-only-no-code-digital-twin-composition-platform
-{% embed url="https://www.youtube.com/watch?v=suIb-wcd06k" %}
+<!-- embeded video removed -->
 
 
 

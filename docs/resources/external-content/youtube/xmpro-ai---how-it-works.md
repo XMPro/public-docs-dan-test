@@ -1,5 +1,5 @@
 # xmpro-ai---how-it-works
-{% embed url="https://www.youtube.com/watch?v=u2y-4TMuQkw" %}
+<!-- embeded video removed -->
 
 
 

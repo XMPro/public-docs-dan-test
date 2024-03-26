@@ -1,5 +1,5 @@
 # xmpro-promo-video---dell-validated-design-for-manufacturing-edge
-{% embed url="https://www.youtube.com/watch?v=vUk_sXRaTfE" %}
+<!-- embeded video removed -->
 
 
 

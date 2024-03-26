@@ -1,6 +1,6 @@
 # What's New in 4.3
 
-{% embed url="https://www.youtube.com/watch?v=02YTYa0ZerA" %}
+<!-- embeded video removed -->
 
 ## Overview
 

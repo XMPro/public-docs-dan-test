@@ -1,5 +1,5 @@
 # interactive-3d-models-for-digital-twins---xmpro-event-intelligence-platform
-{% embed url="https://www.youtube.com/watch?v=wSxLw3CTlqo" %}
+<!-- embeded video removed -->
 
 
 

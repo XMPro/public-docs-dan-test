@@ -1,5 +1,5 @@
 # create-a-common-operating-picture-of-your-operations-with-xmpro
-{% embed url="https://www.youtube.com/watch?v=_YxP-T5xb1k" %}
+<!-- embeded video removed -->
 
 
 

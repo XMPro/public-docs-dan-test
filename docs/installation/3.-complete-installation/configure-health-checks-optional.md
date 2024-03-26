@@ -4,7 +4,7 @@ description: v4.2.3
 
 # Configure Health Checks (Optional)
 
-{% embed url="https://youtu.be/W1LWcSUrgTs" %}
+<!-- embeded video removed -->
 
 ## **Overview**
 
